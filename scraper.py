@@ -20,6 +20,7 @@ SEEN_FILE = "seen_ids.json"
 MARKET_FILE = "market_data.json"
 SEEN_DAYS = 30
 MARKET_MAX_ITEMS = 500
+NEW_LISTINGS_CAP = 20   # max new listings per run; set to None for unlimited
 SCORE_THRESHOLD = 60
 SCORE_KUPP = 80
 
@@ -234,6 +235,10 @@ def collect_new_listings(seen: dict) -> tuple[list[dict], list[str]]:
 
     new_urls = {k: v for k, v in all_urls.items() if k not in seen}
     print(f"  {len(all_urls)} unike annonser funnet, {len(new_urls)} nye")
+
+    if NEW_LISTINGS_CAP and len(new_urls) > NEW_LISTINGS_CAP:
+        new_urls = dict(list(new_urls.items())[:NEW_LISTINGS_CAP])
+        print(f"  Begrenset til {NEW_LISTINGS_CAP} per kjøring (cap aktiv)")
 
     listings = [{"id": k if k.isdigit() else "", "url": v} for k, v in new_urls.items()]
     return listings, page_texts
