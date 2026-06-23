@@ -310,10 +310,12 @@ Returner KUN gyldig JSON-array."""
             max_tokens=8000,
             messages=[{"role": "user", "content": prompt}],
         )
-        raw = msg.content[0].text.strip()
-        raw = re.sub(r"^```(?:json)?\n?", "", raw)
-        raw = re.sub(r"\n?```$", "", raw)
-        return json.loads(raw)
+        raw = msg.content[0].text
+        match = re.search(r"\[.*\]", raw, re.DOTALL)
+        if not match:
+            print(f"  Claude returnerte ingen JSON-array")
+            return []
+        return json.loads(match.group(0))
     except Exception as e:
         print(f"  Claude-feil: {e}")
         return []
