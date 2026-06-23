@@ -49,8 +49,13 @@ Kjøperprofil:
 
 Søker (i prioritert rekkefølge):
 
-VINGE: 5.5-7 m², kjente merker (Duotone, Cabrinha, F-One, North, Ozone, Naish).
+VINGE (primær — lett vind): 5.5-7 m², kjente merker (Duotone, Cabrinha, F-One, North, Ozone, Naish).
   God pris: under 8 000 kr. Kupp: under 5 000 kr. Unngå ukjente kinesiske merker.
+
+VINGE (sekundær — mer vind): 4-5 m², samme kjente merker.
+  Kjøpes som vinge nr. 2 for 9-14 m/s forhold.
+  God pris: under 5 000 kr. Kupp: under 3 000 kr.
+  Score disse litt lavere enn primær-størrelsen (maks 70) siden de er lavere prioritet.
 
 FOIL komplett (front-wing + mast + fuselage): front-wing 950-1 800 cm², mast 60-80 cm.
   Kjente merker: Duotone, Armstrong, Cabrinha, F-One, Fanatic, North, Slingshot.
