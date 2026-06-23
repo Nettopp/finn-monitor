@@ -1,1 +1,952 @@
-[]
+[
+  {
+    "id": "467505974",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F-One Rocket Wing S 70l 5'2'' Wingfoil Brett Oslo",
+    "price_kr": 7300,
+    "kategori": "brett",
+    "score": 72,
+    "specs": "70L, F-One Rocket Wing S, 5'2\"",
+    "url": "https://www.finn.no/recommerce/forsale/item/467505974"
+  },
+  {
+    "id": "467848584",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F-One Gravity FCT 2200 komplett med 85cm mast Oslo",
+    "price_kr": 8000,
+    "kategori": "foil",
+    "score": 65,
+    "specs": "F-One Gravity FCT 2200, 85cm mast (over ønsket maks 80cm)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467848584"
+  },
+  {
+    "id": "264372090",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "SOMMERFERIEkupp - Wingfoil Air komplett pakke Hyggen",
+    "price_kr": 19000,
+    "kategori": "komplett",
+    "score": 35,
+    "specs": "Komplett pakke, ukjent merke (Vibrant Surf)",
+    "url": "https://www.finn.no/recommerce/forsale/item/264372090"
+  },
+  {
+    "id": "467819541",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "RRD Beluga ltd y30 92 liter. Haramsøy",
+    "price_kr": 10500,
+    "kategori": "brett",
+    "score": 30,
+    "specs": "92L RRD (ukjent merke), fri frakt",
+    "url": "https://www.finn.no/recommerce/forsale/item/467819541"
+  },
+  {
+    "id": "467811108",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F-One nybegynner brett m 2 foiler (Rocket wing ASC, FCT Gavity & Phantom) + bag Nesøya",
+    "price_kr": 19500,
+    "kategori": "komplett",
+    "score": 45,
+    "specs": "F-One brett + 2 foiler (Rocket ASC, FCT Gravity, Phantom) + bag",
+    "url": "https://www.finn.no/recommerce/forsale/item/467811108"
+  },
+  {
+    "id": "467807753",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Boardbags og seilbag windsurf/wingfoil Vettre",
+    "price_kr": 1000,
+    "kategori": "annet",
+    "score": 15,
+    "specs": "Boardbags og seilbag",
+    "url": "https://www.finn.no/recommerce/forsale/item/467807753"
+  },
+  {
+    "id": "467807033",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "North wingfoil mast Kolbjørnsvik",
+    "price_kr": 4000,
+    "kategori": "foil",
+    "score": 55,
+    "specs": "North wingfoil mast (størrelse ikke angitt)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467807033"
+  },
+  {
+    "id": "467804222",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Severne hyperglide GO og G5 10.0 Vettre",
+    "price_kr": 2500,
+    "kategori": "annet",
+    "score": 20,
+    "specs": "Severne hyperglide GO og G5 10.0 (windsurfing seil, ikke wingfoil)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467804222"
+  },
+  {
+    "id": "467801922",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Indiana foilbrett 74L Vettre",
+    "price_kr": 6500,
+    "kategori": "brett",
+    "score": 40,
+    "specs": "Indiana foilbrett 74L (Indiana ukjent merke)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467801922"
+  },
+  {
+    "id": "467799703",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Duotone Skybrid 5,4 55L 2025 Vettre",
+    "price_kr": 13000,
+    "kategori": "brett",
+    "score": 50,
+    "specs": "Duotone Skybrid 5.4, 55L, 2025-modell",
+    "url": "https://www.finn.no/recommerce/forsale/item/467799703"
+  },
+  {
+    "id": "467789322",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Duotoone Wing Team Bag – Reisebag for Wing Foil Oslo",
+    "price_kr": 2100,
+    "kategori": "annet",
+    "score": 10,
+    "specs": "Duotone reisebag",
+    "url": "https://www.finn.no/recommerce/forsale/item/467789322"
+  },
+  {
+    "id": "467776916",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Axis Froth v2 5.2 95l Carbon - Wingfoilbrett Hafrsfjord",
+    "price_kr": 6900,
+    "kategori": "brett",
+    "score": 35,
+    "specs": "Axis Froth v2 5.2, 95L carbon (Axis ukjent merke)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467776916"
+  },
+  {
+    "id": "467781922",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Komplett F-One Gravity FCT foil. Oslo",
+    "price_kr": 5000,
+    "kategori": "foil",
+    "score": 88,
+    "specs": "F-One Gravity FCT komplett foil-system",
+    "url": "https://www.finn.no/recommerce/forsale/item/467781922"
+  },
+  {
+    "id": "467754705",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Slingshot Slingwing v3 4.5m2 Stavanger",
+    "price_kr": 4500,
+    "kategori": "vinge",
+    "score": 55,
+    "specs": "Slingshot Slingwing v3, 4.5m² (under ønsket 5.5-7m²)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467754705"
+  },
+  {
+    "id": "467747184",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Foil system for wingfoil og kite Fredrikstad",
+    "price_kr": 7000,
+    "kategori": "foil",
+    "score": 60,
+    "specs": "Foil-system for wingfoil og kite (merke og detaljer ukjent)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467747184"
+  },
+  {
+    "id": "467742887",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F-one rocket wing S Nesttun",
+    "price_kr": 4990,
+    "kategori": "vinge",
+    "score": 62,
+    "specs": "F-One Rocket Wing S (størrelse ikke angitt, antagelig mindre enn 5.5m²)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467742887"
+  },
+  {
+    "id": "467741652",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Shinn Resurector 3.0 vinge Oslo",
+    "price_kr": 1500,
+    "kategori": "vinge",
+    "score": 25,
+    "specs": "Shinn Resurector 3.0 (Shinn ukjent merke, 3.0m² for liten)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467741652"
+  },
+  {
+    "id": "467741154",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F-One CWC V4 (2024) ALULA 8 kvm svart/oransje Oslo",
+    "price_kr": 12000,
+    "kategori": "vinge",
+    "score": 68,
+    "specs": "F-One CWC V4 ALULA, 8m² (over ønsket 5.5-7m²)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467741154"
+  },
+  {
+    "id": "467720397",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Wingfoiling komplett Fredrikstad",
+    "price_kr": 12000,
+    "kategori": "komplett",
+    "score": 70,
+    "specs": "Komplett wingfoil-sett (komponenter ikke spesifisert)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467720397"
+  },
+  {
+    "id": "264372338",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "VIBRANT SURF - Wingfoil Carbon Pro pakke komplett Hyggen",
+    "price_kr": 22000,
+    "kategori": "komplett",
+    "score": 20,
+    "specs": "Vibrant Surf Carbon Pro komplett pakke (ukjent merke)",
+    "url": "https://www.finn.no/recommerce/forsale/item/264372338"
+  },
+  {
+    "id": "467480434",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Wingfoil komplett pakke Halden",
+    "price_kr": 23000,
+    "kategori": "komplett",
+    "score": 15,
+    "specs": "Komplett wingfoil-pakke (detaljer ukjent)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467480434"
+  },
+  {
+    "id": "467686295",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Bag for wing foil brett Oslo",
+    "price_kr": 500,
+    "kategori": "annet",
+    "score": 5,
+    "specs": "Bretveske",
+    "url": "https://www.finn.no/recommerce/forsale/item/467686295"
+  },
+  {
+    "id": "467677584",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Fanatic foilbrett med NSP Airwing seil Frei",
+    "price_kr": 15000,
+    "kategori": "komplett",
+    "score": 45,
+    "specs": "Fanatic foilbrett + NSP Airwing seil (komplett, men NSP ikke kjent merke)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467677584"
+  },
+  {
+    "id": "467655484",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Perfekt brett for en liten junior, Fanatic Sky Wing 4'7\" wingfoil-brett 45L Fornebu",
+    "price_kr": 4500,
+    "kategori": "brett",
+    "score": 35,
+    "specs": "Fanatic Sky Wing, 45L, 4'7\" (for liten for 88kg voksen)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467655484"
+  },
+  {
+    "id": "467654798",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Ozone Fly V1 wingfoil-seil 6 m turkis Høvåg",
+    "price_kr": 5500,
+    "kategori": "vinge",
+    "score": 78,
+    "specs": "Ozone Fly V1, 6m² (turkis)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467654798"
+  },
+  {
+    "id": "467479090",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Axis V2",
+    "price_kr": 4500,
+    "kategori": "foil",
+    "score": 45,
+    "specs": "Axis V2 front-wing, størrelse og mast uklar fra tekst",
+    "url": "https://www.finn.no/recommerce/forsale/item/467479090"
+  },
+  {
+    "id": "467642052",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Ozone Pocket Rocket 4.3 og 3.0 parawing",
+    "price_kr": 4500,
+    "kategori": "annet",
+    "score": 35,
+    "specs": "Ozone Pocket Rocket 4.3 m³ og 3.0 m³ parawing – ikke wingfoil-vinger",
+    "url": "https://www.finn.no/recommerce/forsale/item/467642052"
+  },
+  {
+    "id": "460877668",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F-One SK8 Carbon Foil 650 med Carwing HM 141 bakvinge",
+    "price_kr": 4900,
+    "kategori": "foil",
+    "score": 72,
+    "specs": "F-One SK8 Carbon, 650 cm² front-wing, Carwing HM 141 bakvinge, mast uklar",
+    "url": "https://www.finn.no/recommerce/forsale/item/460877668"
+  },
+  {
+    "id": "429579605",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F-one Wingfoil begynnerpakke med to sett foiler",
+    "price_kr": 16900,
+    "kategori": "komplett",
+    "score": 68,
+    "specs": "F-One komplett begynnerpakke med to foil-sett (detaljer uklar fra tekst)",
+    "url": "https://www.finn.no/recommerce/forsale/item/429579605"
+  },
+  {
+    "id": "460705700",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "EFoil Lift 4 (5\"4) Toppmodell!",
+    "price_kr": 128000,
+    "kategori": "annet",
+    "score": 0,
+    "specs": "EFoil Lift 4 – elektrisk foilbrett, ikke tradisjonell wingfoil",
+    "url": "https://www.finn.no/recommerce/forsale/item/460705700"
+  },
+  {
+    "id": "467577289",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F4 Foils Emona 65 foilbrett hvit/svart",
+    "price_kr": 6000,
+    "kategori": "brett",
+    "score": 35,
+    "specs": "F4 Foils Emona 65L foilbrett – ukjent merke (F4 Foils ikke på prioriteringslisten)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467577289"
+  },
+  {
+    "id": "467566301",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Nybegynner brett",
+    "price_kr": 5000,
+    "kategori": "brett",
+    "score": 25,
+    "specs": "Nybegynner brett – merke, volum og dimensjoner helt uoppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/467566301"
+  },
+  {
+    "id": "467561059",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Ensis Score 6.9 wingfoil-vinge oransje/grå",
+    "price_kr": 4500,
+    "kategori": "vinge",
+    "score": 35,
+    "specs": "Ensis Score 6.9 m² wingfoil-vinge – ukjent merke (Ensis)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467561059"
+  },
+  {
+    "id": "460516898",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Finne med US foiladapter",
+    "price_kr": 750,
+    "kategori": "annet",
+    "score": 10,
+    "specs": "US foiladapter med finne – enkelt tilbehør",
+    "url": "https://www.finn.no/recommerce/forsale/item/460516898"
+  },
+  {
+    "id": "459405789",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Axis 1800 cm2 frontvinge",
+    "price_kr": 2500,
+    "kategori": "foil",
+    "score": 75,
+    "specs": "Axis 1800 cm² front-wing – størrelse på grensen av ønskelig område (950-1800 cm²)",
+    "url": "https://www.finn.no/recommerce/forsale/item/459405789"
+  },
+  {
+    "id": "460721631",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F One Frigate 3.5m",
+    "price_kr": 7000,
+    "kategori": "vinge",
+    "score": 72,
+    "specs": "F-One Frigate 3.5 m² wingfoil-vinge",
+    "url": "https://www.finn.no/recommerce/forsale/item/460721631"
+  },
+  {
+    "id": "467538471",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Gong HiPE 48L foilbrett blå/gul",
+    "price_kr": 2000,
+    "kategori": "brett",
+    "score": 20,
+    "specs": "Gong HiPE 48L foilbrett – ukjent merke, svært lite volum",
+    "url": "https://www.finn.no/recommerce/forsale/item/467538471"
+  },
+  {
+    "id": "467504806",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F-one Eagle X 900 front vinge",
+    "price_kr": 6300,
+    "kategori": "foil",
+    "score": 72,
+    "specs": "F-One Eagle X 900 cm² front-wing",
+    "url": "https://www.finn.no/recommerce/forsale/item/467504806"
+  },
+  {
+    "id": "467499780",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F-One Strike v3 4.5 m",
+    "price_kr": 3900,
+    "kategori": "vinge",
+    "score": 65,
+    "specs": "F-One Strike v3 4.5 m² wingfoil-vinge",
+    "url": "https://www.finn.no/recommerce/forsale/item/467499780"
+  },
+  {
+    "id": "467465606",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Gong Ypra frontvinger",
+    "price_kr": 1000,
+    "kategori": "foil",
+    "score": 35,
+    "specs": "Gong Ypra front-wing – ukjent merke, størrelse uoppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/467465606"
+  },
+  {
+    "id": "467463370",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F-One Rocket Crossover 83 liter - nytt (testet på vannet 1 gang)",
+    "price_kr": 12500,
+    "kategori": "brett",
+    "score": 68,
+    "specs": "F-One Rocket Crossover 83L foilbrett – praktisk talt nytt",
+    "url": "https://www.finn.no/recommerce/forsale/item/467463370"
+  },
+  {
+    "id": "467464634",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Gong stabs",
+    "price_kr": 500,
+    "kategori": "annet",
+    "score": 5,
+    "specs": "Gong stabiliser-finne – tilbehør",
+    "url": "https://www.finn.no/recommerce/forsale/item/467464634"
+  },
+  {
+    "id": "467243565",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Brukt en helg - Appletree Appleslice v.3 80 L. Fantastisk lekent & responsivt.",
+    "price_kr": 17999,
+    "kategori": "brett",
+    "score": 15,
+    "specs": "Appletree Appleslice v3 80L – ukjent merke, veldig lite brukt",
+    "url": "https://www.finn.no/recommerce/forsale/item/467243565"
+  },
+  {
+    "id": "454601555",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Mystic vannsporthjelm XS/S",
+    "price_kr": 550,
+    "kategori": "annet",
+    "score": 5,
+    "specs": "Mystic vannsporthjelm – sikkerhetstilbehør",
+    "url": "https://www.finn.no/recommerce/forsale/item/454601555"
+  },
+  {
+    "id": "467453025",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F-One Phantom-S 740 carbon frontvinge til foil",
+    "price_kr": 3000,
+    "kategori": "foil",
+    "score": 72,
+    "specs": "F-One Phantom-S 740 cm² carbon front-wing",
+    "url": "https://www.finn.no/recommerce/forsale/item/467453025"
+  },
+  {
+    "id": "467452404",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F one 14mm mast 80cm",
+    "price_kr": 9500,
+    "kategori": "foil",
+    "score": 55,
+    "specs": "F-One mast 14 mm, 80 cm – kun en del av foil-sett",
+    "url": "https://www.finn.no/recommerce/forsale/item/467452404"
+  },
+  {
+    "id": "432006966",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Brukt en gang. Wingfoil brett Cabrinha Code 98l",
+    "price_kr": 5500,
+    "kategori": "brett",
+    "score": 70,
+    "specs": "Cabrinha Code 98L foilbrett – praktisk som ny",
+    "url": "https://www.finn.no/recommerce/forsale/item/432006966"
+  },
+  {
+    "id": "467430323",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Duotone Slick sls 4.0 wing foil seil",
+    "price_kr": 4500,
+    "kategori": "vinge",
+    "score": 65,
+    "specs": "Duotone Slick SLS 4.0 m² wingfoil-vinge",
+    "url": "https://www.finn.no/recommerce/forsale/item/467430323"
+  },
+  {
+    "id": "467423961",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F-One lettvind vinge 8kvm STRIKE V.3 CWC",
+    "price_kr": 5900,
+    "kategori": "vinge",
+    "score": 78,
+    "specs": "F-One Strike v3 8 m² wingfoil-vinge – lettvind",
+    "url": "https://www.finn.no/recommerce/forsale/item/467423961"
+  },
+  {
+    "id": "360217087",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "VIBRANT SURF DW Air Pro Wingfoil pakke",
+    "price_kr": 20000,
+    "kategori": "komplett",
+    "score": 45,
+    "specs": "Komplett pakke, ukjent merke (Vibrant Surf)",
+    "url": "https://www.finn.no/recommerce/forsale/item/360217087"
+  },
+  {
+    "id": "467378298",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Dutone Ventis DLAB 8 kvm",
+    "price_kr": 21000,
+    "kategori": "vinge",
+    "score": 35,
+    "specs": "8 m² vinge, Duotone (kjent merke)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467378298"
+  },
+  {
+    "id": "467364554",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Drift stopper duotone og ekstra finne sup brett for og lære kjøre vinge",
+    "price_kr": 3999,
+    "kategori": "brett",
+    "score": 75,
+    "specs": "Duotone-brett (drift stopper), SUP-brett, egnet for læring",
+    "url": "https://www.finn.no/recommerce/forsale/item/467364554"
+  },
+  {
+    "id": "273400420",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Diverse dekaler til byggesett(fly)",
+    "price_kr": 100,
+    "kategori": "annet",
+    "score": 0,
+    "specs": "Dekaler, ikke wingfoil-utstyr",
+    "url": "https://www.finn.no/recommerce/forsale/item/273400420"
+  },
+  {
+    "id": "417196194",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Akora TCG Spellbound Wings 1st Edition Booster Box Fabrikkforseglet",
+    "price_kr": 1500,
+    "kategori": "annet",
+    "score": 0,
+    "specs": "Trading card game, ikke wingfoil",
+    "url": "https://www.finn.no/recommerce/forsale/item/417196194"
+  },
+  {
+    "id": "434863443",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Blood Bound av Ellis Hunter, Illumicrate",
+    "price_kr": 1000,
+    "kategori": "annet",
+    "score": 0,
+    "specs": "Bok, ikke wingfoil",
+    "url": "https://www.finn.no/recommerce/forsale/item/434863443"
+  },
+  {
+    "id": "467414687",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Wing foil-sett",
+    "price_kr": 17500,
+    "kategori": "komplett",
+    "score": 30,
+    "specs": "Komplett wingfoil-sett, merke ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/467414687"
+  },
+  {
+    "id": "467262849",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "KUPP: Komplett Naish Wingfoil-Pakke (2026) +/- Spar 9.000,-!",
+    "price_kr": 25999,
+    "kategori": "komplett",
+    "score": 20,
+    "specs": "Naish komplett pakke (2026), fra forhandler Addicted AS",
+    "url": "https://www.finn.no/recommerce/forsale/item/467262849"
+  },
+  {
+    "id": "467225884",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Wingfoil vinge 4m",
+    "price_kr": 3000,
+    "kategori": "vinge",
+    "score": 45,
+    "specs": "Vinge 4 m² — under ønsket størrelse (5.5-7 m²)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467225884"
+  },
+  {
+    "id": "467166799",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F-one Strike 5,5 m²",
+    "price_kr": 4500,
+    "kategori": "vinge",
+    "score": 85,
+    "specs": "F-One Strike 5.5 m², kjent merke, perfekt størrelse",
+    "url": "https://www.finn.no/recommerce/forsale/item/467166799"
+  },
+  {
+    "id": "467158226",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F-One Frigate parawing 4.0 m testvinner",
+    "price_kr": 6500,
+    "kategori": "vinge",
+    "score": 50,
+    "specs": "F-One Frigate 4.0 m² parawing, kjent merke",
+    "url": "https://www.finn.no/recommerce/forsale/item/467158226"
+  },
+  {
+    "id": "467144558",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Axis ART V2 999 frontvinge - ny pris!",
+    "price_kr": 5000,
+    "kategori": "foil",
+    "score": 72,
+    "specs": "Axis ART V2 999 cm² front-wing, kjent merke (Axis/Armstrong-relatert)",
+    "url": "https://www.finn.no/recommerce/forsale/item/467144558"
+  },
+  {
+    "id": "467065042",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Komplett Kitefoilpakke CrazyFly Cruz – Lite brukt",
+    "price_kr": 6900,
+    "kategori": "komplett",
+    "score": 15,
+    "specs": "CrazyFly kitefoil-pakke, ikke wingfoil",
+    "url": "https://www.finn.no/recommerce/forsale/item/467065042"
+  },
+  {
+    "id": "466885550",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "700+ Pokemon TCG vintage, EXs, Vs, exs, holos, ultra rares, etc.",
+    "price_kr": 100,
+    "kategori": "annet",
+    "score": 0,
+    "specs": "Pokemon trading cards, ikke wingfoil",
+    "url": "https://www.finn.no/recommerce/forsale/item/466885550"
+  },
+  {
+    "id": "425769848",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Cabrinha Cab Fusion Kite/Surf/Wing foil sett selges - skammelig lite brukt",
+    "price_kr": 8000,
+    "kategori": "komplett",
+    "score": 60,
+    "specs": "Cabrinha Cab Fusion komplett sett (kite/surf/wing foil), lite brukt",
+    "url": "https://www.finn.no/recommerce/forsale/item/425769848"
+  },
+  {
+    "id": "466861114",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Kaido Foil-One Piece The Best Premium Booster(OP04-044) (SR)",
+    "price_kr": 45,
+    "kategori": "annet",
+    "score": 0,
+    "specs": "One Piece trading card, ikke wingfoil",
+    "url": "https://www.finn.no/recommerce/forsale/item/466861114"
+  },
+  {
+    "id": "466828516",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Komplett wingfoil/downwind pakke",
+    "price_kr": 40000,
+    "kategori": "komplett",
+    "score": 15,
+    "specs": "Komplett wingfoil/downwind-pakke, spesialisert",
+    "url": "https://www.finn.no/recommerce/forsale/item/466828516"
+  },
+  {
+    "id": "466812088",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Duotone Float 5m 2025 med bom",
+    "price_kr": 7490,
+    "kategori": "vinge",
+    "score": 45,
+    "specs": "Duotone Float 5 m² 2025 med bom, kjent merke",
+    "url": "https://www.finn.no/recommerce/forsale/item/466812088"
+  },
+  {
+    "id": "466765752",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "One Piece TCG: Team Bags med 20 Rares / Foils – Selges samlet eller per stk",
+    "price_kr": 100,
+    "kategori": "annet",
+    "score": 0,
+    "specs": "One Piece trading cards, ikke wingfoil",
+    "url": "https://www.finn.no/recommerce/forsale/item/466765752"
+  },
+  {
+    "id": "466759880",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "DON !! Card (Yamato) Foil PRB01 Premium Booster ONE PIECE",
+    "price_kr": 80,
+    "kategori": "annet",
+    "score": 0,
+    "specs": "One Piece trading card, ikke wingfoil",
+    "url": "https://www.finn.no/recommerce/forsale/item/466759880"
+  },
+  {
+    "id": "466756679",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "DON !! Card [Foil] (Edward Newgate) ONE PIECE Card The Best PRB-01",
+    "price_kr": 25,
+    "kategori": "annet",
+    "score": 0,
+    "specs": "One Piece trading card, ikke wingfoil",
+    "url": "https://www.finn.no/recommerce/forsale/item/466756679"
+  },
+  {
+    "id": "466745871",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "DON Card Monkey D Luffy (Gear 4) PRB-02 [Foil] THE BEST vol2 One Piece",
+    "price_kr": 35,
+    "kategori": "annet",
+    "score": 0,
+    "specs": "One Piece trading card, ikke wingfoil",
+    "url": "https://www.finn.no/recommerce/forsale/item/466745871"
+  },
+  {
+    "id": "466600580",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Komplett wingfoilsett fra Slingshot",
+    "price_kr": 16000,
+    "kategori": "komplett",
+    "score": 78,
+    "specs": "Slingshot komplett wingfoil-sett, kjent merke",
+    "url": "https://www.finn.no/recommerce/forsale/item/466600580"
+  },
+  {
+    "id": "459469057",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Strøkent North Swell 65L (2025)",
+    "price_kr": 8000,
+    "kategori": "brett",
+    "score": 35,
+    "specs": "North Swell 65L, 2025-modell, nypris 17 000 kr",
+    "url": "https://www.finn.no/recommerce/forsale/item/459469057"
+  },
+  {
+    "id": "458320924",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Komplett Wingfoil sett",
+    "price_kr": 18500,
+    "kategori": "komplett",
+    "score": 45,
+    "specs": "Komplett kit med vinge, foil og brett – detaljer ikke spesifisert",
+    "url": "https://www.finn.no/recommerce/forsale/item/458320924"
+  },
+  {
+    "id": "465721573",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Wing Foil Axis HPS 830 Frontvinge",
+    "price_kr": 1234,
+    "kategori": "foil",
+    "score": 72,
+    "specs": "Axis HPS 830 frontvinge (830 cm²), kjent merke",
+    "url": "https://www.finn.no/recommerce/forsale/item/465721573"
+  },
+  {
+    "id": "423187416",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Foil brett komplett med foil - Race foil",
+    "price_kr": 9000,
+    "kategori": "foil",
+    "score": 30,
+    "specs": "Komplett foil + brett (Race foil), merke ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/423187416"
+  },
+  {
+    "id": "449962944",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Diverse Lego selges - Mange sjeldne sett, deler og minifigurer",
+    "price_kr": 1234,
+    "kategori": "annet",
+    "score": 0,
+    "specs": "Lego-sett og deler",
+    "url": "https://www.finn.no/recommerce/forsale/item/449962944"
+  },
+  {
+    "id": "466286103",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F-One IC6 950 komplett kitefoil-pakke med board og bag",
+    "price_kr": 7400,
+    "kategori": "foil",
+    "score": 85,
+    "specs": "F-One IC6 950 cm² komplett foil-pakke med brett og bag, kjent merke",
+    "url": "https://www.finn.no/recommerce/forsale/item/466286103"
+  },
+  {
+    "id": "466201770",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Sabfoil/Moses W633 S483 foil til kite/wing",
+    "price_kr": 9000,
+    "kategori": "foil",
+    "score": 55,
+    "specs": "Sabfoil/Moses W633 S483 foil, kjent merke, økt størrelse (~633 cm²)",
+    "url": "https://www.finn.no/recommerce/forsale/item/466201770"
+  },
+  {
+    "id": "463332369",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "WINDSURFING LAGERTØMMING: Opptil 70% Rabatt! (Naish, Tabou, Gaastra)",
+    "price_kr": 2900,
+    "kategori": "annet",
+    "score": 35,
+    "specs": "Windsurfing-utstyr (Naish, Tabou, Gaastra), lagertømming",
+    "url": "https://www.finn.no/recommerce/forsale/item/463332369"
+  },
+  {
+    "id": "465734423",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Foil Drive Max Sport + High Power + Integrated Mast",
+    "price_kr": 49500,
+    "kategori": "foil",
+    "score": 5,
+    "specs": "Foil Drive Max Sport med mast, elektronisk-assistert foil, fri frakt",
+    "url": "https://www.finn.no/recommerce/forsale/item/465734423"
+  },
+  {
+    "id": "423566493",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Sab Foil 799 Balz PRO frontvinge",
+    "price_kr": 1800,
+    "kategori": "foil",
+    "score": 75,
+    "specs": "Sabfoil 799 Balz PRO frontvinge (~799 cm²), kjent merke, frakt tilgjengelig",
+    "url": "https://www.finn.no/recommerce/forsale/item/423566493"
+  },
+  {
+    "id": "456530587",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Ny F-One Strike V3 5.0m selges",
+    "price_kr": 5900,
+    "kategori": "vinge",
+    "score": 88,
+    "specs": "F-One Strike V3 5.0 m², kjent merke, ny tilstand, frakt tilgjengelig",
+    "url": "https://www.finn.no/recommerce/forsale/item/456530587"
+  },
+  {
+    "id": "424879821",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "«Premium» Wingfoil nybegynner pakke - Duotone(Fanatic)Sky Free med Axis foil",
+    "price_kr": 19500,
+    "kategori": "komplett",
+    "score": 25,
+    "specs": "Duotone Sky Free brett + Axis foil, komplett nybegynner-pakke",
+    "url": "https://www.finn.no/recommerce/forsale/item/424879821"
+  },
+  {
+    "id": "433154502",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Wingfoil Cloud IX komplett fs1150",
+    "price_kr": 10200,
+    "kategori": "foil",
+    "score": 65,
+    "specs": "Cloud IX foil komplett (fs1150, ~1150 cm²), frakt tilgjengelig",
+    "url": "https://www.finn.no/recommerce/forsale/item/433154502"
+  },
+  {
+    "id": "316465197",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Wingfoil - TIL LEIE",
+    "price_kr": 1200,
+    "kategori": "annet",
+    "score": 0,
+    "specs": "Wingfoil-utstyr til leie",
+    "url": "https://www.finn.no/recommerce/forsale/item/316465197"
+  },
+  {
+    "id": "465057983",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Ozone Liteforce 6.6 2025 modell m/håndtak",
+    "price_kr": 6000,
+    "kategori": "vinge",
+    "score": 82,
+    "specs": "Ozone Liteforce 6.6 m² 2025-modell med håndtak, kjent merke, frakt tilgjengelig",
+    "url": "https://www.finn.no/recommerce/forsale/item/465057983"
+  },
+  {
+    "id": "465025446",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Slingshot Slingwing V3 4.0 m",
+    "price_kr": 3000,
+    "kategori": "vinge",
+    "score": 65,
+    "specs": "Slingshot Slingwing V3 4.0 m², kjent merke, frakt tilgjengelig",
+    "url": "https://www.finn.no/recommerce/forsale/item/465025446"
+  },
+  {
+    "id": "464996298",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "North Sonar SF530 Frontvinge – Som ny",
+    "price_kr": 5000,
+    "kategori": "foil",
+    "score": 78,
+    "specs": "North Sonar SF530 frontvinge (~530 cm²), kjent merke, som ny, frakt tilgjengelig",
+    "url": "https://www.finn.no/recommerce/forsale/item/464996298"
+  },
+  {
+    "id": "464952429",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "Indiana Wing Foil 149L oppblåsbar",
+    "price_kr": 4900,
+    "kategori": "brett",
+    "score": 40,
+    "specs": "Indiana 149L oppblåsbar wingfoil-brett, merke ukjent, frakt tilgjengelig",
+    "url": "https://www.finn.no/recommerce/forsale/item/464952429"
+  },
+  {
+    "id": "464880187",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "GONG Hipe pro 5'8 wingfoilbrett 140L",
+    "price_kr": 5000,
+    "kategori": "brett",
+    "score": 40,
+    "specs": "GONG Hipe Pro 5'8 140L wingfoil-brett, merke ukjent, frakt tilgjengelig",
+    "url": "https://www.finn.no/recommerce/forsale/item/464880187"
+  },
+  {
+    "id": "464806556",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "SiFLY Rider Efoil",
+    "price_kr": 69990,
+    "kategori": "annet",
+    "score": 0,
+    "specs": "SiFLY Rider elektronisk efoil, motorisert",
+    "url": "https://www.finn.no/recommerce/forsale/item/464806556"
+  },
+  {
+    "id": "452832832",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "North Nova light wind wing 8m",
+    "price_kr": 5700,
+    "kategori": "vinge",
+    "score": 35,
+    "specs": "North Nova light wind 8 m², kjent merke, frakt tilgjengelig",
+    "url": "https://www.finn.no/recommerce/forsale/item/452832832"
+  },
+  {
+    "id": "467329456",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "SABFOIL CP02K - KRAKEN PLATE",
+    "price_kr": 1700,
+    "kategori": "foil",
+    "score": 40,
+    "specs": "Sabfoil CP02K fuselage-plate (Kraken), kjent merke, frakt tilgjengelig",
+    "url": "https://www.finn.no/recommerce/forsale/item/467329456"
+  },
+  {
+    "id": "467278208",
+    "date": "2026-06-23T10:21:57.833804",
+    "title": "F-ONE eller AXIS karbon mast 75-80cm",
+    "price_kr": 6000,
+    "kategori": "foil",
+    "score": 70,
+    "specs": "F-One eller Axis karbon mast 75-80 cm, kjent merke, oppgitt størrelse passer",
+    "url": "https://www.finn.no/recommerce/forsale/item/467278208"
+  }
+]
