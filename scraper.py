@@ -20,7 +20,8 @@ SEEN_FILE = "seen_ids.json"
 MARKET_FILE = "market_data.json"
 SEEN_DAYS = 30
 MARKET_MAX_ITEMS = 500
-NEW_LISTINGS_CAP = 20   # max new listings per run; set to None for unlimited
+NEW_LISTINGS_CAP = 100  # max new listings per run; set to None for unlimited
+EVAL_BATCH_SIZE = 25    # listings per Claude call
 SCORE_THRESHOLD = 60
 SCORE_KUPP = 80
 
@@ -251,34 +252,27 @@ def collect_new_listings(seen: dict) -> tuple[list[dict], list[str]]:
 # Claude evaluation
 # ---------------------------------------------------------------------------
 
-def evaluate_listings(listings: list[dict], page_texts: list[str], market_summary: str) -> list[dict]:
-    if not listings:
-        return []
-
+def evaluate_batch(listings: list[dict], pages_block: str, market_summary: str) -> list[dict]:
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
-
     market_section = f"\n{market_summary}\n" if market_summary else ""
-    urls_block = "\n".join(l["url"] for l in listings[:40])
-    pages_block = "\n\n---\n\n".join(page_texts)[:6000]
+    urls_block = "\n".join(l["url"] for l in listings)
 
     prompt = f"""{BUYER_PROFILE}
 {market_section}
-Følgende annonser ble funnet på Finn.no (lagrede søk for wingfoil-utstyr):
+Følgende annonser ble funnet på Finn.no:
 
 Lenker til nye annonser:
 {urls_block}
 
-Søkeresultatsider (for kontekst — tittel, pris, sted er synlig her):
+Søkeresultatsider (tittel, pris, sted er synlig her):
 {pages_block}
 
-Oppgave:
-Evaluer HVER av annonsene i lenkelisten mot kjøperprofilen.
-Bruk søkesidene for å finne informasjon om tittel, pris og sted.
+Evaluer HVER annonse i lenkelisten mot kjøperprofilen.
 Bruk markedsdataene for prisvurdering.
 
 Returner et JSON-array. Hvert objekt:
 {{
-  "id": "finn-id (tall fra finnkode= i URL, eller '' hvis ikke funnet)",
+  "id": "tall fra /item/ID i URL",
   "title": "tittel",
   "price": "pris som vist",
   "price_kr": 0,
@@ -287,23 +281,18 @@ Returner et JSON-array. Hvert objekt:
   "score": 0-100,
   "kategori": "vinge|foil|brett|komplett|annet",
   "kupp": true|false,
-  "specs": "nøkkelspesifikasjoner, f.eks. '6m, 2022, god stand'",
-  "sammendrag": "1-2 setninger — utstyr og prisvurdering vs. markedssnitt",
+  "specs": "nøkkelspesifikasjoner",
+  "sammendrag": "1-2 setninger — utstyr og prisvurdering",
   "advarsel": "evt. bekymring eller ''",
   "shipping": false,
   "distance_ok": true
 }}
 
-price_kr: pris som heltall i kroner. 0 hvis ikke oppgitt.
+price_kr: heltall i kroner, 0 hvis ikke oppgitt.
 shipping: true hvis annonsen nevner frakt/sending/levering.
-distance_ok: true hvis sted er innenfor 1,5 t fra Oslo, ELLER shipping er true.
-
-Score:
-- 80-100: Kupp
-- 60-79: Interessant
-- 40-59: Marginal
-- Under 40: Ikke relevant
-- Hvis distance_ok er false: trekk 25 poeng fra og nevn i advarsel
+distance_ok: true hvis sted er innenfor 1,5 t fra Oslo ELLER shipping er true.
+Score: 80-100 kupp, 60-79 interessant, under 60 marginal/ikke relevant.
+Hvis distance_ok false: trekk 25 poeng og nevn i advarsel.
 
 Returner KUN gyldig JSON-array."""
 
@@ -316,12 +305,30 @@ Returner KUN gyldig JSON-array."""
         raw = msg.content[0].text
         match = re.search(r"\[.*\]", raw, re.DOTALL)
         if not match:
-            print(f"  Claude returnerte ingen JSON-array")
+            print(f"    Ingen JSON-array i svar")
             return []
         return json.loads(match.group(0))
     except Exception as e:
-        print(f"  Claude-feil: {e}")
+        print(f"    Claude-feil: {e}")
         return []
+
+
+def evaluate_listings(listings: list[dict], page_texts: list[str], market_summary: str) -> list[dict]:
+    if not listings:
+        return []
+
+    pages_block = "\n\n---\n\n".join(page_texts)[:6000]
+    results = []
+
+    for i in range(0, len(listings), EVAL_BATCH_SIZE):
+        batch = listings[i:i + EVAL_BATCH_SIZE]
+        print(f"  Batch {i // EVAL_BATCH_SIZE + 1}: evaluerer {len(batch)} annonser...")
+        batch_results = evaluate_batch(batch, pages_block, market_summary)
+        results.extend(batch_results)
+        if i + EVAL_BATCH_SIZE < len(listings):
+            time.sleep(1)
+
+    return results
 
 
 # ---------------------------------------------------------------------------
