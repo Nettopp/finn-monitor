@@ -23,14 +23,12 @@ MARKET_MAX_ITEMS = 500
 SCORE_THRESHOLD = 60
 SCORE_KUPP = 80
 
-FINN_SEARCH_URL = "https://www.finn.no/bap/sportsutstyr/search.html"
+FINN_SEARCH_URL = "https://www.finn.no/recommerce/forsale/search"
 SEARCH_QUERIES = ["wingfoil", "wing foil"]
 
-# Full URLs for category browsing (no keyword needed)
-# TODO: verify these URLs by navigating to the category on finn.no
+# Category browse: Torget > Sport og friluftsliv > Vannsport > Wingfoil
 CATEGORY_URLS = [
-    # Torget > Sport og friluftsliv > Vannsport > Wingfoil
-    # "https://www.finn.no/bap/sportsutstyr/search.html?cat=TODO&sort=PUBLISHED_DESC",
+    "https://www.finn.no/recommerce/forsale/search?product_category=2.69.7738.2467&sort=PUBLISHED_DESC",
 ]
 HEADERS = {
     "User-Agent": (
@@ -174,6 +172,9 @@ def append_to_market_data(market_data: list, listings: list) -> list:
 # ---------------------------------------------------------------------------
 
 def finn_id_from_url(url: str) -> str:
+    m = re.search(r"/item/(\d+)", url)
+    if m:
+        return m.group(1)
     m = re.search(r"finnkode=(\d+)", url)
     return m.group(1) if m else ""
 
@@ -188,7 +189,7 @@ def fetch_page(url: str, params: dict = None) -> tuple[str, list[str]]:
     urls = []
     for a in soup.find_all("a", href=True):
         href = a["href"]
-        if "finnkode=" in href or "/bap/sportsutstyr/ad.html" in href:
+        if "/recommerce/forsale/item/" in href or "finnkode=" in href:
             full = f"https://www.finn.no{href}" if href.startswith("/") else href
             urls.append(full)
 
