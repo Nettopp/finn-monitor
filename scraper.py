@@ -56,7 +56,8 @@ FOIL komplett (front-wing + mast + fuselage): front-wing 950-1 800 cm², mast 60
   Kjente merker: Duotone, Armstrong, Cabrinha, F-One, Fanatic, North, Slingshot.
   God pris: under 8 000 kr komplett. Kupp: under 5 000 kr.
 
-BRETT: 130-170L, bredde 68-80 cm.
+BRETT: 130-170L, bredde 68-80 cm. Fast brett (hardboard) foretrekkes sterkt.
+  Oppblåsbare brett skal IKKE anbefales med mindre prisen er ekstremt lav (under 1 500 kr) — gi dem score maks 30 uansett pris ellers.
   Kjente merker: Fanatic, Duotone, F-One, North, JP Australia.
   God pris: under 6 000 kr. Kupp: under 3 500 kr.
 
