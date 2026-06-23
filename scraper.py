@@ -23,8 +23,15 @@ MARKET_MAX_ITEMS = 500
 SCORE_THRESHOLD = 60
 SCORE_KUPP = 80
 
-FINN_URL = "https://www.finn.no/bap/sportsutstyr/search.html"
-SEARCHES = ["wingfoil", "wing foil"]
+FINN_SEARCH_URL = "https://www.finn.no/bap/sportsutstyr/search.html"
+SEARCH_QUERIES = ["wingfoil", "wing foil"]
+
+# Full URLs for category browsing (no keyword needed)
+# TODO: verify these URLs by navigating to the category on finn.no
+CATEGORY_URLS = [
+    # Torget > Sport og friluftsliv > Vannsport > Wingfoil
+    # "https://www.finn.no/bap/sportsutstyr/search.html?cat=TODO&sort=PUBLISHED_DESC",
+]
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -171,14 +178,9 @@ def finn_id_from_url(url: str) -> str:
     return m.group(1) if m else ""
 
 
-def fetch_search(query: str) -> tuple[str, list[str]]:
-    """Fetch Finn.no search results. Returns (page text, list of ad URLs)."""
-    resp = requests.get(
-        FINN_URL,
-        params={"q": query, "sort": "PUBLISHED_DESC"},
-        headers=HEADERS,
-        timeout=15,
-    )
+def fetch_page(url: str, params: dict = None) -> tuple[str, list[str]]:
+    """Fetch a Finn.no page. Returns (page text, list of ad URLs)."""
+    resp = requests.get(url, params=params, headers=HEADERS, timeout=15)
     resp.raise_for_status()
 
     soup = BeautifulSoup(resp.text, "html.parser")
@@ -196,16 +198,16 @@ def fetch_search(query: str) -> tuple[str, list[str]]:
 
 def collect_new_listings(seen: dict) -> tuple[list[dict], list[str]]:
     """
-    Scrape all search queries, collect unique URLs not yet in seen_ids.
+    Scrape all search queries and category URLs, collect unique URLs not yet in seen_ids.
     Returns list of raw listing dicts (url + id) and the full page texts
     for batched Claude evaluation.
     """
-    all_urls: dict[str, str] = {}   # finn_id → url
+    all_urls: dict[str, str] = {}   # finn_id/key → url
     page_texts: list[str] = []
 
-    for query in SEARCHES:
+    for query in SEARCH_QUERIES:
         try:
-            text, urls = fetch_search(query)
+            text, urls = fetch_page(FINN_SEARCH_URL, params={"q": query, "sort": "PUBLISHED_DESC"})
             page_texts.append(f"Søk: {query}\n{text}")
             for url in urls:
                 fid = finn_id_from_url(url)
@@ -215,6 +217,19 @@ def collect_new_listings(seen: dict) -> tuple[list[dict], list[str]]:
             time.sleep(1)
         except Exception as e:
             print(f"  Feil ved søk '{query}': {e}")
+
+    for cat_url in CATEGORY_URLS:
+        try:
+            text, urls = fetch_page(cat_url)
+            page_texts.append(f"Kategori: {cat_url}\n{text}")
+            for url in urls:
+                fid = finn_id_from_url(url)
+                key = fid or url
+                if key not in all_urls:
+                    all_urls[key] = url
+            time.sleep(1)
+        except Exception as e:
+            print(f"  Feil ved kategori-URL '{cat_url}': {e}")
 
     new_urls = {k: v for k, v in all_urls.items() if k not in seen}
     print(f"  {len(all_urls)} unike annonser funnet, {len(new_urls)} nye")
