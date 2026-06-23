@@ -181,103 +181,114 @@ def finn_id_from_url(url: str) -> str:
     return m.group(1) if m else ""
 
 
-def fetch_page(url: str, params: dict = None) -> tuple[str, list[str]]:
-    """Fetch a Finn.no page. Returns (page text, list of ad URLs)."""
+def _card_text(a_tag) -> str:
+    """Walk up the DOM from a listing link to get the card's text content."""
+    card = a_tag
+    for _ in range(8):
+        parent = card.parent
+        if parent is None:
+            break
+        if parent.name in ("article", "li"):
+            card = parent
+            break
+        # Stop before a container that holds multiple listing links
+        sibling_links = parent.find_all(
+            "a", href=lambda h: h and "/recommerce/forsale/item/" in h
+        )
+        if len(sibling_links) > 1:
+            break
+        card = parent
+    return card.get_text(separator=" ", strip=True)[:400]
+
+
+def fetch_listings_from_page(url: str, params: dict = None) -> list[dict]:
+    """
+    Fetch one Finn.no search page.
+    Returns list of dicts: {id, url, card_text} — one per listing, deduplicated by id.
+    """
     resp = requests.get(url, params=params, headers=HEADERS, timeout=15)
     resp.raise_for_status()
-
     print(f"    HTTP {resp.status_code}, {len(resp.text)} bytes")
 
     soup = BeautifulSoup(resp.text, "html.parser")
+    seen_ids: set[str] = set()
+    listings = []
 
-    urls = []
     for a in soup.find_all("a", href=True):
         href = a["href"]
-        if "/recommerce/forsale/item/" in href or "finnkode=" in href:
-            full = f"https://www.finn.no{href}" if href.startswith("/") else href
-            urls.append(full)
+        if "/recommerce/forsale/item/" not in href and "finnkode=" not in href:
+            continue
+        fid = finn_id_from_url(href)
+        if not fid or fid in seen_ids:
+            continue
+        seen_ids.add(fid)
+        full_url = f"https://www.finn.no{href}" if href.startswith("/") else href
+        listings.append({"id": fid, "url": full_url, "card_text": _card_text(a)})
 
-    print(f"    {len(urls)} listing-URL-er funnet")
-    text = soup.get_text(separator="\n", strip=True)[:5000]
-    return text, list(dict.fromkeys(urls))
+    print(f"    {len(listings)} annonser fra siden")
+    return listings
 
 
-def collect_new_listings(seen: dict) -> tuple[list[dict], list[str]]:
+def collect_new_listings(seen: dict) -> list[dict]:
     """
-    Scrape all search queries and category URLs, collect unique URLs not yet in seen_ids.
-    Returns list of raw listing dicts (url + id) and the full page texts
-    for batched Claude evaluation.
+    Scrape all searches and category pages.
+    Returns list of new listing dicts ({id, url, card_text}) not in seen_ids.
     """
-    all_urls: dict[str, str] = {}   # finn_id/key → url
-    page_texts: list[str] = []
+    all_listings: dict[str, dict] = {}  # finn_id → listing dict
 
     for query in SEARCH_QUERIES:
         try:
-            text, urls = fetch_page(FINN_SEARCH_URL, params={"q": query, "sort": "PUBLISHED_DESC"})
-            page_texts.append(f"Søk: {query}\n{text}")
-            for url in urls:
-                fid = finn_id_from_url(url)
-                key = fid or url
-                if key not in all_urls:
-                    all_urls[key] = url
+            for l in fetch_listings_from_page(FINN_SEARCH_URL, params={"q": query, "sort": "PUBLISHED_DESC"}):
+                all_listings.setdefault(l["id"], l)
             time.sleep(1)
         except Exception as e:
             print(f"  Feil ved søk '{query}': {e}")
 
     for cat_url in CATEGORY_URLS:
         try:
-            text, urls = fetch_page(cat_url)
-            page_texts.append(f"Kategori: {cat_url}\n{text}")
-            for url in urls:
-                fid = finn_id_from_url(url)
-                key = fid or url
-                if key not in all_urls:
-                    all_urls[key] = url
+            for l in fetch_listings_from_page(cat_url):
+                all_listings.setdefault(l["id"], l)
             time.sleep(1)
         except Exception as e:
             print(f"  Feil ved kategori-URL '{cat_url}': {e}")
 
-    new_urls = {k: v for k, v in all_urls.items() if k not in seen}
-    print(f"  {len(all_urls)} unike annonser funnet, {len(new_urls)} nye")
+    new = {k: v for k, v in all_listings.items() if k not in seen}
+    print(f"  {len(all_listings)} unike annonser funnet, {len(new)} nye")
 
-    if NEW_LISTINGS_CAP and len(new_urls) > NEW_LISTINGS_CAP:
-        new_urls = dict(list(new_urls.items())[:NEW_LISTINGS_CAP])
+    if NEW_LISTINGS_CAP and len(new) > NEW_LISTINGS_CAP:
+        new = dict(list(new.items())[:NEW_LISTINGS_CAP])
         print(f"  Begrenset til {NEW_LISTINGS_CAP} per kjøring (cap aktiv)")
 
-    listings = [{"id": k if k.isdigit() else "", "url": v} for k, v in new_urls.items()]
-    return listings, page_texts
+    return list(new.values())
 
 
 # ---------------------------------------------------------------------------
 # Claude evaluation
 # ---------------------------------------------------------------------------
 
-def evaluate_batch(listings: list[dict], pages_block: str, market_summary: str) -> list[dict]:
+def evaluate_batch(listings: list[dict], market_summary: str) -> list[dict]:
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     market_section = f"\n{market_summary}\n" if market_summary else ""
-    urls_block = "\n".join(l["url"] for l in listings)
+
+    listings_block = "\n\n".join(
+        f"ID: {l['id']}\nURL: {l['url']}\nTekst: {l.get('card_text', '(ingen tekst)')}"
+        for l in listings
+    )
 
     prompt = f"""{BUYER_PROFILE}
 {market_section}
-Følgende annonser ble funnet på Finn.no:
+Evaluer følgende Finn.no-annonser. Hver annonse har ID, URL og kortekst hentet direkte fra siden.
 
-Lenker til nye annonser:
-{urls_block}
+{listings_block}
 
-Søkeresultatsider (tittel, pris, sted er synlig her):
-{pages_block}
-
-Evaluer HVER annonse i lenkelisten mot kjøperprofilen.
-Bruk markedsdataene for prisvurdering.
-
-Returner et JSON-array. Hvert objekt:
+For HVER annonse returner ett JSON-objekt. Samle i ett JSON-array:
 {{
-  "id": "tall fra /item/ID i URL",
-  "title": "tittel",
+  "id": "ID-feltet fra annonsen over — kopier nøyaktig",
+  "title": "tittel fra tekstfeltet",
   "price": "pris som vist",
   "price_kr": 0,
   "location": "sted",
-  "url": "finn.no URL",
+  "url": "URL-feltet fra annonsen over — kopier nøyaktig, IKKE bytt med annen annonse",
   "score": 0-100,
   "kategori": "vinge|foil|brett|komplett|annet",
   "kupp": true|false,
@@ -289,12 +300,12 @@ Returner et JSON-array. Hvert objekt:
 }}
 
 price_kr: heltall i kroner, 0 hvis ikke oppgitt.
-shipping: true hvis annonsen nevner frakt/sending/levering.
+shipping: true hvis teksten nevner frakt/sending/levering.
 distance_ok: true hvis sted er innenfor 1,5 t fra Oslo ELLER shipping er true.
 Score: 80-100 kupp, 60-79 interessant, under 60 marginal/ikke relevant.
 Hvis distance_ok false: trekk 25 poeng og nevn i advarsel.
 
-Returner KUN gyldig JSON-array."""
+Returner KUN gyldig JSON-array — ett objekt per annonse, i samme rekkefølge."""
 
     try:
         msg = client.messages.create(
@@ -307,24 +318,31 @@ Returner KUN gyldig JSON-array."""
         if not match:
             print(f"    Ingen JSON-array i svar")
             return []
-        return json.loads(match.group(0))
+        results = json.loads(match.group(0))
+
+        # Guarantee URL and ID are always taken from input, not Claude's guess
+        id_to_input = {l["id"]: l for l in listings}
+        for r in results:
+            src = id_to_input.get(r.get("id", ""))
+            if src:
+                r["id"] = src["id"]
+                r["url"] = src["url"]
+
+        return results
     except Exception as e:
         print(f"    Claude-feil: {e}")
         return []
 
 
-def evaluate_listings(listings: list[dict], page_texts: list[str], market_summary: str) -> list[dict]:
+def evaluate_listings(listings: list[dict], market_summary: str) -> list[dict]:
     if not listings:
         return []
 
-    pages_block = "\n\n---\n\n".join(page_texts)[:6000]
     results = []
-
     for i in range(0, len(listings), EVAL_BATCH_SIZE):
         batch = listings[i:i + EVAL_BATCH_SIZE]
         print(f"  Batch {i // EVAL_BATCH_SIZE + 1}: evaluerer {len(batch)} annonser...")
-        batch_results = evaluate_batch(batch, pages_block, market_summary)
-        results.extend(batch_results)
+        results.extend(evaluate_batch(batch, market_summary))
         if i + EVAL_BATCH_SIZE < len(listings):
             time.sleep(1)
 
@@ -449,14 +467,14 @@ def main():
         print(f"Markedsdata: {len(market_data)} tidligere annonser")
 
     print("Henter Finn.no søkeresultater...")
-    new_listings, page_texts = collect_new_listings(seen)
+    new_listings = collect_new_listings(seen)
 
     if not new_listings:
         print("Ingen nye annonser — avslutter.")
         return
 
     print(f"Evaluerer {len(new_listings)} nye annonser med Claude...")
-    evaluated = evaluate_listings(new_listings, page_texts, market_summary)
+    evaluated = evaluate_listings(new_listings, market_summary)
 
     # Enrich with IDs from URLs if Claude didn't fill them in
     for l in evaluated:
@@ -473,6 +491,16 @@ def main():
         if key:
             seen[key] = {"date": now, "title": l.get("title", ""), "score": l.get("score", 0)}
     save_seen(seen)
+
+    # Deduplicate by ID (same listing can appear in multiple searches)
+    seen_eval_ids: set[str] = set()
+    deduped: list[dict] = []
+    for l in evaluated:
+        lid = l.get("id") or l.get("url", "")
+        if lid and lid not in seen_eval_ids:
+            seen_eval_ids.add(lid)
+            deduped.append(l)
+    evaluated = deduped
 
     interesting = [l for l in evaluated if l.get("score", 0) >= SCORE_THRESHOLD]
     print(f"{len(interesting)} over terskel (score ≥ {SCORE_THRESHOLD})")
