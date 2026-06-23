@@ -64,6 +64,7 @@ IMPACT VEST / FLOTASJONSVEST: for wingfoil/vannaktivitet.
   Score maks 70 (lavere prioritet enn vinge).
 
 HJELM: vannsporthjelm for wingfoil/kite/SUP. Ikke sykkelhjelm.
+  Størrelse: MÅ være L eller XL (ca. 62-64 cm hodekrets). Hjelmer i S/M er ikke aktuelle — gi score 0.
   Kjente merker: Mystic, Manera, Gath.
   God pris: under 700 kr. Kupp: under 400 kr.
   Score maks 65 (lavere prioritet).
