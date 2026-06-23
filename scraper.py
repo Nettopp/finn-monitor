@@ -47,7 +47,8 @@ Kjøperprofil:
 - Lokasjon: Indre Oslofjord (Borre/Horten), typisk 5-8 m/s vind
 - Kjøper brukt utstyr, ønsker ikke bruke for mye
 
-Søker (i prioritert rekkefølge):
+HAR ALLEREDE: brett (F-One Rocket Wing ASC 130L) og foil (F-One Gravity 2200 + Phantom 1680).
+Søker KUN følgende:
 
 VINGE (primær — lett vind): 5.5-7 m², kjente merker (Duotone, Cabrinha, F-One, North, Ozone, Naish).
   God pris: under 8 000 kr. Kupp: under 5 000 kr. Unngå ukjente kinesiske merker.
@@ -57,17 +58,20 @@ VINGE (sekundær — mer vind): 4-5 m², samme kjente merker.
   God pris: under 5 000 kr. Kupp: under 3 000 kr.
   Score disse litt lavere enn primær-størrelsen (maks 70) siden de er lavere prioritet.
 
-FOIL komplett (front-wing + mast + fuselage): front-wing 950-1 800 cm², mast 60-80 cm.
-  Kjente merker: Duotone, Armstrong, Cabrinha, F-One, Fanatic, North, Slingshot.
-  God pris: under 8 000 kr komplett. Kupp: under 5 000 kr.
+IMPACT VEST / FLOTASJONSVEST: for wingfoil/vannaktivitet.
+  Kjente merker: Mystic, Manera, ION, Prolimit.
+  God pris: under 1 500 kr. Kupp: under 800 kr.
+  Score maks 70 (lavere prioritet enn vinge).
 
-BRETT: 130-170L, bredde 68-80 cm. Fast brett (hardboard) foretrekkes sterkt.
-  Oppblåsbare brett skal IKKE anbefales med mindre prisen er ekstremt lav (under 1 500 kr) — gi dem score maks 30 uansett pris ellers.
-  Kjente merker: Fanatic, Duotone, F-One, North, JP Australia.
-  God pris: under 6 000 kr. Kupp: under 3 500 kr.
+HJELM: vannsporthjelm for wingfoil/kite/SUP. Ikke sykkelhjelm.
+  Kjente merker: Mystic, Manera, Gath.
+  God pris: under 700 kr. Kupp: under 400 kr.
+  Score maks 65 (lavere prioritet).
 
-KOMPLETT SETT (vinge + foil + brett):
-  God pris: under 18 000 kr. Kupp: under 12 000 kr.
+IKKE INTERESSANT (allerede kjøpt eller ikke aktuelt):
+  - Brett, foil, komplett sett med brett/foil — gi score 0 og kategori "annet"
+  - Oppblåsbare brett — gi score 0
+  - Kiter, SUP-brett, vindsurf — gi score 0
 
 LOKASJON:
   Kjøper kan hente innenfor ca. 1,5 times kjøring fra Oslo sentrum.
