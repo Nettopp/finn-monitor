@@ -24,7 +24,7 @@ SCORE_THRESHOLD = 60
 SCORE_KUPP = 80
 
 FINN_URL = "https://www.finn.no/bap/sportsutstyr/search.html"
-SEARCHES = ["wingfoil", "wing foil", "vindvinge", "wing surfer"]
+SEARCHES = ["wingfoil", "wing foil"]
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
