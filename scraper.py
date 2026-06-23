@@ -185,6 +185,8 @@ def fetch_page(url: str, params: dict = None) -> tuple[str, list[str]]:
     resp = requests.get(url, params=params, headers=HEADERS, timeout=15)
     resp.raise_for_status()
 
+    print(f"    HTTP {resp.status_code}, {len(resp.text)} bytes")
+
     soup = BeautifulSoup(resp.text, "html.parser")
 
     urls = []
@@ -194,6 +196,7 @@ def fetch_page(url: str, params: dict = None) -> tuple[str, list[str]]:
             full = f"https://www.finn.no{href}" if href.startswith("/") else href
             urls.append(full)
 
+    print(f"    {len(urls)} listing-URL-er funnet")
     text = soup.get_text(separator="\n", strip=True)[:5000]
     return text, list(dict.fromkeys(urls))
 
