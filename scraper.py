@@ -26,7 +26,7 @@ SCORE_THRESHOLD = 60
 SCORE_KUPP = 80
 
 FINN_SEARCH_URL = "https://www.finn.no/recommerce/forsale/search"
-SEARCH_QUERIES = ["impact vest kite", "vannsporthjelm", "mystic hjelm", "manera hjelm", "gath hjelm", "mystic vest", "ion vest wingfoil", "prolimit vest"]
+SEARCH_QUERIES = ["impact vest", "vannsporthjelm kite"]
 
 # Category browse: Torget > Sport og friluftsliv > Vannsport > Wingfoil
 CATEGORY_URLS = [
@@ -242,7 +242,7 @@ def collect_new_listings(seen: dict) -> list[dict]:
         try:
             for l in fetch_listings_from_page(FINN_SEARCH_URL, params={"q": query, "sort": "PUBLISHED_DESC"}):
                 all_listings.setdefault(l["id"], l)
-            time.sleep(1)
+            time.sleep(3)
         except Exception as e:
             print(f"  Feil ved søk '{query}': {e}")
 
@@ -250,7 +250,7 @@ def collect_new_listings(seen: dict) -> list[dict]:
         try:
             for l in fetch_listings_from_page(cat_url):
                 all_listings.setdefault(l["id"], l)
-            time.sleep(1)
+            time.sleep(3)
         except Exception as e:
             print(f"  Feil ved kategori-URL '{cat_url}': {e}")
 
@@ -346,7 +346,7 @@ def evaluate_listings(listings: list[dict], market_summary: str) -> list[dict]:
         print(f"  Batch {i // EVAL_BATCH_SIZE + 1}: evaluerer {len(batch)} annonser...")
         results.extend(evaluate_batch(batch, market_summary))
         if i + EVAL_BATCH_SIZE < len(listings):
-            time.sleep(1)
+            time.sleep(3)
 
     return results
 
