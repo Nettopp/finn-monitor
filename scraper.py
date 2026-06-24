@@ -26,7 +26,7 @@ SCORE_THRESHOLD = 60
 SCORE_KUPP = 80
 
 FINN_SEARCH_URL = "https://www.finn.no/recommerce/forsale/search"
-SEARCH_QUERIES = ["wingfoil", "wing foil"]
+SEARCH_QUERIES = ["impact vest kite", "vannsporthjelm", "mystic hjelm", "manera hjelm", "gath hjelm", "mystic vest", "ion vest wingfoil", "prolimit vest"]
 
 # Category browse: Torget > Sport og friluftsliv > Vannsport > Wingfoil
 CATEGORY_URLS = [
@@ -47,32 +47,23 @@ Kjøperprofil:
 - Lokasjon: Indre Oslofjord (Borre/Horten), typisk 5-8 m/s vind
 - Kjøper brukt utstyr, ønsker ikke bruke for mye
 
-HAR ALLEREDE: brett (F-One Rocket Wing ASC 130L) og foil (F-One Gravity 2200 + Phantom 1680).
+HAR ALLEREDE: brett, foil og vinger (alt wingfoil-utstyr er komplett).
 Søker KUN følgende:
 
-VINGE (primær — lett vind): 5.5-7 m², kjente merker (Duotone, Cabrinha, F-One, North, Ozone, Naish).
-  God pris: under 8 000 kr. Kupp: under 5 000 kr. Unngå ukjente kinesiske merker.
-
-VINGE (sekundær — mer vind): 4-5 m², samme kjente merker.
-  Kjøpes som vinge nr. 2 for 9-14 m/s forhold.
-  God pris: under 5 000 kr. Kupp: under 3 000 kr.
-  Score disse litt lavere enn primær-størrelsen (maks 70) siden de er lavere prioritet.
-
 IMPACT VEST / FLOTASJONSVEST: for wingfoil/vannaktivitet.
+  Størrelse: MÅ være L eller XL (passer over våtdrakt). Vester i S/M er ikke aktuelle — gi score 0.
   Kjente merker: Mystic, Manera, ION, Prolimit.
   God pris: under 1 500 kr. Kupp: under 800 kr.
-  Score maks 70 (lavere prioritet enn vinge).
 
 HJELM: vannsporthjelm for wingfoil/kite/SUP. Ikke sykkelhjelm.
   Størrelse: MÅ være L eller XL (ca. 62-64 cm hodekrets). Hjelmer i S/M er ikke aktuelle — gi score 0.
   Kjente merker: Mystic, Manera, Gath.
   God pris: under 700 kr. Kupp: under 400 kr.
-  Score maks 65 (lavere prioritet).
 
-IKKE INTERESSANT (allerede kjøpt eller ikke aktuelt):
-  - Brett, foil, komplett sett med brett/foil — gi score 0 og kategori "annet"
-  - Oppblåsbare brett — gi score 0
-  - Kiter, SUP-brett, vindsurf — gi score 0
+IKKE INTERESSANT (gi score 0):
+  - Vinger, brett, foil, komplett wingfoil-sett
+  - Kiter, SUP-brett, vindsurf
+  - Alt annet enn vest og hjelm
 
 LOKASJON:
   Kjøper kan hente innenfor ca. 1,5 times kjøring fra Oslo sentrum.
