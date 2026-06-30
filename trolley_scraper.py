@@ -48,32 +48,43 @@ HEADERS = {
 BUYER_PROFILE = """
 Du evaluerer brukte transportvogner og materialtraller til salgs på Finn.no.
 
-REFERANSEPRODUKT:
-Transportvogn type AJ Produkter 17805/17807 — robust industri-/håndverksvogn for tunge laster.
-Ny pris: ca. 15 900 kr inkl. mva. To- og firehjulsstyring er begge OK.
-Se: https://www.ajprodukter.no/p/transportvogn-17805-17807
+REFERANSEPRODUKT — Transportvogn NIGEL (AJ Produkter art.nr. 30494):
+  Plattform:        2000 × 1000 mm (kryssfinér)
+  Høyde:            540 mm
+  Lastekapasitet:   1500 kg
+  Hjul:             4 stk. luftgummi, Ø 406 mm, rullelager
+  Styring:          Firehjulsstyring
+  Vekt:             86 kg
+  Utstyr:           Parkeringsbrems, drastang
+  Ny pris:          ca. 15 300 kr inkl. mva (12 275 kr eks. mva)
+  Se:               https://www.ajprodukter.no/p/transportvogn-17805-17807
 
-TEKNISKE KRAV (MÅ oppfylles for score over 40):
-- Lengde: 150–200 cm
-- Bredde: 75–100 cm
-- To- eller firehjulsstyring (begge OK)
-- IKKE gipsvogn med hev/senk-mekanisme
-- IKKE billige lett-traller fra Clas Ohlson, Jula, IKEA, Biltema o.l. (disse er for små og lette)
-- Tunge industri-/lagertraller av stål er ideelt
+Andre gyldige størrelser fra samme serie: 1500×750 mm, 2500×1000 mm, 3000×1000 mm.
+Tohjulsstyring er også OK.
 
-Hvis størrelse ikke er oppgitt: gi skjønnsmessig score basert på bilde og beskrivelse vs. referanseproduktet.
+KRAV FOR SCORE OVER 40 (MÅ oppfylles):
+  - Plattformlengde: 150–200 cm
+  - Plattformbredde: 75–100 cm
+  - Kan bære tung last (helst 500 kg+)
+  - To- eller firehjulsstyring
+  - IKKE gipsvogn med hev/senk-mekanisme
+  - IKKE billige lett-traller fra Clas Ohlson, Jula, IKEA, Biltema o.l. (for små, for lette)
+  - Stålramme / industristandard er ideelt
+
+Dimensjoner oppgis sjelden i annonseteksten — bruk bilder og beskrivelse til å vurdere
+om vognen ligner referanseproduktet i størrelse og robusthet.
 
 PRISVURDERING:
-- Under 3 000 kr: score 80–100 (kupp)
-- 3 000–6 000 kr: score 65–79 (interessant)
-- 6 000–10 000 kr: score 50–64 (akseptabelt)
-- Over 10 000 kr: score under 50
+  Under 3 000 kr   → score 80–100 (kupp)
+  3 000–6 000 kr   → score 65–79  (interessant)
+  6 000–10 000 kr  → score 50–64  (akseptabelt)
+  Over 10 000 kr   → score under 50
 
 LOKASJON:
-Kjøper kan hente innenfor ca. 1,5 times kjøring fra Oslo sentrum.
-Dette dekker: Østfold, Vestfold (Tønsberg/Sandefjord), Kongsberg, Hamar, Gjøvik, Hønefoss.
-Utenfor rekkevidde (eksempler): Bergen, Stavanger, Trondheim, Kristiansand, Tromsø, Bodø — gi score 0.
-Unntak: hvis teksten nevner "kan sendes", "frakt", "sender" eller "levering", er lokasjon irrelevant.
+  Kjøper henter innenfor ca. 1,5 t fra Oslo sentrum.
+  Dekker: Østfold, Vestfold (Tønsberg/Sandefjord), Kongsberg, Hamar, Gjøvik, Hønefoss.
+  Utenfor (gi score 0): Bergen, Stavanger, Trondheim, Kristiansand, Tromsø, Bodø.
+  Unntak: hvis teksten nevner "kan sendes", "frakt", "sender" eller "levering" → lokasjon ignoreres.
 """
 
 # ---------------------------------------------------------------------------
@@ -207,6 +218,11 @@ def fetch_listings_from_page(url: str, params: dict = None) -> list[dict]:
     return listings
 
 
+def _seen_key(listing: dict) -> str:
+    """URL is the canonical dedup key — stable and unambiguous."""
+    return listing.get("url") or listing.get("id", "")
+
+
 def collect_new_listings(seen: dict) -> list[dict]:
     all_listings: dict[str, dict] = {}
 
@@ -214,7 +230,9 @@ def collect_new_listings(seen: dict) -> list[dict]:
         try:
             print(f"  Søker: '{query}'")
             for l in fetch_listings_from_page(FINN_SEARCH_URL, params={"q": query, "sort": "PUBLISHED_DESC"}):
-                all_listings.setdefault(l["id"], l)
+                key = _seen_key(l)
+                if key:
+                    all_listings.setdefault(key, l)
             time.sleep(3)
         except Exception as e:
             print(f"  Feil ved søk '{query}': {e}")
@@ -408,14 +426,13 @@ def main():
     save_market_data(market_data)
 
     now = datetime.now().isoformat()
-    seen_eval_ids: set[str] = set()
+    seen_keys: set[str] = set()
     deduped: list[dict] = []
     for l in evaluated:
-        lid = l.get("id") or l.get("url", "")
-        if lid and lid not in seen_eval_ids:
-            seen_eval_ids.add(lid)
+        key = _seen_key(l)
+        if key and key not in seen_keys:
+            seen_keys.add(key)
             deduped.append(l)
-        key = l.get("id") or re.sub(r"[^a-z0-9]", "", l.get("url", ""))[:40]
         if key:
             seen[key] = {"date": now, "title": l.get("title", ""), "score": l.get("score", 0)}
     save_seen(seen)
