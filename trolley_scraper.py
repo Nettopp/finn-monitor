@@ -46,45 +46,45 @@ HEADERS = {
 }
 
 BUYER_PROFILE = """
-Du evaluerer brukte transportvogner og materialtraller til salgs på Finn.no.
+Du evaluerer brukte transportvogner på Finn.no. Oppgaven er å finne store plattformvogner
+av industrikvalitet som ligner referanseproduktet.
 
-REFERANSEPRODUKT — Transportvogn NIGEL (AJ Produkter art.nr. 30494):
-  Plattform:        2000 × 1000 mm (kryssfinér)
-  Høyde:            540 mm
-  Lastekapasitet:   1500 kg
-  Hjul:             4 stk. luftgummi, Ø 406 mm, rullelager
-  Styring:          Firehjulsstyring
-  Vekt:             86 kg
-  Utstyr:           Parkeringsbrems, drastang
-  Ny pris:          ca. 15 300 kr inkl. mva (12 275 kr eks. mva)
-  Se:               https://www.ajprodukter.no/p/transportvogn-17805-17807
+VIKTIG: PRIS PÅVIRKER IKKE SCOREN. Vi vil se alle relevante treff uansett pris.
+Score baseres utelukkende på produktmatch.
 
-Andre gyldige størrelser fra samme serie: 1500×750 mm, 2500×1000 mm, 3000×1000 mm.
-Tohjulsstyring er også OK.
+REFERANSEPRODUKT — Transportvogn NIGEL (AJ Produkter):
+  Type:         Stor, flat plattformvogn på 4 pneumatiske hjul
+  Plattform:    Kryssfinér, 2000 × 1000 mm — vi søker 150–200 cm lang, 75–100 cm bred
+  Kapasitet:    1500 kg
+  Hjul:         Luftgummi Ø 406 mm, rullelager (firehjulsstyring, tohjulsstyring OK)
+  Vekt:         86 kg — dette er en tung, solid vogn
+  Typiske navn: transportvogn, plattformvogn, materialtralle, lagervogn, industrivogn
 
-KRAV FOR SCORE OVER 40 (MÅ oppfylles):
-  - Plattformlengde: 150–200 cm
-  - Plattformbredde: 75–100 cm
-  - Kan bære tung last (helst 500 kg+)
-  - To- eller firehjulsstyring
-  - IKKE gipsvogn med hev/senk-mekanisme
-  - IKKE billige lett-traller fra Clas Ohlson, Jula, IKEA, Biltema o.l. (for små, for lette)
-  - Stålramme / industristandard er ideelt
+SCORING — kun basert på produktmatch:
+  80–100  Klart treff: stor flat industriplattform på 4 hjul, tung konstruksjon, riktig størrelse
+  60–79   Sannsynlig treff: riktig type, men usikker størrelse eller begrenset info
+  40–59   Mulig treff: kan ikke utelukkes, men lite info
+  0–39    Feil produkttype — ikke relevant
 
-Dimensjoner oppgis sjelden i annonseteksten — bruk bilder og beskrivelse til å vurdere
-om vognen ligner referanseproduktet i størrelse og robusthet.
-
-PRISVURDERING:
-  Under 3 000 kr   → score 80–100 (kupp)
-  3 000–6 000 kr   → score 65–79  (interessant)
-  6 000–10 000 kr  → score 50–64  (akseptabelt)
-  Over 10 000 kr   → score under 50
+UTELUKK UMIDDELBART (score 0):
+  - Hjultraller / rullestativ (for biler/motorsykler)
+  - Serveringstraller / restaurantvogner / kafévogner
+  - Jekketraller / pallekjerre / palle-jekk
+  - Bagasjetraller / portertraller
+  - Handlevogner
+  - Kassevogner / posttraller / arkivvogner
+  - Sykkeltraller / lastelastesykler
+  - Gipsvogner med hev/senk-mekanisme
+  - Lette billigttraller (Clas Ohlson, Jula, IKEA, Biltema) — for små og lette
+  - Rullestillaser
+  - Alt annet som åpenbart ikke er en stor industriplattformvogn
 
 LOKASJON:
-  Kjøper henter innenfor ca. 1,5 t fra Oslo sentrum.
-  Dekker: Østfold, Vestfold (Tønsberg/Sandefjord), Kongsberg, Hamar, Gjøvik, Hønefoss.
-  Utenfor (gi score 0): Bergen, Stavanger, Trondheim, Kristiansand, Tromsø, Bodø.
-  Unntak: hvis teksten nevner "kan sendes", "frakt", "sender" eller "levering" → lokasjon ignoreres.
+  Innenfor 1,5 t fra Oslo: Østfold, Vestfold (Tønsberg/Sandefjord), Kongsberg, Hamar, Gjøvik, Hønefoss → OK
+  Utenfor (Bergen, Stavanger, Trondheim, Kristiansand, Tromsø, Bodø) → score 0
+  Unntak: "kan sendes", "frakt", "sender", "levering" i teksten → lokasjon ignoreres
+
+Oppgi pris i price/price_kr-feltene for info, men la det IKKE påvirke scoren.
 """
 
 # ---------------------------------------------------------------------------
@@ -176,7 +176,7 @@ def finn_id_from_url(url: str) -> str:
     return m.group(1) if m else ""
 
 
-def _card_text(a_tag) -> str:
+def _card_text(a_tag, max_chars: int = 800) -> str:
     card = a_tag
     for _ in range(8):
         parent = card.parent
@@ -191,7 +191,7 @@ def _card_text(a_tag) -> str:
         if len(sibling_links) > 1:
             break
         card = parent
-    return card.get_text(separator=" ", strip=True)[:400]
+    return card.get_text(separator=" ", strip=True)[:max_chars]
 
 
 def fetch_listings_from_page(url: str, params: dict = None) -> list[dict]:
@@ -212,7 +212,7 @@ def fetch_listings_from_page(url: str, params: dict = None) -> list[dict]:
             continue
         seen_ids.add(fid)
         full_url = f"https://www.finn.no{href}" if href.startswith("/") else href
-        listings.append({"id": fid, "url": full_url, "card_text": _card_text(a)})
+        listings.append({"id": fid, "url": full_url, "card_text": _card_text(a, max_chars=800)})
 
     print(f"    {len(listings)} annonser fra siden")
     return listings
@@ -334,7 +334,7 @@ def send_email(listings: list[dict], market_data: list):
     interesting = [l for l in listings if SCORE_THRESHOLD <= l["score"] < SCORE_KUPP]
 
     subject = (
-        f"🛒 Finn.no transportvogn — {len(kupps)} kupp, {len(interesting)} interessante "
+        f"🛒 Finn.no transportvogn — {len(kupps) + len(interesting)} treff "
         f"({datetime.now().strftime('%d.%m %H:%M')})"
     )
 
@@ -377,9 +377,9 @@ def send_email(listings: list[dict], market_data: list):
 <h2 style="border-bottom:2px solid #1a0dab;padding-bottom:8px;margin-bottom:4px;">Finn.no — Transportvogn</h2>
 <p style="color:#888;font-size:13px;margin-top:0;">{datetime.now().strftime('%d. %B %Y, %H:%M')}</p>
 {market_note}
-{render_section("🏆 Kupp", "#c00", kupps)}
-{render_section("✅ Interessant", "#2a7", [l for l in interesting if l['score'] >= 65])}
-{render_section("📋 Akseptabelt", "#888", [l for l in interesting if l['score'] < 65])}
+{render_section("✅ Klart treff", "#2a7", kupps)}
+{render_section("🔍 Sannsynlig treff", "#e67e00", [l for l in interesting if l['score'] >= 65])}
+{render_section("❓ Mulig treff", "#888", [l for l in interesting if l['score'] < 65])}
 <p style="color:#ccc;font-size:11px;margin-top:32px;">finn-monitor · trolley</p>
 </body></html>"""
 
