@@ -219,8 +219,8 @@ def fetch_listings_from_page(url: str, params: dict = None) -> list[dict]:
 
 
 def _seen_key(listing: dict) -> str:
-    """URL is the canonical dedup key — stable and unambiguous."""
-    return listing.get("url") or listing.get("id", "")
+    """Finn item ID is the canonical dedup key — stable across URL variants."""
+    return listing.get("id") or listing.get("url", "")
 
 
 def collect_new_listings(seen: dict) -> list[dict]:

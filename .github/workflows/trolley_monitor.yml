@@ -41,4 +41,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add seen_ids_trolley.json market_data_trolley.json
           git diff --staged --quiet || git commit -m "chore: update trolley seen IDs and market data [skip ci]"
-          git push
+          git pull --rebase && git push
