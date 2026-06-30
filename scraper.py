@@ -32,7 +32,7 @@ SEARCH_QUERIES = []
 # OBS: location-kodene kan trenge justering — verifiser ved å gjøre et manuelt søk på finn.no
 # og kopiere URL-en med ønsket region valgt.
 CATEGORY_URLS = [
-    "https://www.finn.no/recommerce/forsale/search?location=1.20008.20131&location=1.20008.20133&product_category=2.69.7738.2467&sort=PUBLISHED_DESC",
+    "https://www.finn.no/recommerce/forsale/search?location=1.20008.20131&location=1.20008.20133&location=1.20008.20132&product_category=2.69.7738.2467&sort=PUBLISHED_DESC",
 ]
 HEADERS = {
     "User-Agent": (
