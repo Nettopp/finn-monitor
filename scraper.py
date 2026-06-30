@@ -22,15 +22,17 @@ SEEN_DAYS = 30
 MARKET_MAX_ITEMS = 500
 NEW_LISTINGS_CAP = None  # no cap — process all new listings
 EVAL_BATCH_SIZE = 25    # listings per Claude call
-SCORE_THRESHOLD = 60
+SCORE_THRESHOLD = 80
 SCORE_KUPP = 80
 
 FINN_SEARCH_URL = "https://www.finn.no/recommerce/forsale/search"
-SEARCH_QUERIES = ["impact vest", "vannsporthjelm kite"]
+SEARCH_QUERIES = []
 
-# Category browse: Torget > Sport og friluftsliv > Vannsport > Wingfoil
+# Torget > Sport og friluftsliv > Vannsport > Wingfoil, filtrert på Horten og Tønsberg
+# OBS: location-kodene kan trenge justering — verifiser ved å gjøre et manuelt søk på finn.no
+# og kopiere URL-en med ønsket region valgt.
 CATEGORY_URLS = [
-    "https://www.finn.no/recommerce/forsale/search?product_category=2.69.7738.2467&sort=PUBLISHED_DESC",
+    "https://www.finn.no/recommerce/forsale/search?product_category=2.69.7738.2467&location=1.22.3011&location=1.22.3013&sort=PUBLISHED_DESC",
 ]
 HEADERS = {
     "User-Agent": (
@@ -41,36 +43,22 @@ HEADERS = {
 }
 
 BUYER_PROFILE = """
-Kjøperprofil:
-- Vekt: 88 kg, høyde: 187 cm
-- Nybegynner wingfoil, erfaren snowboard/jolle-seiler
-- Lokasjon: Indre Oslofjord (Borre/Horten), typisk 5-8 m/s vind
-- Kjøper brukt utstyr, ønsker ikke bruke for mye
-
-HAR ALLEREDE: brett, foil og vinger (alt wingfoil-utstyr er komplett).
-Søker KUN følgende:
-
-IMPACT VEST / FLOTASJONSVEST: for wingfoil/vannaktivitet.
-  Størrelse: MÅ være L eller XL (passer over våtdrakt). Vester i S/M er ikke aktuelle — gi score 0.
-  Kjente merker: Mystic, Manera, ION, Prolimit.
-  God pris: under 1 500 kr. Kupp: under 800 kr.
-
-HJELM: vannsporthjelm for wingfoil/kite/SUP. Ikke sykkelhjelm.
-  Størrelse: MÅ være L eller XL (ca. 62-64 cm hodekrets). Hjelmer i S/M er ikke aktuelle — gi score 0.
-  Kjente merker: Mystic, Manera, Gath.
-  God pris: under 700 kr. Kupp: under 400 kr.
-
-IKKE INTERESSANT (gi score 0):
-  - Vinger, brett, foil, komplett wingfoil-sett
-  - Kiter, SUP-brett, vindsurf
-  - Alt annet enn vest og hjelm
+Evaluer brukt vannsportutstyr (wingfoil-kategorien) til salgs på Finn.no.
+Ingen restriksjoner på produkttype, størrelse eller årsmodell — alt i kategorien er aktuelt.
 
 LOKASJON:
-  Kjøper kan hente innenfor ca. 1,5 times kjøring fra Oslo sentrum.
-  Dette dekker omtrent: Østfold, Vestfold (Tønsberg/Sandefjord), Kongsberg, Hamar, Gjøvik, Hønefoss.
-  Utenfor rekkevidde (eksempler): Bergen, Stavanger, Trondheim, Kristiansand, Ålesund, Tromsø, Bodø.
-  Hvis annonsen indikerer at produktet kan sendes (ord som "kan sendes", "frakt", "sender", "levering"),
-  er lokasjon irrelevant — trekk ikke fra for avstand.
+  Kun annonser fra Horten eller Tønsberg-regionen er aktuelle.
+  Annonser fra andre steder i Norge: gi score 0.
+  Unntak: hvis teksten inneholder ord som "kan sendes", "frakt", "sender" eller "levering",
+  er lokasjon irrelevant og skal ikke trekke ned.
+
+PRISVURDERING — score basert på pris vs. antatt markedsverdi:
+  80–100 (kupp): klart underpriset for merke og stand — kjent merke, bra tilstand, lav pris.
+                 Vær streng: 80+ skal bety et genuint godt kjøp som det haster å handle.
+  60–79: OK pris, men ikke kupp.
+  Under 60: normal pris, overpriset, eller for lite info til å vurdere.
+
+Vi varsles KUN om kupp (score ≥ 80) — sett terskelen høyt.
 """
 
 # ---------------------------------------------------------------------------
