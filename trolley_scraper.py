@@ -23,7 +23,7 @@ MARKET_MAX_ITEMS = 500
 PASS1_BATCH_SIZE = 25   # card text — mange per batch
 PASS2_BATCH_SIZE = 5    # full listing — færre per batch (mer tekst)
 PASS1_THRESHOLD = 35    # minimum pass 1 score for å gå videre til full fetch
-SCORE_THRESHOLD = 50    # minimum score etter pass 2 for å dukke opp i e-post
+SCORE_THRESHOLD = 40    # minimum score etter pass 2 for å dukke opp i e-post
 
 FINN_SEARCH_URL = "https://www.finn.no/recommerce/forsale/search"
 SEARCH_QUERIES = [
