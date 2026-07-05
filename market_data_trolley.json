@@ -3544,5 +3544,32 @@
     "score": 0,
     "specs": "Modelljernbane-tilbehør H0-skala",
     "url": "https://www.finn.no/recommerce/forsale/item/441687860"
+  },
+  {
+    "id": "225410135",
+    "date": "2026-07-05T11:08:41.701960",
+    "title": "Frysedisk, fryseboks",
+    "price_kr": 21500,
+    "score": 0,
+    "specs": "Frysedisk/fryseboks",
+    "url": "https://www.finn.no/recommerce/forsale/item/225410135"
+  },
+  {
+    "id": "376099427",
+    "date": "2026-07-05T11:08:41.701960",
+    "title": "Vogn til hest",
+    "price_kr": 3000,
+    "score": 0,
+    "specs": "Hestevogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/376099427"
+  },
+  {
+    "id": "467171428",
+    "date": "2026-07-05T11:08:41.701960",
+    "title": "Hjemmlaget vogne i spur 0",
+    "price_kr": 1234,
+    "score": 0,
+    "specs": "Modelljernbane, spur 0",
+    "url": "https://www.finn.no/recommerce/forsale/item/467171428"
   }
 ]
