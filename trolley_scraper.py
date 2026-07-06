@@ -33,8 +33,6 @@ SEARCH_QUERIES = [
     "transporttralle",
     "lagervogn",
     "plattformvogn",
-    "godsvogn",
-    "industrivogn",
 ]
 
 HEADERS = {
