@@ -1,5 +1,23 @@
 [
   {
+    "id": "366840670",
+    "date": "2026-07-21T18:19:12.376305",
+    "title": "Tredal vare henger til leie",
+    "price_kr": 350,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/366840670"
+  },
+  {
+    "id": "437823720",
+    "date": "2026-07-21T18:19:12.376305",
+    "title": "Sekketralle til Leie",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/437823720"
+  },
+  {
     "id": "470398814",
     "date": "2026-07-21T15:08:34.057999",
     "title": "Sekketralle",
@@ -4480,23 +4498,5 @@
     "score": 40,
     "specs": "USpesifisert — 'diverse vogner'",
     "url": "https://www.finn.no/recommerce/forsale/item/414953579"
-  },
-  {
-    "id": "450512449",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Märklin",
-    "price_kr": 125,
-    "score": 0,
-    "specs": "Märklin modellvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/450512449"
-  },
-  {
-    "id": "462503544",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "avlesservogn / silovogn / rundballvogn",
-    "price_kr": 500,
-    "score": 0,
-    "specs": "Landbruksvogn (silovogn/rundballvogn)",
-    "url": "https://www.finn.no/recommerce/forsale/item/462503544"
   }
 ]
