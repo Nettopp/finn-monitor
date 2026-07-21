@@ -1,5 +1,1931 @@
 [
   {
+    "id": "470398814",
+    "date": "2026-07-21T15:08:34.057999",
+    "title": "Sekketralle",
+    "price_kr": 300,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/470398814"
+  },
+  {
+    "id": "470403269",
+    "date": "2026-07-21T15:08:34.057999",
+    "title": "Transporttralle påhenger",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/470403269"
+  },
+  {
+    "id": "215118211",
+    "date": "2026-07-21T07:36:30.289100",
+    "title": "Komplett Bar kjølebenk, kjøleskap med Øl tårn",
+    "price_kr": 65500,
+    "score": 0,
+    "specs": "Kjølebenk/kjøleskap",
+    "url": "https://www.finn.no/recommerce/forsale/item/215118211"
+  },
+  {
+    "id": "460727376",
+    "date": "2026-07-21T07:36:30.289100",
+    "title": "Lett Massasjebenk / behandlingsbenk sammenleggbar – komplett utstyrspakke",
+    "price_kr": 3500,
+    "score": 0,
+    "specs": "Sammenleggbar behandlingsbenk",
+    "url": "https://www.finn.no/recommerce/forsale/item/460727376"
+  },
+  {
+    "id": "109844921",
+    "date": "2026-07-21T07:36:30.289100",
+    "title": "Tredal varehenger til leie",
+    "price_kr": 300,
+    "score": 0,
+    "specs": "Varehenger, til leie",
+    "url": "https://www.finn.no/recommerce/forsale/item/109844921"
+  },
+  {
+    "id": "286802628",
+    "date": "2026-07-21T07:36:30.289100",
+    "title": "trappetralle til leie",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Trappetralle, til leie",
+    "url": "https://www.finn.no/recommerce/forsale/item/286802628"
+  },
+  {
+    "id": "470315324",
+    "date": "2026-07-20T18:57:46.150586",
+    "title": "Playmobil Middelalder – Skattetransport med hest, vogn og vakteskorte",
+    "price_kr": 349,
+    "score": 0,
+    "specs": "Playmobil leketøy",
+    "url": "https://www.finn.no/recommerce/forsale/item/470315324"
+  },
+  {
+    "id": "469187133",
+    "date": "2026-07-20T15:15:47.186409",
+    "title": "Transporttralle, utenbordsmotor, 100 kg",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "100 kg kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/469187133"
+  },
+  {
+    "id": "448668122",
+    "date": "2026-07-20T08:11:36.427552",
+    "title": "Tralle med løfte mekanisme til leie",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "Løfte mekanisme, type og dimensjoner ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/448668122"
+  },
+  {
+    "id": "385680225",
+    "date": "2026-07-20T08:11:36.427552",
+    "title": "Tohjulet tralle Rasta",
+    "price_kr": 80,
+    "score": 0,
+    "specs": "Tohjulet, Rasta-merke",
+    "url": "https://www.finn.no/recommerce/forsale/item/385680225"
+  },
+  {
+    "id": "467696453",
+    "date": "2026-07-20T08:11:36.427552",
+    "title": "Tralle",
+    "price_kr": 300,
+    "score": 40,
+    "specs": "Ingen spesifikasjoner oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/467696453"
+  },
+  {
+    "id": "470233297",
+    "date": "2026-07-19T18:01:55.312095",
+    "title": "Hagevogn / transportvogn fra Clas Ohlson",
+    "price_kr": 400,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/470233297"
+  },
+  {
+    "id": "453600301",
+    "date": "2026-07-19T18:01:55.312095",
+    "title": "Lett solid hardplast tralle for frakt av esker småmøbler osv",
+    "price_kr": 250,
+    "score": 0,
+    "specs": "Hardplast, lett konstruksjon",
+    "url": "https://www.finn.no/recommerce/forsale/item/453600301"
+  },
+  {
+    "id": "470177586",
+    "date": "2026-07-19T10:39:39.419141",
+    "title": "Plattformvogn 65x47 cm 150 kg",
+    "price_kr": 90,
+    "score": 15,
+    "specs": "65×47 cm, 150 kg kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/470177586"
+  },
+  {
+    "id": "470178109",
+    "date": "2026-07-19T10:39:39.419141",
+    "title": "Sammenleggbar transportvogn tralle med luft- og svinghjul",
+    "price_kr": 2500,
+    "score": 65,
+    "specs": "Lufthjul og svinghjul, sammenleggbar",
+    "url": "https://www.finn.no/recommerce/forsale/item/470178109"
+  },
+  {
+    "id": "470173454",
+    "date": "2026-07-19T10:39:39.419141",
+    "title": "Plattformvogn 77x57,5 cm 300 kg",
+    "price_kr": 800,
+    "score": 0,
+    "specs": "77×57,5 cm, 300 kg kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/470173454"
+  },
+  {
+    "id": "470151161",
+    "date": "2026-07-19T07:31:11.829823",
+    "title": "Sammenleggbar transportvogn / sekketralle",
+    "price_kr": 300,
+    "score": 0,
+    "specs": "Sammenleggbar, pris tyder på lett konstruksjon",
+    "url": "https://www.finn.no/recommerce/forsale/item/470151161"
+  },
+  {
+    "id": "449665984",
+    "date": "2026-07-18T18:00:47.381665",
+    "title": "Playmobil Novelmore 70394 sett - NY pris!",
+    "price_kr": 49,
+    "score": 0,
+    "specs": "Playmobil-leketøy",
+    "url": "https://www.finn.no/recommerce/forsale/item/449665984"
+  },
+  {
+    "id": "291390297",
+    "date": "2026-07-18T18:00:47.381665",
+    "title": "Sekketralle/Flyttetralle",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Sekketralle/Flyttetralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/291390297"
+  },
+  {
+    "id": "470092605",
+    "date": "2026-07-18T14:22:37.238269",
+    "title": "Nordic Cab sykkelvogn / barnevogn rød for 2 barn",
+    "price_kr": 1700,
+    "score": 0,
+    "specs": "Sykkelvogn/barnevogn for 2 barn",
+    "url": "https://www.finn.no/recommerce/forsale/item/470092605"
+  },
+  {
+    "id": "462930803",
+    "date": "2026-07-18T14:22:37.238269",
+    "title": "UTLEIE: Sekketralle med luftgummihjul",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Sekketralle med luftgummihjul",
+    "url": "https://www.finn.no/recommerce/forsale/item/462930803"
+  },
+  {
+    "id": "470110681",
+    "date": "2026-07-18T14:22:37.238269",
+    "title": "Salvogn",
+    "price_kr": 250,
+    "score": 0,
+    "specs": "Salvogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/470110681"
+  },
+  {
+    "id": "470019940",
+    "date": "2026-07-17T14:48:16.175743",
+    "title": "Tysse varehenger",
+    "price_kr": 3900,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/470019940"
+  },
+  {
+    "id": "455078120",
+    "date": "2026-07-17T10:53:22.444769",
+    "title": "Togvogner til tretog (Brio/Lillabo)",
+    "price_kr": 60,
+    "score": 0,
+    "specs": "Miniatyrleketøy, kompatibelt med Duplo og Hot Wheels",
+    "url": "https://www.finn.no/recommerce/forsale/item/455078120"
+  },
+  {
+    "id": "212593449",
+    "date": "2026-07-17T07:22:35.699473",
+    "title": "Vitrineskap, kakedisk, kjøledisk med 3 års delegaranti",
+    "price_kr": 25500,
+    "score": 0,
+    "specs": "Kjøledisk/vitrineskap",
+    "url": "https://www.finn.no/recommerce/forsale/item/212593449"
+  },
+  {
+    "id": "361562653",
+    "date": "2026-07-17T07:22:35.699473",
+    "title": "Kjølerom, fryserom, kjølelager, fryselager til butikk, super market",
+    "price_kr": 25000,
+    "score": 0,
+    "specs": "Kjølelager/fryselager",
+    "url": "https://www.finn.no/recommerce/forsale/item/361562653"
+  },
+  {
+    "id": "193337999",
+    "date": "2026-07-17T07:22:35.699473",
+    "title": "DRY AGE Vinskap, kjøleskap",
+    "price_kr": 125000,
+    "score": 0,
+    "specs": "Vinskap/kjøleskap",
+    "url": "https://www.finn.no/recommerce/forsale/item/193337999"
+  },
+  {
+    "id": "446322675",
+    "date": "2026-07-17T07:22:35.699473",
+    "title": "Bordvogn",
+    "price_kr": 2000,
+    "score": 0,
+    "specs": "Bordvogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/446322675"
+  },
+  {
+    "id": "353047590",
+    "date": "2026-07-16T15:08:07.854574",
+    "title": "Kafestol / utestol / utemøbler / uteservering",
+    "price_kr": 499,
+    "score": 0,
+    "specs": "Kafestol",
+    "url": "https://www.finn.no/recommerce/forsale/item/353047590"
+  },
+  {
+    "id": "328717053",
+    "date": "2026-07-16T15:08:07.854574",
+    "title": "Automatisk donutmaskin / Donut Maker | Maxima",
+    "price_kr": 29978,
+    "score": 0,
+    "specs": "Donutmaskin",
+    "url": "https://www.finn.no/recommerce/forsale/item/328717053"
+  },
+  {
+    "id": "469919438",
+    "date": "2026-07-16T11:05:34.200867",
+    "title": "Grønn hagevogn med tipp og fire hjul",
+    "price_kr": 399,
+    "score": 0,
+    "specs": "fire hjul, tippfunksjon",
+    "url": "https://www.finn.no/recommerce/forsale/item/469919438"
+  },
+  {
+    "id": "466053319",
+    "date": "2026-07-16T11:05:34.200867",
+    "title": "Jekketralle",
+    "price_kr": 1800,
+    "score": 0,
+    "specs": "jekketralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/466053319"
+  },
+  {
+    "id": "199611682",
+    "date": "2026-07-16T11:05:34.200867",
+    "title": "Sekketralle til leie",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "sekketralle, utleie",
+    "url": "https://www.finn.no/recommerce/forsale/item/199611682"
+  },
+  {
+    "id": "204101450",
+    "date": "2026-07-16T07:27:07.063760",
+    "title": "TRANSPORTVOGN - FLYTTETRALLE - MADE IN ITALY",
+    "price_kr": 1240,
+    "score": 45,
+    "specs": "Ikke spesifisert",
+    "url": "https://www.finn.no/recommerce/forsale/item/204101450"
+  },
+  {
+    "id": "236662415",
+    "date": "2026-07-15T14:58:03.699047",
+    "title": "SALG - OPPVASKVOGN - FLYTTETRALLE - MADE IN ITALY",
+    "price_kr": 1440,
+    "score": 0,
+    "specs": "Oppvaskvogn/flyttetralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/236662415"
+  },
+  {
+    "id": "469846994",
+    "date": "2026-07-15T14:58:03.699047",
+    "title": "Sykkelhenger/ transporttralle med stor kasse",
+    "price_kr": 800,
+    "score": 0,
+    "specs": "Sykkelhenger/transporttralle med kasse",
+    "url": "https://www.finn.no/recommerce/forsale/item/469846994"
+  },
+  {
+    "id": "469831564",
+    "date": "2026-07-15T10:56:48.722731",
+    "title": "4 stk runde event-/bankettbord Ø180 cm",
+    "price_kr": 5500,
+    "score": 0,
+    "specs": "Ø180 cm bord",
+    "url": "https://www.finn.no/recommerce/forsale/item/469831564"
+  },
+  {
+    "id": "432959331",
+    "date": "2026-07-15T10:56:48.722731",
+    "title": "Tralle max 200kg leies ut",
+    "price_kr": 50,
+    "score": 0,
+    "specs": "Max 200 kg kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/432959331"
+  },
+  {
+    "id": "469801602",
+    "date": "2026-07-15T07:19:30.040759",
+    "title": "Gutbrod MotoStandard tohjulstraktorer med mye utstyr",
+    "price_kr": 28000,
+    "score": 0,
+    "specs": "Tohjulstraktor",
+    "url": "https://www.finn.no/recommerce/forsale/item/469801602"
+  },
+  {
+    "id": "461469113",
+    "date": "2026-07-14T15:00:03.989730",
+    "title": "Stall tralle / sal tralle",
+    "price_kr": 300,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/461469113"
+  },
+  {
+    "id": "469759345",
+    "date": "2026-07-14T15:00:03.989730",
+    "title": "Tralle / sekketralle gul med luftdekk",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "Gul, luftdekk",
+    "url": "https://www.finn.no/recommerce/forsale/item/469759345"
+  },
+  {
+    "id": "411131441",
+    "date": "2026-07-14T15:00:03.989730",
+    "title": "Selger en eldre trekkvogn",
+    "price_kr": 300,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/411131441"
+  },
+  {
+    "id": "462934265",
+    "date": "2026-07-14T07:14:21.557048",
+    "title": "Sammenleggbar tralle til leie",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Sammenleggbar tralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/462934265"
+  },
+  {
+    "id": "469695537",
+    "date": "2026-07-14T07:14:21.557048",
+    "title": "Tredal henger",
+    "price_kr": 4500,
+    "score": 0,
+    "specs": "Tredal henger",
+    "url": "https://www.finn.no/recommerce/forsale/item/469695537"
+  },
+  {
+    "id": "462441011",
+    "date": "2026-07-13T18:47:08.928185",
+    "title": "Transportvogn til leie - solid og praktisk til flytting",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "250 kg kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/462441011"
+  },
+  {
+    "id": "469689358",
+    "date": "2026-07-13T18:47:08.928185",
+    "title": "Aqua Marina BT 88850 AL med Suzuki påhengsmotor",
+    "price_kr": 1,
+    "score": 0,
+    "specs": "Båt med påhengsmotor",
+    "url": "https://www.finn.no/recommerce/forsale/item/469689358"
+  },
+  {
+    "id": "460691662",
+    "date": "2026-07-13T12:12:52.951749",
+    "title": "KUPP! Pølsekoker - Silanos - 2 delt kammer - 17.Mai - Turnor Storkjøkken",
+    "price_kr": 8500,
+    "score": 0,
+    "specs": "Pølsekoker, storkjøkkenutstyr",
+    "url": "https://www.finn.no/recommerce/forsale/item/460691662"
+  },
+  {
+    "id": "469660014",
+    "date": "2026-07-13T12:12:52.951749",
+    "title": "Weber Q1000 med stativ, trekk og transportvogn, kun brukt på hytte",
+    "price_kr": 2000,
+    "score": 0,
+    "specs": "Weber grill med tilhørende transportvogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/469660014"
+  },
+  {
+    "id": "469655128",
+    "date": "2026-07-13T12:12:52.951749",
+    "title": "Gerdmans hyllevogn",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "Gerdmans hyllevogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/469655128"
+  },
+  {
+    "id": "469610627",
+    "date": "2026-07-12T18:02:49.959748",
+    "title": "Brukt tralle/trillevogn selges",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/469610627"
+  },
+  {
+    "id": "469576770",
+    "date": "2026-07-12T14:36:30.698079",
+    "title": "Sekketralle fra Trallefabrikken Slependen",
+    "price_kr": 1200,
+    "score": 0,
+    "specs": "Sekketralle – type ikke spesifisert",
+    "url": "https://www.finn.no/recommerce/forsale/item/469576770"
+  },
+  {
+    "id": "469575124",
+    "date": "2026-07-12T14:36:30.698079",
+    "title": "Solid plattformvogn / tralle – 85 × 45 cm",
+    "price_kr": 990,
+    "score": 35,
+    "specs": "Plattformvogn, 85 × 45 cm – betydelig mindre enn målstørrelse",
+    "url": "https://www.finn.no/recommerce/forsale/item/469575124"
+  },
+  {
+    "id": "469528368",
+    "date": "2026-07-12T07:32:13.172610",
+    "title": "Tralle",
+    "price_kr": 650,
+    "score": 40,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/469528368"
+  },
+  {
+    "id": "469528102",
+    "date": "2026-07-12T07:32:13.172610",
+    "title": "Trappetralle",
+    "price_kr": 650,
+    "score": 0,
+    "specs": "Trappetralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/469528102"
+  },
+  {
+    "id": "468706075",
+    "date": "2026-07-11T14:24:47.003018",
+    "title": "Sekketralle",
+    "price_kr": 250,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/468706075"
+  },
+  {
+    "id": "469486062",
+    "date": "2026-07-11T07:16:02.466155",
+    "title": "Terrenggående transportvogn",
+    "price_kr": 7900,
+    "score": 45,
+    "specs": "6 punkteringsfrie hjul, kapasitet 250 kg",
+    "url": "https://www.finn.no/recommerce/forsale/item/469486062"
+  },
+  {
+    "id": "436172045",
+    "date": "2026-07-11T07:16:02.466155",
+    "title": "Hjul med kulelager 2stk",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "2 stk hjul, 15 cm diameter, punkteringsfri",
+    "url": "https://www.finn.no/recommerce/forsale/item/436172045"
+  },
+  {
+    "id": "436174669",
+    "date": "2026-07-11T07:16:02.466155",
+    "title": "Hjul med kulelager 2stk",
+    "price_kr": 197,
+    "score": 0,
+    "specs": "2 stk hjul, 15 cm diameter, punkteringsfri",
+    "url": "https://www.finn.no/recommerce/forsale/item/436174669"
+  },
+  {
+    "id": "436176937",
+    "date": "2026-07-11T07:16:02.466155",
+    "title": "Hjul med kulelager",
+    "price_kr": 590,
+    "score": 0,
+    "specs": "1 stk hjul, luftfylt aluminium, 22 cm diameter",
+    "url": "https://www.finn.no/recommerce/forsale/item/436176937"
+  },
+  {
+    "id": "469441867",
+    "date": "2026-07-11T07:16:02.466155",
+    "title": "trappetralle",
+    "price_kr": 700,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/469441867"
+  },
+  {
+    "id": "364339347",
+    "date": "2026-07-10T15:35:05.749397",
+    "title": "Varebil bilutleie",
+    "price_kr": 1049,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/364339347"
+  },
+  {
+    "id": "469436788",
+    "date": "2026-07-10T12:00:02.099040",
+    "title": "Thule Chariot Sport 2 Double - pakke med ski, jogg, sykkel og babyinnlegg",
+    "price_kr": 5500,
+    "score": 0,
+    "specs": "Sportsvogn/barnekjerre",
+    "url": "https://www.finn.no/recommerce/forsale/item/469436788"
+  },
+  {
+    "id": "469358658",
+    "date": "2026-07-09T16:05:29.949726",
+    "title": "Gul transportvogn / Gassflaskevogn. Sveising!",
+    "price_kr": 600,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/469358658"
+  },
+  {
+    "id": "376589038",
+    "date": "2026-07-09T16:05:29.949726",
+    "title": "Utleie av tralle/flyttetralle/no",
+    "price_kr": 100,
+    "score": 40,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/376589038"
+  },
+  {
+    "id": "469357796",
+    "date": "2026-07-09T16:05:29.949726",
+    "title": "Kraftig tralle med sving og brems",
+    "price_kr": 7000,
+    "score": 65,
+    "specs": "Med sving og brems. Kraftig konstruksjon.",
+    "url": "https://www.finn.no/recommerce/forsale/item/469357796"
+  },
+  {
+    "id": "191965874",
+    "date": "2026-07-09T08:34:47.075291",
+    "title": "Kjølerom, fryserom, kjølelager, fryselager, fryseaggregat, kjøleaggregater, pane",
+    "price_kr": 25000,
+    "score": 0,
+    "specs": "Kjøleutstyr",
+    "url": "https://www.finn.no/recommerce/forsale/item/191965874"
+  },
+  {
+    "id": "462858403",
+    "date": "2026-07-09T08:34:47.075291",
+    "title": "Oppvaskmaskin",
+    "price_kr": 28500,
+    "score": 0,
+    "specs": "Oppvaskmaskin",
+    "url": "https://www.finn.no/recommerce/forsale/item/462858403"
+  },
+  {
+    "id": "194240527",
+    "date": "2026-07-09T08:34:47.075291",
+    "title": "Kjølebenk med garnityr kjøler m/ 2,3,4 dører",
+    "price_kr": 23500,
+    "score": 0,
+    "specs": "Kjølebenk",
+    "url": "https://www.finn.no/recommerce/forsale/item/194240527"
+  },
+  {
+    "id": "462858340",
+    "date": "2026-07-09T08:34:47.075291",
+    "title": "Oppvaskmaskin",
+    "price_kr": 28500,
+    "score": 0,
+    "specs": "Oppvaskmaskin",
+    "url": "https://www.finn.no/recommerce/forsale/item/462858340"
+  },
+  {
+    "id": "397560588",
+    "date": "2026-07-09T08:34:47.075291",
+    "title": "Hette Oppvaskmaskin",
+    "price_kr": 65500,
+    "score": 0,
+    "specs": "Oppvaskmaskin med hette",
+    "url": "https://www.finn.no/recommerce/forsale/item/397560588"
+  },
+  {
+    "id": "462859305",
+    "date": "2026-07-09T08:34:47.075291",
+    "title": "Oppvaskmaskin",
+    "price_kr": 28500,
+    "score": 0,
+    "specs": "Oppvaskmaskin",
+    "url": "https://www.finn.no/recommerce/forsale/item/462859305"
+  },
+  {
+    "id": "211738341",
+    "date": "2026-07-09T08:34:47.075291",
+    "title": "Blast Chiller til nedkjøling / Frenox VBL",
+    "price_kr": 35500,
+    "score": 0,
+    "specs": "Blast Chiller",
+    "url": "https://www.finn.no/recommerce/forsale/item/211738341"
+  },
+  {
+    "id": "468560079",
+    "date": "2026-07-09T08:34:47.075291",
+    "title": "Løftebord leies ut",
+    "price_kr": 300,
+    "score": 0,
+    "specs": "Løftebord",
+    "url": "https://www.finn.no/recommerce/forsale/item/468560079"
+  },
+  {
+    "id": "359495458",
+    "date": "2026-07-09T08:34:47.075291",
+    "title": "Sekketralle til utleie",
+    "price_kr": 65,
+    "score": 0,
+    "specs": "Sekketralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/359495458"
+  },
+  {
+    "id": "469248943",
+    "date": "2026-07-08T11:10:12.274104",
+    "title": "Transport tralle",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "Ingen spesifikasjoner oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/469248943"
+  },
+  {
+    "id": "469214914",
+    "date": "2026-07-08T07:34:43.008301",
+    "title": "Minidumper Wee 300kg med to typer kasser",
+    "price_kr": 24800,
+    "score": 0,
+    "specs": "300 kg kapasitet, minidumper med kasser",
+    "url": "https://www.finn.no/recommerce/forsale/item/469214914"
+  },
+  {
+    "id": "469236812",
+    "date": "2026-07-08T07:34:43.008301",
+    "title": "Punkteringsfri sekketralle / transporttralle, 250 kg",
+    "price_kr": 450,
+    "score": 0,
+    "specs": "250 kg kapasitet, sekketralle, punkteringsfri",
+    "url": "https://www.finn.no/recommerce/forsale/item/469236812"
+  },
+  {
+    "id": "469192010",
+    "date": "2026-07-07T19:06:41.659120",
+    "title": "Sammenleggbar Transportvogn",
+    "price_kr": 750,
+    "score": 0,
+    "specs": "Sammenleggbar — størrelse og kapasitet ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/469192010"
+  },
+  {
+    "id": "464729279",
+    "date": "2026-07-07T19:06:41.659120",
+    "title": "Transportvogn sammenleggbar tralle",
+    "price_kr": 400,
+    "score": 0,
+    "specs": "Sammenleggbar — størrelse og kapasitet ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/464729279"
+  },
+  {
+    "id": "372914740",
+    "date": "2026-07-07T15:46:06.904693",
+    "title": "Outwell Hamoa transporter, bagasjetralle til camping og masse annet",
+    "price_kr": 1600,
+    "score": 0,
+    "specs": "Bagasjetralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/372914740"
+  },
+  {
+    "id": "462324628",
+    "date": "2026-07-07T15:46:06.904693",
+    "title": "Tralle",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Ingen spesifikasjoner oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/462324628"
+  },
+  {
+    "id": "462826632",
+    "date": "2026-07-07T08:28:50.074579",
+    "title": "Minigraver til leie 2,7t kubota kx-27-4/transportbånd",
+    "price_kr": 1800,
+    "score": 0,
+    "specs": "Kubota minigraver, transportbånd",
+    "url": "https://www.finn.no/recommerce/forsale/item/462826632"
+  },
+  {
+    "id": "339185089",
+    "date": "2026-07-07T08:28:50.074579",
+    "title": "Vinskap med 2 temperatur soner",
+    "price_kr": 8900,
+    "score": 0,
+    "specs": "Vinskap, kjøling",
+    "url": "https://www.finn.no/recommerce/forsale/item/339185089"
+  },
+  {
+    "id": "221120915",
+    "date": "2026-07-07T08:28:50.074579",
+    "title": "Belteovn, Pizzaovn infrarød",
+    "price_kr": 97500,
+    "score": 0,
+    "specs": "Pizzaovn, infrarød",
+    "url": "https://www.finn.no/recommerce/forsale/item/221120915"
+  },
+  {
+    "id": "193339157",
+    "date": "2026-07-07T08:28:50.074579",
+    "title": "Pizza kjølebenk med kjølerenne",
+    "price_kr": 33500,
+    "score": 0,
+    "specs": "Kjølebenk, 2-4 dører",
+    "url": "https://www.finn.no/recommerce/forsale/item/193339157"
+  },
+  {
+    "id": "234591375",
+    "date": "2026-07-07T08:28:50.074579",
+    "title": "Ventilasjonshette, vifte",
+    "price_kr": 7500,
+    "score": 0,
+    "specs": "Ventilasjonshette, vifte",
+    "url": "https://www.finn.no/recommerce/forsale/item/234591375"
+  },
+  {
+    "id": "249174030",
+    "date": "2026-07-07T08:28:50.074579",
+    "title": "Vinskap, kjøleskap",
+    "price_kr": 145000,
+    "score": 0,
+    "specs": "Kjøleskap",
+    "url": "https://www.finn.no/recommerce/forsale/item/249174030"
+  },
+  {
+    "id": "237590547",
+    "date": "2026-07-07T08:28:50.074579",
+    "title": "Industri Kjølerom, fryserom, kjølelager",
+    "price_kr": 25000,
+    "score": 0,
+    "specs": "Kjølerom, fryserom",
+    "url": "https://www.finn.no/recommerce/forsale/item/237590547"
+  },
+  {
+    "id": "339177137",
+    "date": "2026-07-07T08:28:50.074579",
+    "title": "Rustfri arbeidsbenker med skuffer",
+    "price_kr": 9300,
+    "score": 0,
+    "specs": "Arbeidsbenker, 4-8 skuffer",
+    "url": "https://www.finn.no/recommerce/forsale/item/339177137"
+  },
+  {
+    "id": "450683980",
+    "date": "2026-07-07T08:28:50.074579",
+    "title": "Kraftig Sekketralle fra Trallefabrikken",
+    "price_kr": 1900,
+    "score": 0,
+    "specs": "Sekketralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/450683980"
+  },
+  {
+    "id": "446338197",
+    "date": "2026-07-07T08:28:50.074579",
+    "title": "Robust og praktisk tralle til leie",
+    "price_kr": 50,
+    "score": 40,
+    "specs": "Ikke oppgitt — kun beskrivelse «robust og praktisk»",
+    "url": "https://www.finn.no/recommerce/forsale/item/446338197"
+  },
+  {
+    "id": "444324018",
+    "date": "2026-07-06T19:00:54.431293",
+    "title": "Leier ut Magasintralle",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/444324018"
+  },
+  {
+    "id": "449936469",
+    "date": "2026-07-06T19:00:54.431293",
+    "title": "2 stk. Transporttraller / møbeltraller",
+    "price_kr": 400,
+    "score": 40,
+    "specs": "2 stk., type og størrelse ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/449936469"
+  },
+  {
+    "id": "469095407",
+    "date": "2026-07-06T16:26:01.341417",
+    "title": "Trappetralle/ Tralle",
+    "price_kr": 1000,
+    "score": 0,
+    "specs": "Ingen spesifikasjoner oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/469095407"
+  },
+  {
+    "id": "469078781",
+    "date": "2026-07-06T16:26:01.341417",
+    "title": "Dagger tandem-kajakk",
+    "price_kr": 4900,
+    "score": 0,
+    "specs": "Kajakk",
+    "url": "https://www.finn.no/recommerce/forsale/item/469078781"
+  },
+  {
+    "id": "462672522",
+    "date": "2026-07-06T09:05:29.657886",
+    "title": "Zodiac bassengrobot",
+    "price_kr": 1400,
+    "score": 0,
+    "specs": "Bassengrobot",
+    "url": "https://www.finn.no/recommerce/forsale/item/462672522"
+  },
+  {
+    "id": "469019378",
+    "date": "2026-07-06T09:05:29.657886",
+    "title": "Trappetralle",
+    "price_kr": 1600,
+    "score": 0,
+    "specs": "Trappetralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/469019378"
+  },
+  {
+    "id": "469012376",
+    "date": "2026-07-05T18:10:32.313271",
+    "title": "Tralle - takler opp mot 500kg last",
+    "price_kr": 750,
+    "score": 0,
+    "specs": "Kapasitet 500 kg — ingen størrelse oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/469012376"
+  },
+  {
+    "id": "469014344",
+    "date": "2026-07-05T18:10:32.313271",
+    "title": "Sekketralle med trappehjul- Til leie",
+    "price_kr": 80,
+    "score": 0,
+    "specs": "Trappehjul, kun til leie",
+    "url": "https://www.finn.no/recommerce/forsale/item/469014344"
+  },
+  {
+    "id": "468867648",
+    "date": "2026-07-05T18:10:32.313271",
+    "title": "Seabird havkajakk",
+    "price_kr": 6500,
+    "score": 0,
+    "specs": "Kajakk — ikke relevant",
+    "url": "https://www.finn.no/recommerce/forsale/item/468867648"
+  },
+  {
+    "id": "427368705",
+    "date": "2026-07-05T18:10:32.313271",
+    "title": "Platåvogn",
+    "price_kr": 1600,
+    "score": 60,
+    "specs": "Platåvogn — ingen konkrete dimensjoner eller kapasitet oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/427368705"
+  },
+  {
+    "id": "403257140",
+    "date": "2026-07-05T14:49:30.473250",
+    "title": "Lagervogner",
+    "price_kr": 1900,
+    "score": 60,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/403257140"
+  },
+  {
+    "id": "468984934",
+    "date": "2026-07-05T14:49:30.473250",
+    "title": "Tralle med luftgummihjul",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "Luftgummihjul",
+    "url": "https://www.finn.no/recommerce/forsale/item/468984934"
+  },
+  {
+    "id": "468993545",
+    "date": "2026-07-05T14:49:30.473250",
+    "title": "Märklin H0 4 boggi godsvogner",
+    "price_kr": 600,
+    "score": 0,
+    "specs": "Märklin H0 modelljernbane",
+    "url": "https://www.finn.no/recommerce/forsale/item/468993545"
+  },
+  {
+    "id": "468993227",
+    "date": "2026-07-05T14:49:30.473250",
+    "title": "Märklin H0, stort parti med startsett, skinner, vogner og bygninger",
+    "price_kr": 4500,
+    "score": 0,
+    "specs": "Märklin H0 modelljernbane — startsett, skinner, vogner, bygninger",
+    "url": "https://www.finn.no/recommerce/forsale/item/468993227"
+  },
+  {
+    "id": "225410135",
+    "date": "2026-07-05T11:08:41.701960",
+    "title": "Frysedisk, fryseboks",
+    "price_kr": 21500,
+    "score": 0,
+    "specs": "Frysedisk/fryseboks",
+    "url": "https://www.finn.no/recommerce/forsale/item/225410135"
+  },
+  {
+    "id": "376099427",
+    "date": "2026-07-05T11:08:41.701960",
+    "title": "Vogn til hest",
+    "price_kr": 3000,
+    "score": 0,
+    "specs": "Hestevogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/376099427"
+  },
+  {
+    "id": "467171428",
+    "date": "2026-07-05T11:08:41.701960",
+    "title": "Hjemmlaget vogne i spur 0",
+    "price_kr": 1234,
+    "score": 0,
+    "specs": "Modelljernbane, spur 0",
+    "url": "https://www.finn.no/recommerce/forsale/item/467171428"
+  },
+  {
+    "id": "468939355",
+    "date": "2026-07-05T08:07:15.905175",
+    "title": "Tralle",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/468939355"
+  },
+  {
+    "id": "468927462",
+    "date": "2026-07-05T08:07:15.905175",
+    "title": "Tralle med fire hjul og håndtak",
+    "price_kr": 1000,
+    "score": 45,
+    "specs": "4 hjul, håndtak — størrelse og kapasitet ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/468927462"
+  },
+  {
+    "id": "464306282",
+    "date": "2026-07-05T08:07:15.905175",
+    "title": "Eldre vogn selges",
+    "price_kr": 4000,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/464306282"
+  },
+  {
+    "id": "464692100",
+    "date": "2026-07-05T08:07:15.905175",
+    "title": "WANZI PLATTFORMTRALLE TIL GIBORTPRIS HØY KVALITET",
+    "price_kr": 450,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/464692100"
+  },
+  {
+    "id": "466580001",
+    "date": "2026-07-05T08:07:15.905175",
+    "title": "2 stk Marklin 7025 utligger for luftledning H0",
+    "price_kr": 68,
+    "score": 0,
+    "specs": "Modelljernbane H0-skala",
+    "url": "https://www.finn.no/recommerce/forsale/item/466580001"
+  },
+  {
+    "id": "441535684",
+    "date": "2026-07-05T08:07:15.905175",
+    "title": "Marklin 4612.4/315/4 Biltransport HO",
+    "price_kr": 295,
+    "score": 0,
+    "specs": "Modelljernbane HO-skala",
+    "url": "https://www.finn.no/recommerce/forsale/item/441535684"
+  },
+  {
+    "id": "251388910",
+    "date": "2026-07-05T08:07:15.905175",
+    "title": "Marklin 4447 Tankvogn Solvay",
+    "price_kr": 175,
+    "score": 0,
+    "specs": "Modelljernbane",
+    "url": "https://www.finn.no/recommerce/forsale/item/251388910"
+  },
+  {
+    "id": "364720419",
+    "date": "2026-07-05T08:07:15.905175",
+    "title": "MARKLIN MOBILE STATION 60652 + 60113 + 66361 36VA",
+    "price_kr": 750,
+    "score": 0,
+    "specs": "Modelljernbane-kontrollsystem",
+    "url": "https://www.finn.no/recommerce/forsale/item/364720419"
+  },
+  {
+    "id": "441534552",
+    "date": "2026-07-05T08:07:15.905175",
+    "title": "Märklin 4514.2 Åpen 4-akslet Godsvogn",
+    "price_kr": 175,
+    "score": 0,
+    "specs": "Modelljernbane H0-skala",
+    "url": "https://www.finn.no/recommerce/forsale/item/441534552"
+  },
+  {
+    "id": "388146041",
+    "date": "2026-07-05T08:07:15.905175",
+    "title": "Gammel Märklin 4516.1 Stakevogn H0",
+    "price_kr": 395,
+    "score": 0,
+    "specs": "Modelljernbane H0-skala",
+    "url": "https://www.finn.no/recommerce/forsale/item/388146041"
+  },
+  {
+    "id": "419337627",
+    "date": "2026-07-05T08:07:15.905175",
+    "title": "Selger 1 stk Märklin 37540 Trafo 10VA AC",
+    "price_kr": 375,
+    "score": 0,
+    "specs": "Modelljernbane-transformator",
+    "url": "https://www.finn.no/recommerce/forsale/item/419337627"
+  },
+  {
+    "id": "253899667",
+    "date": "2026-07-05T08:07:15.905175",
+    "title": "Marklin 46202 Kulmbacher lukket ølvogn",
+    "price_kr": 210,
+    "score": 0,
+    "specs": "Modelljernbane",
+    "url": "https://www.finn.no/recommerce/forsale/item/253899667"
+  },
+  {
+    "id": "401392228",
+    "date": "2026-07-05T08:07:15.905175",
+    "title": "Diverse hus/byggninger til modelljernbane N/H0",
+    "price_kr": 1000,
+    "score": 0,
+    "specs": "Modelljernbane-tilbehør",
+    "url": "https://www.finn.no/recommerce/forsale/item/401392228"
+  },
+  {
+    "id": "455924760",
+    "date": "2026-07-05T08:07:15.905175",
+    "title": "Vintage Marklin Togsett HO",
+    "price_kr": 535,
+    "score": 0,
+    "specs": "Modelljernbane HO-skala",
+    "url": "https://www.finn.no/recommerce/forsale/item/455924760"
+  },
+  {
+    "id": "441687860",
+    "date": "2026-07-05T08:07:15.905175",
+    "title": "X Märklin 24612 Digital sporskifte C-skinner H0",
+    "price_kr": 700,
+    "score": 0,
+    "specs": "Modelljernbane-tilbehør H0-skala",
+    "url": "https://www.finn.no/recommerce/forsale/item/441687860"
+  },
+  {
+    "id": "468919697",
+    "date": "2026-07-04T18:07:28.553322",
+    "title": "TRALLE SAMMENLEGGBAR 70 KG",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "Sammenleggbar, 70 kg",
+    "url": "https://www.finn.no/recommerce/forsale/item/468919697"
+  },
+  {
+    "id": "466253360",
+    "date": "2026-07-04T14:42:02.676701",
+    "title": "Jysk vogn",
+    "price_kr": 150,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/466253360"
+  },
+  {
+    "id": "468866991",
+    "date": "2026-07-04T10:57:49.080591",
+    "title": "Marklin bane 25-30M med masse utstyr fra 70-80 tallet",
+    "price_kr": 24900,
+    "score": 0,
+    "specs": "",
+    "url": "https://www.finn.no/recommerce/forsale/item/468866991"
+  },
+  {
+    "id": "443358404",
+    "date": "2026-07-04T10:57:49.080591",
+    "title": "Roco 46408.1 Ler — Lastebil i bevegelse",
+    "price_kr": 240,
+    "score": 0,
+    "specs": "",
+    "url": "https://www.finn.no/recommerce/forsale/item/443358404"
+  },
+  {
+    "id": "269575562",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "Solid tralle verktøyvogn vedtrille",
+    "price_kr": 650,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/269575562"
+  },
+  {
+    "id": "465184974",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "Material støtter",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/465184974"
+  },
+  {
+    "id": "272972003",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "Hyttetralla fra Bø",
+    "price_kr": 650,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/272972003"
+  },
+  {
+    "id": "437304205",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "Stor eske med 25 Märklin HO modelltogvogner",
+    "price_kr": 1800,
+    "score": 0,
+    "specs": "Modelltogvogner H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/437304205"
+  },
+  {
+    "id": "466579861",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "10 stk Marklin 7006 isolatorer for luftledning H0",
+    "price_kr": 135,
+    "score": 0,
+    "specs": "Modelljernbanetilbehør",
+    "url": "https://www.finn.no/recommerce/forsale/item/466579861"
+  },
+  {
+    "id": "466019830",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "Marklin 7009 luftledningsmaster H0 for M-skinner",
+    "price_kr": 230,
+    "score": 0,
+    "specs": "Modelljernbanetilbehør",
+    "url": "https://www.finn.no/recommerce/forsale/item/466019830"
+  },
+  {
+    "id": "466020487",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "Marklin 7009 luftledningsmaster H0 for K-skinner",
+    "price_kr": 230,
+    "score": 0,
+    "specs": "Modelljernbanetilbehør",
+    "url": "https://www.finn.no/recommerce/forsale/item/466020487"
+  },
+  {
+    "id": "457371650",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "Marklin 5202 Elektrisk Pensepar M-skinne H0",
+    "price_kr": 290,
+    "score": 0,
+    "specs": "Modelljernbanetilbehør",
+    "url": "https://www.finn.no/recommerce/forsale/item/457371650"
+  },
+  {
+    "id": "448545533",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "Tunnel Heki 5032 til modelljernbane H0",
+    "price_kr": 190,
+    "score": 0,
+    "specs": "Modelljernbanetilbehør",
+    "url": "https://www.finn.no/recommerce/forsale/item/448545533"
+  },
+  {
+    "id": "261183628",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "Marklin Melketransportvogn fra sett 29237",
+    "price_kr": 205,
+    "score": 0,
+    "specs": "Modelljernbanevogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/261183628"
+  },
+  {
+    "id": "359153083",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "Marklin 4465 Åpen Godsvogn",
+    "price_kr": 155,
+    "score": 0,
+    "specs": "Modelljernbanevogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/359153083"
+  },
+  {
+    "id": "457404676",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "Marklin 7051 elektrisk modellkran for modelljernbane H0 AC",
+    "price_kr": 1950,
+    "score": 0,
+    "specs": "Modelljernbanetilbehør",
+    "url": "https://www.finn.no/recommerce/forsale/item/457404676"
+  },
+  {
+    "id": "332194352",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "Gammel Marklin 374 SHELL Tankvogn HO",
+    "price_kr": 675,
+    "score": 0,
+    "specs": "Modelljernbanevogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/332194352"
+  },
+  {
+    "id": "456687641",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "Märklin sidespor med Avkoblingsskinne og Stoppbukk H0",
+    "price_kr": 645,
+    "score": 0,
+    "specs": "Modelljernbanetilbehør",
+    "url": "https://www.finn.no/recommerce/forsale/item/456687641"
+  },
+  {
+    "id": "359467165",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "Märklin 4600/310/1 Pakkvogn H0",
+    "price_kr": 480,
+    "score": 0,
+    "specs": "Modelljernbanevogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/359467165"
+  },
+  {
+    "id": "350556981",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "Marklin 7186 Dreieskive med kontroll H0",
+    "price_kr": 1900,
+    "score": 0,
+    "specs": "Modelljernbanetilbehør",
+    "url": "https://www.finn.no/recommerce/forsale/item/350556981"
+  },
+  {
+    "id": "380694776",
+    "date": "2026-07-04T07:52:30.383365",
+    "title": "Marklin 2943 H0 Startsett med ekstra skinner og utstyr",
+    "price_kr": 1750,
+    "score": 0,
+    "specs": "Modelljernbaneanlegg",
+    "url": "https://www.finn.no/recommerce/forsale/item/380694776"
+  },
+  {
+    "id": "468825291",
+    "date": "2026-07-03T18:17:38.320614",
+    "title": "Profesjonelt lydanlegg/PA anlegg til leie | RCF ART-912 + 18\" sub",
+    "price_kr": 1000,
+    "score": 0,
+    "specs": "Lydanlegg/PA-utstyr",
+    "url": "https://www.finn.no/recommerce/forsale/item/468825291"
+  },
+  {
+    "id": "468826627",
+    "date": "2026-07-03T18:17:38.320614",
+    "title": "Tredal t 75 br",
+    "price_kr": 5000,
+    "score": 0,
+    "specs": "Ikke spesifisert",
+    "url": "https://www.finn.no/recommerce/forsale/item/468826627"
+  },
+  {
+    "id": "442457524",
+    "date": "2026-07-03T18:17:38.320614",
+    "title": "Lima H0 Godsvogner – FS (Italienske statsbaner)",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "H0-modelljernbane godsvogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/442457524"
+  },
+  {
+    "id": "442456118",
+    "date": "2026-07-03T18:17:38.320614",
+    "title": "Lima H0 Godsvogner – FS Dekt & Shell Tankvogn",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "H0-modelljernbane tankvogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/442456118"
+  },
+  {
+    "id": "468791499",
+    "date": "2026-07-03T15:15:56.577881",
+    "title": "Vogn hyller",
+    "price_kr": 300,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/468791499"
+  },
+  {
+    "id": "433665024",
+    "date": "2026-07-03T11:38:06.457013",
+    "title": "Rolltrailer til leie",
+    "price_kr": 250,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/433665024"
+  },
+  {
+    "id": "323882589",
+    "date": "2026-07-03T11:38:06.457013",
+    "title": "Rieber Kvalitets Varm / Fryz / Kjøl transportvogn 1600 DU Hybrid",
+    "price_kr": 19880,
+    "score": 0,
+    "specs": "Modell 1600 DU Hybrid — Rieber kjøl-/varmevogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/323882589"
+  },
+  {
+    "id": "421749616",
+    "date": "2026-07-03T11:38:06.457013",
+    "title": "Plattformvogn",
+    "price_kr": 500,
+    "score": 40,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/421749616"
+  },
+  {
+    "id": "466736977",
+    "date": "2026-07-03T08:15:12.988848",
+    "title": "Forskjellige arbeidere figurer til modelljernbane H0",
+    "price_kr": 120,
+    "score": 0,
+    "specs": "Modelljernbanefigurer",
+    "url": "https://www.finn.no/recommerce/forsale/item/466736977"
+  },
+  {
+    "id": "254656300",
+    "date": "2026-07-03T08:15:12.988848",
+    "title": "Märklin 36805 Diesel lok HO Digital",
+    "price_kr": 1450,
+    "score": 0,
+    "specs": "Modelljernbane lokomotiv H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/254656300"
+  },
+  {
+    "id": "359219364",
+    "date": "2026-07-03T08:15:12.988848",
+    "title": "Marklin 4618.1 Tungtransport m/BAHIA Transportkasse",
+    "price_kr": 220,
+    "score": 0,
+    "specs": "Modelljernbanevogn H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/359219364"
+  },
+  {
+    "id": "459824577",
+    "date": "2026-07-03T08:15:12.988848",
+    "title": "Märklin 6604 Delta Control AC",
+    "price_kr": 375,
+    "score": 0,
+    "specs": "Modelljernbanekontroller",
+    "url": "https://www.finn.no/recommerce/forsale/item/459824577"
+  },
+  {
+    "id": "249621367",
+    "date": "2026-07-03T08:15:12.988848",
+    "title": "Marklin 4511.6 Kullstøv Tankvogn",
+    "price_kr": 130,
+    "score": 0,
+    "specs": "Modelljernbanevogn H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/249621367"
+  },
+  {
+    "id": "455921175",
+    "date": "2026-07-03T08:15:12.988848",
+    "title": "Marklin signal 7039 og 7239",
+    "price_kr": 390,
+    "score": 0,
+    "specs": "Modelljernbanesignaler",
+    "url": "https://www.finn.no/recommerce/forsale/item/455921175"
+  },
+  {
+    "id": "451294427",
+    "date": "2026-07-03T08:15:12.988848",
+    "title": "Tunnel/landskapsmodell til modelljernbane H0",
+    "price_kr": 350,
+    "score": 0,
+    "specs": "Modelljernbanetilbehør",
+    "url": "https://www.finn.no/recommerce/forsale/item/451294427"
+  },
+  {
+    "id": "345670167",
+    "date": "2026-07-03T08:15:12.988848",
+    "title": "Marklin 84652 DEA Tankvogn H0",
+    "price_kr": 280,
+    "score": 0,
+    "specs": "Modelljernbanevogn H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/345670167"
+  },
+  {
+    "id": "249241904",
+    "date": "2026-07-03T08:15:12.988848",
+    "title": "Märklin 4516.1 Stakevogn 4-akslet",
+    "price_kr": 295,
+    "score": 0,
+    "specs": "Modelljernbanevogn H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/249241904"
+  },
+  {
+    "id": "441398269",
+    "date": "2026-07-03T08:15:12.988848",
+    "title": "6 stk Märklin 24130 buet C-skinner",
+    "price_kr": 190,
+    "score": 0,
+    "specs": "Modelljernbaneskinner H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/441398269"
+  },
+  {
+    "id": "462201015",
+    "date": "2026-07-03T08:15:12.988848",
+    "title": "Roco z21 start digitalsett H0 modelljernbane",
+    "price_kr": 5000,
+    "score": 0,
+    "specs": "Modelljernbanedigitalsett H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/462201015"
+  },
+  {
+    "id": "467434381",
+    "date": "2026-07-03T08:15:12.988848",
+    "title": "Cyklop båndvogn med strammeverktøy",
+    "price_kr": 3000,
+    "score": 0,
+    "specs": "Båndvogn for strapping/omseiling",
+    "url": "https://www.finn.no/recommerce/forsale/item/467434381"
+  },
+  {
+    "id": "468689135",
+    "date": "2026-07-02T18:40:36.145238",
+    "title": "Chariot CX 1 med alt av utstyr",
+    "price_kr": 2000,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/468689135"
+  },
+  {
+    "id": "468710499",
+    "date": "2026-07-02T18:40:36.145238",
+    "title": "Nivåklosser og transporttralle til wc campingvogn/bobil",
+    "price_kr": 250,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/468710499"
+  },
+  {
+    "id": "399980019",
+    "date": "2026-07-02T18:40:36.145238",
+    "title": "Platetransportvogn",
+    "price_kr": 3500,
+    "score": 40,
+    "specs": "Ikke oppgitt — navn antyder platetransport",
+    "url": "https://www.finn.no/recommerce/forsale/item/399980019"
+  },
+  {
+    "id": "439825369",
+    "date": "2026-07-02T11:39:36.202550",
+    "title": "LEGO 75312 Boba Fett's Starship",
+    "price_kr": 700,
+    "score": 0,
+    "specs": "LEGO-sett",
+    "url": "https://www.finn.no/recommerce/forsale/item/439825369"
+  },
+  {
+    "id": "428811632",
+    "date": "2026-07-02T11:39:36.202550",
+    "title": "Transporttralle påhengsmotor",
+    "price_kr": 290,
+    "score": 0,
+    "specs": "Ukjent størrelse og spesifikasjoner",
+    "url": "https://www.finn.no/recommerce/forsale/item/428811632"
+  },
+  {
+    "id": "433631046",
+    "date": "2026-07-02T11:39:36.202550",
+    "title": "La models 15032 Ler",
+    "price_kr": 390,
+    "score": 0,
+    "specs": "Modellbil/lekesett",
+    "url": "https://www.finn.no/recommerce/forsale/item/433631046"
+  },
+  {
+    "id": "468639302",
+    "date": "2026-07-02T08:16:31.224603",
+    "title": "Sekketralle / transporttralle med luftgummihjul",
+    "price_kr": 500,
+    "score": 65,
+    "specs": "Luftgummihjul, transporttralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/468639302"
+  },
+  {
+    "id": "465298209",
+    "date": "2026-07-02T08:16:31.224603",
+    "title": "Verktøyvogn i metall med hyller og stol",
+    "price_kr": 1000,
+    "score": 0,
+    "specs": "Metall, hyller, stol",
+    "url": "https://www.finn.no/recommerce/forsale/item/465298209"
+  },
+  {
+    "id": "466618511",
+    "date": "2026-07-02T08:16:31.224603",
+    "title": "Märklin 4024.1 Spisevogn H0 Helmetall",
+    "price_kr": 185,
+    "score": 0,
+    "specs": "Modelljernbanespor H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/466618511"
+  },
+  {
+    "id": "441692169",
+    "date": "2026-07-02T08:16:31.224603",
+    "title": "X Märklin 24612 Digital sporskifte C-skinner H0",
+    "price_kr": 925,
+    "score": 0,
+    "specs": "Modelljernbaneutstyr H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/441692169"
+  },
+  {
+    "id": "464211544",
+    "date": "2026-07-02T08:16:31.224603",
+    "title": "Marklin 4442.1 Tankvogn SHELL H0",
+    "price_kr": 168,
+    "score": 0,
+    "specs": "Modelljernbanespor H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/464211544"
+  },
+  {
+    "id": "448002071",
+    "date": "2026-07-02T08:16:31.224603",
+    "title": "Selger 15 stk. Märklin luftledningsmaster",
+    "price_kr": 395,
+    "score": 0,
+    "specs": "Modelljernbaneutstyr",
+    "url": "https://www.finn.no/recommerce/forsale/item/448002071"
+  },
+  {
+    "id": "419400021",
+    "date": "2026-07-02T08:16:31.224603",
+    "title": "Selger 1 stk. Marklin 7224 Vognpåsetter i plast",
+    "price_kr": 69,
+    "score": 0,
+    "specs": "Modelljernbaneutstyr i plast",
+    "url": "https://www.finn.no/recommerce/forsale/item/419400021"
+  },
+  {
+    "id": "451294770",
+    "date": "2026-07-02T08:16:31.224603",
+    "title": "Tunnel/landskapsmodell til modelljernbane H0",
+    "price_kr": 250,
+    "score": 0,
+    "specs": "Modelljernbaneutstyr",
+    "url": "https://www.finn.no/recommerce/forsale/item/451294770"
+  },
+  {
+    "id": "359130441",
+    "date": "2026-07-02T08:16:31.224603",
+    "title": "Marklin 4414 INTERFRIGO Bananvogn",
+    "price_kr": 155,
+    "score": 0,
+    "specs": "Modelljernbanespor H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/359130441"
+  },
+  {
+    "id": "251386052",
+    "date": "2026-07-02T08:16:31.224603",
+    "title": "Marklin 4447 Tankvogn Solvay",
+    "price_kr": 195,
+    "score": 0,
+    "specs": "Modelljernbanespor H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/251386052"
+  },
+  {
+    "id": "442037546",
+    "date": "2026-07-02T08:16:31.224603",
+    "title": "Märklin 24671/72 Buepenser, C-skinner",
+    "price_kr": 380,
+    "score": 0,
+    "specs": "Modelljernbaneutstyr",
+    "url": "https://www.finn.no/recommerce/forsale/item/442037546"
+  },
+  {
+    "id": "254048876",
+    "date": "2026-07-02T08:16:31.224603",
+    "title": "Marklin 48341 SPATEN Champagner lang Ølvogn",
+    "price_kr": 230,
+    "score": 0,
+    "specs": "Modelljernbanespor H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/254048876"
+  },
+  {
+    "id": "441467404",
+    "date": "2026-07-02T08:16:31.224603",
+    "title": "6 stk Märklin 24130 buet C-skinner",
+    "price_kr": 190,
+    "score": 0,
+    "specs": "Modelljernbaneutstyr",
+    "url": "https://www.finn.no/recommerce/forsale/item/441467404"
+  },
+  {
+    "id": "312627798",
+    "date": "2026-07-01T19:02:48.470739",
+    "title": "Brus kjøleskap, dobbel kjøleskap",
+    "price_kr": 7900,
+    "score": 0,
+    "specs": "Ikke relevant",
+    "url": "https://www.finn.no/recommerce/forsale/item/312627798"
+  },
+  {
+    "id": "435734706",
+    "date": "2026-07-01T19:02:48.470739",
+    "title": "Miweba MB-700 Kraftig transportvogn - fargevalg",
+    "price_kr": 2584,
+    "score": 60,
+    "specs": "Miweba MB-700 modell — størrelse og spesifikasjoner ukjent fra kortekst",
+    "url": "https://www.finn.no/recommerce/forsale/item/435734706"
+  },
+  {
+    "id": "466899936",
+    "date": "2026-07-01T19:02:48.470739",
+    "title": "Kombitralle / sekketralle",
+    "price_kr": 250,
+    "score": 0,
+    "specs": "Sekketralle — lett konstruksjon",
+    "url": "https://www.finn.no/recommerce/forsale/item/466899936"
+  },
+  {
+    "id": "468610797",
+    "date": "2026-07-01T15:48:11.035562",
+    "title": "Transporttralle til påhengsmotor",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Ingen",
+    "url": "https://www.finn.no/recommerce/forsale/item/468610797"
+  },
+  {
+    "id": "467696479",
+    "date": "2026-07-01T15:48:11.035562",
+    "title": "Kul bokvogn",
+    "price_kr": 900,
+    "score": 0,
+    "specs": "Ingen",
+    "url": "https://www.finn.no/recommerce/forsale/item/467696479"
+  },
+  {
+    "id": "468607260",
+    "date": "2026-07-01T15:48:11.035562",
+    "title": "Godsvogn til modelljernbane H0 rød/brun",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Modell H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/468607260"
+  },
+  {
+    "id": "468606563",
+    "date": "2026-07-01T15:48:11.035562",
+    "title": "Carlsberg godsvogner til modelljernbane",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "Modelljernbane",
+    "url": "https://www.finn.no/recommerce/forsale/item/468606563"
+  },
+  {
+    "id": "468594333",
+    "date": "2026-07-01T12:13:26.949013",
+    "title": "Liten tralle",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Størrelse ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/468594333"
+  },
+  {
+    "id": "468581308",
+    "date": "2026-07-01T12:13:26.949013",
+    "title": "Fleischmann 1040 Modelltog med damplokomotiv og godsvogner på skinnegang",
+    "price_kr": 800,
+    "score": 0,
+    "specs": "Modelltog på skinnegang",
+    "url": "https://www.finn.no/recommerce/forsale/item/468581308"
+  },
+  {
+    "id": "435797731",
+    "date": "2026-07-01T12:13:26.949013",
+    "title": "Varetralle med batteri-drift",
+    "price_kr": 19000,
+    "score": 0,
+    "specs": "Batteri-drift, type og størrelse ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/435797731"
+  },
+  {
+    "id": "329999652",
+    "date": "2026-07-01T08:53:08.718971",
+    "title": "Display, kjøle vitrine, kakedisk",
+    "price_kr": 25500,
+    "score": 0,
+    "specs": "Kjølevitrine/kakedisk",
+    "url": "https://www.finn.no/recommerce/forsale/item/329999652"
+  },
+  {
+    "id": "345692142",
+    "date": "2026-07-01T08:53:08.718971",
+    "title": "Starke Arvid gipsplatevogn/gipsplatebord",
+    "price_kr": 15000,
+    "score": 0,
+    "specs": "Gipsplatevogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/345692142"
+  },
+  {
+    "id": "468547633",
+    "date": "2026-07-01T08:53:08.718971",
+    "title": "trilletralle",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Liten trilletralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/468547633"
+  },
+  {
+    "id": "415503861",
+    "date": "2026-07-01T08:53:08.718971",
+    "title": "Saccovogn",
+    "price_kr": 4000,
+    "score": 0,
+    "specs": "Saccovogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/415503861"
+  },
+  {
+    "id": "466574128",
+    "date": "2026-07-01T08:53:08.718971",
+    "title": "10 stk Marklin 7006 isolatorer for luftledning H0",
+    "price_kr": 135,
+    "score": 0,
+    "specs": "Modelljernbane-isolatorer",
+    "url": "https://www.finn.no/recommerce/forsale/item/466574128"
+  },
+  {
+    "id": "358575022",
+    "date": "2026-07-01T08:53:08.718971",
+    "title": "Marklin 4520.2 Beholdervogn, Bayer H0",
+    "price_kr": 285,
+    "score": 0,
+    "specs": "Modelljernbane-vogn H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/358575022"
+  },
+  {
+    "id": "436933486",
+    "date": "2026-07-01T08:53:08.718971",
+    "title": "Märklin 5221 Pensepar M-skinner H0",
+    "price_kr": 135,
+    "score": 0,
+    "specs": "Modelljernbane-tilbehør",
+    "url": "https://www.finn.no/recommerce/forsale/item/436933486"
+  },
+  {
+    "id": "250821035",
+    "date": "2026-07-01T08:53:08.718971",
+    "title": "Marklin Godsvogn Habins B cargo Nord Waggon",
+    "price_kr": 325,
+    "score": 0,
+    "specs": "Modelljernbane-vogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/250821035"
+  },
+  {
+    "id": "242386003",
+    "date": "2026-07-01T08:53:08.718971",
+    "title": "2 stk Marklin Broramper",
+    "price_kr": 220,
+    "score": 0,
+    "specs": "Modelljernbane-tilbehør",
+    "url": "https://www.finn.no/recommerce/forsale/item/242386003"
+  },
+  {
+    "id": "401391111",
+    "date": "2026-07-01T08:53:08.718971",
+    "title": "Diverse hus/byggninger til modelljernbane N/H0",
+    "price_kr": 950,
+    "score": 0,
+    "specs": "Modelljernbane-tilbehør",
+    "url": "https://www.finn.no/recommerce/forsale/item/401391111"
+  },
+  {
+    "id": "344452800",
+    "date": "2026-07-01T08:53:08.718971",
+    "title": "Marklin 4645 Tankvogn TOTAL H0 AC",
+    "price_kr": 195,
+    "score": 0,
+    "specs": "Modelljernbane-tankvogn H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/344452800"
+  },
+  {
+    "id": "356039090",
+    "date": "2026-07-01T08:53:08.718971",
+    "title": "Marklin 4004 3-akslet Passasjervogn H0",
+    "price_kr": 330,
+    "score": 0,
+    "specs": "Modelljernbane-passasjervogn H0",
+    "url": "https://www.finn.no/recommerce/forsale/item/356039090"
+  },
+  {
+    "id": "359472390",
+    "date": "2026-07-01T08:53:08.718971",
+    "title": "3 stk. Gamle Marklin Godsvogner HO",
+    "price_kr": 1890,
+    "score": 0,
+    "specs": "Modelljernbane-godsvogner",
+    "url": "https://www.finn.no/recommerce/forsale/item/359472390"
+  },
+  {
+    "id": "331912890",
+    "date": "2026-07-01T08:53:08.718971",
+    "title": "Schaltregulator AC/DC fra Sedlbauer AG",
+    "price_kr": 155,
+    "score": 0,
+    "specs": "Elektronisk komponent",
+    "url": "https://www.finn.no/recommerce/forsale/item/331912890"
+  },
+  {
+    "id": "419363573",
+    "date": "2026-07-01T08:53:08.718971",
+    "title": "1 stk. Faller 631 Kontakt/Pulsrele",
+    "price_kr": 275,
+    "score": 0,
+    "specs": "Modelljernbane-komponent",
+    "url": "https://www.finn.no/recommerce/forsale/item/419363573"
+  },
+  {
+    "id": "468536172",
+    "date": "2026-06-30T19:00:44.556035",
+    "title": "Hundevogn",
+    "price_kr": 650,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/468536172"
+  },
+  {
+    "id": "468545090",
+    "date": "2026-06-30T19:00:44.556035",
+    "title": "Materialvogn, materialtralle",
+    "price_kr": 1900,
+    "score": 60,
+    "specs": "Ikke oppgitt i kortekst",
+    "url": "https://www.finn.no/recommerce/forsale/item/468545090"
+  },
+  {
+    "id": "193335456",
+    "date": "2026-06-30T15:36:40.895961",
+    "title": "Dobbel Kjøleskap eller Fryseskap 1400L",
+    "price_kr": 28500,
+    "score": 0,
+    "specs": "1400L, 140x81x205cm",
+    "url": "https://www.finn.no/recommerce/forsale/item/193335456"
+  },
+  {
+    "id": "468508088",
+    "date": "2026-06-30T15:36:40.895961",
+    "title": "Bits Cargo trailer",
+    "price_kr": 700,
+    "score": 0,
+    "specs": "Bits Cargo trailer",
+    "url": "https://www.finn.no/recommerce/forsale/item/468508088"
+  },
+  {
+    "id": "468528524",
+    "date": "2026-06-30T15:36:40.895961",
+    "title": "Mursteinstralle",
+    "price_kr": 2500,
+    "score": 60,
+    "specs": "Mursteinstralle, lokalisert Slattum (innenfor 1,5t fra Oslo)",
+    "url": "https://www.finn.no/recommerce/forsale/item/468528524"
+  },
+  {
+    "id": "468509767",
+    "date": "2026-06-30T15:36:40.895961",
+    "title": "Familie kano Aquarius Manitou 3wave",
+    "price_kr": 6400,
+    "score": 0,
+    "specs": "Familie kano",
+    "url": "https://www.finn.no/recommerce/forsale/item/468509767"
+  },
+  {
     "id": "198166821",
     "date": "2026-06-30T09:01:10.579509",
     "title": "Kjølebenk, Pizza kjølebenk med garnityr kjøler til profesjonell bruk",
@@ -2572,1931 +4498,5 @@
     "score": 0,
     "specs": "Landbruksvogn (silovogn/rundballvogn)",
     "url": "https://www.finn.no/recommerce/forsale/item/462503544"
-  },
-  {
-    "id": "462446300",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Avlesservogn",
-    "price_kr": 3000,
-    "score": 0,
-    "specs": "Landbruksvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/462446300"
-  },
-  {
-    "id": "434456514",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Palle vogn",
-    "price_kr": 1500,
-    "score": 0,
-    "specs": "Pallekjerre/pallestativ",
-    "url": "https://www.finn.no/recommerce/forsale/item/434456514"
-  },
-  {
-    "id": "193335456",
-    "date": "2026-06-30T15:36:40.895961",
-    "title": "Dobbel Kjøleskap eller Fryseskap 1400L",
-    "price_kr": 28500,
-    "score": 0,
-    "specs": "1400L, 140x81x205cm",
-    "url": "https://www.finn.no/recommerce/forsale/item/193335456"
-  },
-  {
-    "id": "468508088",
-    "date": "2026-06-30T15:36:40.895961",
-    "title": "Bits Cargo trailer",
-    "price_kr": 700,
-    "score": 0,
-    "specs": "Bits Cargo trailer",
-    "url": "https://www.finn.no/recommerce/forsale/item/468508088"
-  },
-  {
-    "id": "468528524",
-    "date": "2026-06-30T15:36:40.895961",
-    "title": "Mursteinstralle",
-    "price_kr": 2500,
-    "score": 60,
-    "specs": "Mursteinstralle, lokalisert Slattum (innenfor 1,5t fra Oslo)",
-    "url": "https://www.finn.no/recommerce/forsale/item/468528524"
-  },
-  {
-    "id": "468509767",
-    "date": "2026-06-30T15:36:40.895961",
-    "title": "Familie kano Aquarius Manitou 3wave",
-    "price_kr": 6400,
-    "score": 0,
-    "specs": "Familie kano",
-    "url": "https://www.finn.no/recommerce/forsale/item/468509767"
-  },
-  {
-    "id": "468536172",
-    "date": "2026-06-30T19:00:44.556035",
-    "title": "Hundevogn",
-    "price_kr": 650,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/468536172"
-  },
-  {
-    "id": "468545090",
-    "date": "2026-06-30T19:00:44.556035",
-    "title": "Materialvogn, materialtralle",
-    "price_kr": 1900,
-    "score": 60,
-    "specs": "Ikke oppgitt i kortekst",
-    "url": "https://www.finn.no/recommerce/forsale/item/468545090"
-  },
-  {
-    "id": "329999652",
-    "date": "2026-07-01T08:53:08.718971",
-    "title": "Display, kjøle vitrine, kakedisk",
-    "price_kr": 25500,
-    "score": 0,
-    "specs": "Kjølevitrine/kakedisk",
-    "url": "https://www.finn.no/recommerce/forsale/item/329999652"
-  },
-  {
-    "id": "345692142",
-    "date": "2026-07-01T08:53:08.718971",
-    "title": "Starke Arvid gipsplatevogn/gipsplatebord",
-    "price_kr": 15000,
-    "score": 0,
-    "specs": "Gipsplatevogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/345692142"
-  },
-  {
-    "id": "468547633",
-    "date": "2026-07-01T08:53:08.718971",
-    "title": "trilletralle",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Liten trilletralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/468547633"
-  },
-  {
-    "id": "415503861",
-    "date": "2026-07-01T08:53:08.718971",
-    "title": "Saccovogn",
-    "price_kr": 4000,
-    "score": 0,
-    "specs": "Saccovogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/415503861"
-  },
-  {
-    "id": "466574128",
-    "date": "2026-07-01T08:53:08.718971",
-    "title": "10 stk Marklin 7006 isolatorer for luftledning H0",
-    "price_kr": 135,
-    "score": 0,
-    "specs": "Modelljernbane-isolatorer",
-    "url": "https://www.finn.no/recommerce/forsale/item/466574128"
-  },
-  {
-    "id": "358575022",
-    "date": "2026-07-01T08:53:08.718971",
-    "title": "Marklin 4520.2 Beholdervogn, Bayer H0",
-    "price_kr": 285,
-    "score": 0,
-    "specs": "Modelljernbane-vogn H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/358575022"
-  },
-  {
-    "id": "436933486",
-    "date": "2026-07-01T08:53:08.718971",
-    "title": "Märklin 5221 Pensepar M-skinner H0",
-    "price_kr": 135,
-    "score": 0,
-    "specs": "Modelljernbane-tilbehør",
-    "url": "https://www.finn.no/recommerce/forsale/item/436933486"
-  },
-  {
-    "id": "250821035",
-    "date": "2026-07-01T08:53:08.718971",
-    "title": "Marklin Godsvogn Habins B cargo Nord Waggon",
-    "price_kr": 325,
-    "score": 0,
-    "specs": "Modelljernbane-vogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/250821035"
-  },
-  {
-    "id": "242386003",
-    "date": "2026-07-01T08:53:08.718971",
-    "title": "2 stk Marklin Broramper",
-    "price_kr": 220,
-    "score": 0,
-    "specs": "Modelljernbane-tilbehør",
-    "url": "https://www.finn.no/recommerce/forsale/item/242386003"
-  },
-  {
-    "id": "401391111",
-    "date": "2026-07-01T08:53:08.718971",
-    "title": "Diverse hus/byggninger til modelljernbane N/H0",
-    "price_kr": 950,
-    "score": 0,
-    "specs": "Modelljernbane-tilbehør",
-    "url": "https://www.finn.no/recommerce/forsale/item/401391111"
-  },
-  {
-    "id": "344452800",
-    "date": "2026-07-01T08:53:08.718971",
-    "title": "Marklin 4645 Tankvogn TOTAL H0 AC",
-    "price_kr": 195,
-    "score": 0,
-    "specs": "Modelljernbane-tankvogn H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/344452800"
-  },
-  {
-    "id": "356039090",
-    "date": "2026-07-01T08:53:08.718971",
-    "title": "Marklin 4004 3-akslet Passasjervogn H0",
-    "price_kr": 330,
-    "score": 0,
-    "specs": "Modelljernbane-passasjervogn H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/356039090"
-  },
-  {
-    "id": "359472390",
-    "date": "2026-07-01T08:53:08.718971",
-    "title": "3 stk. Gamle Marklin Godsvogner HO",
-    "price_kr": 1890,
-    "score": 0,
-    "specs": "Modelljernbane-godsvogner",
-    "url": "https://www.finn.no/recommerce/forsale/item/359472390"
-  },
-  {
-    "id": "331912890",
-    "date": "2026-07-01T08:53:08.718971",
-    "title": "Schaltregulator AC/DC fra Sedlbauer AG",
-    "price_kr": 155,
-    "score": 0,
-    "specs": "Elektronisk komponent",
-    "url": "https://www.finn.no/recommerce/forsale/item/331912890"
-  },
-  {
-    "id": "419363573",
-    "date": "2026-07-01T08:53:08.718971",
-    "title": "1 stk. Faller 631 Kontakt/Pulsrele",
-    "price_kr": 275,
-    "score": 0,
-    "specs": "Modelljernbane-komponent",
-    "url": "https://www.finn.no/recommerce/forsale/item/419363573"
-  },
-  {
-    "id": "468594333",
-    "date": "2026-07-01T12:13:26.949013",
-    "title": "Liten tralle",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Størrelse ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/468594333"
-  },
-  {
-    "id": "468581308",
-    "date": "2026-07-01T12:13:26.949013",
-    "title": "Fleischmann 1040 Modelltog med damplokomotiv og godsvogner på skinnegang",
-    "price_kr": 800,
-    "score": 0,
-    "specs": "Modelltog på skinnegang",
-    "url": "https://www.finn.no/recommerce/forsale/item/468581308"
-  },
-  {
-    "id": "435797731",
-    "date": "2026-07-01T12:13:26.949013",
-    "title": "Varetralle med batteri-drift",
-    "price_kr": 19000,
-    "score": 0,
-    "specs": "Batteri-drift, type og størrelse ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/435797731"
-  },
-  {
-    "id": "468610797",
-    "date": "2026-07-01T15:48:11.035562",
-    "title": "Transporttralle til påhengsmotor",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Ingen",
-    "url": "https://www.finn.no/recommerce/forsale/item/468610797"
-  },
-  {
-    "id": "467696479",
-    "date": "2026-07-01T15:48:11.035562",
-    "title": "Kul bokvogn",
-    "price_kr": 900,
-    "score": 0,
-    "specs": "Ingen",
-    "url": "https://www.finn.no/recommerce/forsale/item/467696479"
-  },
-  {
-    "id": "468607260",
-    "date": "2026-07-01T15:48:11.035562",
-    "title": "Godsvogn til modelljernbane H0 rød/brun",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Modell H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/468607260"
-  },
-  {
-    "id": "468606563",
-    "date": "2026-07-01T15:48:11.035562",
-    "title": "Carlsberg godsvogner til modelljernbane",
-    "price_kr": 200,
-    "score": 0,
-    "specs": "Modelljernbane",
-    "url": "https://www.finn.no/recommerce/forsale/item/468606563"
-  },
-  {
-    "id": "312627798",
-    "date": "2026-07-01T19:02:48.470739",
-    "title": "Brus kjøleskap, dobbel kjøleskap",
-    "price_kr": 7900,
-    "score": 0,
-    "specs": "Ikke relevant",
-    "url": "https://www.finn.no/recommerce/forsale/item/312627798"
-  },
-  {
-    "id": "435734706",
-    "date": "2026-07-01T19:02:48.470739",
-    "title": "Miweba MB-700 Kraftig transportvogn - fargevalg",
-    "price_kr": 2584,
-    "score": 60,
-    "specs": "Miweba MB-700 modell — størrelse og spesifikasjoner ukjent fra kortekst",
-    "url": "https://www.finn.no/recommerce/forsale/item/435734706"
-  },
-  {
-    "id": "466899936",
-    "date": "2026-07-01T19:02:48.470739",
-    "title": "Kombitralle / sekketralle",
-    "price_kr": 250,
-    "score": 0,
-    "specs": "Sekketralle — lett konstruksjon",
-    "url": "https://www.finn.no/recommerce/forsale/item/466899936"
-  },
-  {
-    "id": "468639302",
-    "date": "2026-07-02T08:16:31.224603",
-    "title": "Sekketralle / transporttralle med luftgummihjul",
-    "price_kr": 500,
-    "score": 65,
-    "specs": "Luftgummihjul, transporttralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/468639302"
-  },
-  {
-    "id": "465298209",
-    "date": "2026-07-02T08:16:31.224603",
-    "title": "Verktøyvogn i metall med hyller og stol",
-    "price_kr": 1000,
-    "score": 0,
-    "specs": "Metall, hyller, stol",
-    "url": "https://www.finn.no/recommerce/forsale/item/465298209"
-  },
-  {
-    "id": "466618511",
-    "date": "2026-07-02T08:16:31.224603",
-    "title": "Märklin 4024.1 Spisevogn H0 Helmetall",
-    "price_kr": 185,
-    "score": 0,
-    "specs": "Modelljernbanespor H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/466618511"
-  },
-  {
-    "id": "441692169",
-    "date": "2026-07-02T08:16:31.224603",
-    "title": "X Märklin 24612 Digital sporskifte C-skinner H0",
-    "price_kr": 925,
-    "score": 0,
-    "specs": "Modelljernbaneutstyr H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/441692169"
-  },
-  {
-    "id": "464211544",
-    "date": "2026-07-02T08:16:31.224603",
-    "title": "Marklin 4442.1 Tankvogn SHELL H0",
-    "price_kr": 168,
-    "score": 0,
-    "specs": "Modelljernbanespor H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/464211544"
-  },
-  {
-    "id": "448002071",
-    "date": "2026-07-02T08:16:31.224603",
-    "title": "Selger 15 stk. Märklin luftledningsmaster",
-    "price_kr": 395,
-    "score": 0,
-    "specs": "Modelljernbaneutstyr",
-    "url": "https://www.finn.no/recommerce/forsale/item/448002071"
-  },
-  {
-    "id": "419400021",
-    "date": "2026-07-02T08:16:31.224603",
-    "title": "Selger 1 stk. Marklin 7224 Vognpåsetter i plast",
-    "price_kr": 69,
-    "score": 0,
-    "specs": "Modelljernbaneutstyr i plast",
-    "url": "https://www.finn.no/recommerce/forsale/item/419400021"
-  },
-  {
-    "id": "451294770",
-    "date": "2026-07-02T08:16:31.224603",
-    "title": "Tunnel/landskapsmodell til modelljernbane H0",
-    "price_kr": 250,
-    "score": 0,
-    "specs": "Modelljernbaneutstyr",
-    "url": "https://www.finn.no/recommerce/forsale/item/451294770"
-  },
-  {
-    "id": "359130441",
-    "date": "2026-07-02T08:16:31.224603",
-    "title": "Marklin 4414 INTERFRIGO Bananvogn",
-    "price_kr": 155,
-    "score": 0,
-    "specs": "Modelljernbanespor H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/359130441"
-  },
-  {
-    "id": "251386052",
-    "date": "2026-07-02T08:16:31.224603",
-    "title": "Marklin 4447 Tankvogn Solvay",
-    "price_kr": 195,
-    "score": 0,
-    "specs": "Modelljernbanespor H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/251386052"
-  },
-  {
-    "id": "442037546",
-    "date": "2026-07-02T08:16:31.224603",
-    "title": "Märklin 24671/72 Buepenser, C-skinner",
-    "price_kr": 380,
-    "score": 0,
-    "specs": "Modelljernbaneutstyr",
-    "url": "https://www.finn.no/recommerce/forsale/item/442037546"
-  },
-  {
-    "id": "254048876",
-    "date": "2026-07-02T08:16:31.224603",
-    "title": "Marklin 48341 SPATEN Champagner lang Ølvogn",
-    "price_kr": 230,
-    "score": 0,
-    "specs": "Modelljernbanespor H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/254048876"
-  },
-  {
-    "id": "441467404",
-    "date": "2026-07-02T08:16:31.224603",
-    "title": "6 stk Märklin 24130 buet C-skinner",
-    "price_kr": 190,
-    "score": 0,
-    "specs": "Modelljernbaneutstyr",
-    "url": "https://www.finn.no/recommerce/forsale/item/441467404"
-  },
-  {
-    "id": "439825369",
-    "date": "2026-07-02T11:39:36.202550",
-    "title": "LEGO 75312 Boba Fett's Starship",
-    "price_kr": 700,
-    "score": 0,
-    "specs": "LEGO-sett",
-    "url": "https://www.finn.no/recommerce/forsale/item/439825369"
-  },
-  {
-    "id": "428811632",
-    "date": "2026-07-02T11:39:36.202550",
-    "title": "Transporttralle påhengsmotor",
-    "price_kr": 290,
-    "score": 0,
-    "specs": "Ukjent størrelse og spesifikasjoner",
-    "url": "https://www.finn.no/recommerce/forsale/item/428811632"
-  },
-  {
-    "id": "433631046",
-    "date": "2026-07-02T11:39:36.202550",
-    "title": "La models 15032 Ler",
-    "price_kr": 390,
-    "score": 0,
-    "specs": "Modellbil/lekesett",
-    "url": "https://www.finn.no/recommerce/forsale/item/433631046"
-  },
-  {
-    "id": "468689135",
-    "date": "2026-07-02T18:40:36.145238",
-    "title": "Chariot CX 1 med alt av utstyr",
-    "price_kr": 2000,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/468689135"
-  },
-  {
-    "id": "468710499",
-    "date": "2026-07-02T18:40:36.145238",
-    "title": "Nivåklosser og transporttralle til wc campingvogn/bobil",
-    "price_kr": 250,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/468710499"
-  },
-  {
-    "id": "399980019",
-    "date": "2026-07-02T18:40:36.145238",
-    "title": "Platetransportvogn",
-    "price_kr": 3500,
-    "score": 40,
-    "specs": "Ikke oppgitt — navn antyder platetransport",
-    "url": "https://www.finn.no/recommerce/forsale/item/399980019"
-  },
-  {
-    "id": "466736977",
-    "date": "2026-07-03T08:15:12.988848",
-    "title": "Forskjellige arbeidere figurer til modelljernbane H0",
-    "price_kr": 120,
-    "score": 0,
-    "specs": "Modelljernbanefigurer",
-    "url": "https://www.finn.no/recommerce/forsale/item/466736977"
-  },
-  {
-    "id": "254656300",
-    "date": "2026-07-03T08:15:12.988848",
-    "title": "Märklin 36805 Diesel lok HO Digital",
-    "price_kr": 1450,
-    "score": 0,
-    "specs": "Modelljernbane lokomotiv H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/254656300"
-  },
-  {
-    "id": "359219364",
-    "date": "2026-07-03T08:15:12.988848",
-    "title": "Marklin 4618.1 Tungtransport m/BAHIA Transportkasse",
-    "price_kr": 220,
-    "score": 0,
-    "specs": "Modelljernbanevogn H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/359219364"
-  },
-  {
-    "id": "459824577",
-    "date": "2026-07-03T08:15:12.988848",
-    "title": "Märklin 6604 Delta Control AC",
-    "price_kr": 375,
-    "score": 0,
-    "specs": "Modelljernbanekontroller",
-    "url": "https://www.finn.no/recommerce/forsale/item/459824577"
-  },
-  {
-    "id": "249621367",
-    "date": "2026-07-03T08:15:12.988848",
-    "title": "Marklin 4511.6 Kullstøv Tankvogn",
-    "price_kr": 130,
-    "score": 0,
-    "specs": "Modelljernbanevogn H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/249621367"
-  },
-  {
-    "id": "455921175",
-    "date": "2026-07-03T08:15:12.988848",
-    "title": "Marklin signal 7039 og 7239",
-    "price_kr": 390,
-    "score": 0,
-    "specs": "Modelljernbanesignaler",
-    "url": "https://www.finn.no/recommerce/forsale/item/455921175"
-  },
-  {
-    "id": "451294427",
-    "date": "2026-07-03T08:15:12.988848",
-    "title": "Tunnel/landskapsmodell til modelljernbane H0",
-    "price_kr": 350,
-    "score": 0,
-    "specs": "Modelljernbanetilbehør",
-    "url": "https://www.finn.no/recommerce/forsale/item/451294427"
-  },
-  {
-    "id": "345670167",
-    "date": "2026-07-03T08:15:12.988848",
-    "title": "Marklin 84652 DEA Tankvogn H0",
-    "price_kr": 280,
-    "score": 0,
-    "specs": "Modelljernbanevogn H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/345670167"
-  },
-  {
-    "id": "249241904",
-    "date": "2026-07-03T08:15:12.988848",
-    "title": "Märklin 4516.1 Stakevogn 4-akslet",
-    "price_kr": 295,
-    "score": 0,
-    "specs": "Modelljernbanevogn H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/249241904"
-  },
-  {
-    "id": "441398269",
-    "date": "2026-07-03T08:15:12.988848",
-    "title": "6 stk Märklin 24130 buet C-skinner",
-    "price_kr": 190,
-    "score": 0,
-    "specs": "Modelljernbaneskinner H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/441398269"
-  },
-  {
-    "id": "462201015",
-    "date": "2026-07-03T08:15:12.988848",
-    "title": "Roco z21 start digitalsett H0 modelljernbane",
-    "price_kr": 5000,
-    "score": 0,
-    "specs": "Modelljernbanedigitalsett H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/462201015"
-  },
-  {
-    "id": "467434381",
-    "date": "2026-07-03T08:15:12.988848",
-    "title": "Cyklop båndvogn med strammeverktøy",
-    "price_kr": 3000,
-    "score": 0,
-    "specs": "Båndvogn for strapping/omseiling",
-    "url": "https://www.finn.no/recommerce/forsale/item/467434381"
-  },
-  {
-    "id": "433665024",
-    "date": "2026-07-03T11:38:06.457013",
-    "title": "Rolltrailer til leie",
-    "price_kr": 250,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/433665024"
-  },
-  {
-    "id": "323882589",
-    "date": "2026-07-03T11:38:06.457013",
-    "title": "Rieber Kvalitets Varm / Fryz / Kjøl transportvogn 1600 DU Hybrid",
-    "price_kr": 19880,
-    "score": 0,
-    "specs": "Modell 1600 DU Hybrid — Rieber kjøl-/varmevogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/323882589"
-  },
-  {
-    "id": "421749616",
-    "date": "2026-07-03T11:38:06.457013",
-    "title": "Plattformvogn",
-    "price_kr": 500,
-    "score": 40,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/421749616"
-  },
-  {
-    "id": "468791499",
-    "date": "2026-07-03T15:15:56.577881",
-    "title": "Vogn hyller",
-    "price_kr": 300,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/468791499"
-  },
-  {
-    "id": "468825291",
-    "date": "2026-07-03T18:17:38.320614",
-    "title": "Profesjonelt lydanlegg/PA anlegg til leie | RCF ART-912 + 18\" sub",
-    "price_kr": 1000,
-    "score": 0,
-    "specs": "Lydanlegg/PA-utstyr",
-    "url": "https://www.finn.no/recommerce/forsale/item/468825291"
-  },
-  {
-    "id": "468826627",
-    "date": "2026-07-03T18:17:38.320614",
-    "title": "Tredal t 75 br",
-    "price_kr": 5000,
-    "score": 0,
-    "specs": "Ikke spesifisert",
-    "url": "https://www.finn.no/recommerce/forsale/item/468826627"
-  },
-  {
-    "id": "442457524",
-    "date": "2026-07-03T18:17:38.320614",
-    "title": "Lima H0 Godsvogner – FS (Italienske statsbaner)",
-    "price_kr": 200,
-    "score": 0,
-    "specs": "H0-modelljernbane godsvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/442457524"
-  },
-  {
-    "id": "442456118",
-    "date": "2026-07-03T18:17:38.320614",
-    "title": "Lima H0 Godsvogner – FS Dekt & Shell Tankvogn",
-    "price_kr": 200,
-    "score": 0,
-    "specs": "H0-modelljernbane tankvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/442456118"
-  },
-  {
-    "id": "269575562",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "Solid tralle verktøyvogn vedtrille",
-    "price_kr": 650,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/269575562"
-  },
-  {
-    "id": "465184974",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "Material støtter",
-    "price_kr": 500,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/465184974"
-  },
-  {
-    "id": "272972003",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "Hyttetralla fra Bø",
-    "price_kr": 650,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/272972003"
-  },
-  {
-    "id": "437304205",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "Stor eske med 25 Märklin HO modelltogvogner",
-    "price_kr": 1800,
-    "score": 0,
-    "specs": "Modelltogvogner H0",
-    "url": "https://www.finn.no/recommerce/forsale/item/437304205"
-  },
-  {
-    "id": "466579861",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "10 stk Marklin 7006 isolatorer for luftledning H0",
-    "price_kr": 135,
-    "score": 0,
-    "specs": "Modelljernbanetilbehør",
-    "url": "https://www.finn.no/recommerce/forsale/item/466579861"
-  },
-  {
-    "id": "466019830",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "Marklin 7009 luftledningsmaster H0 for M-skinner",
-    "price_kr": 230,
-    "score": 0,
-    "specs": "Modelljernbanetilbehør",
-    "url": "https://www.finn.no/recommerce/forsale/item/466019830"
-  },
-  {
-    "id": "466020487",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "Marklin 7009 luftledningsmaster H0 for K-skinner",
-    "price_kr": 230,
-    "score": 0,
-    "specs": "Modelljernbanetilbehør",
-    "url": "https://www.finn.no/recommerce/forsale/item/466020487"
-  },
-  {
-    "id": "457371650",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "Marklin 5202 Elektrisk Pensepar M-skinne H0",
-    "price_kr": 290,
-    "score": 0,
-    "specs": "Modelljernbanetilbehør",
-    "url": "https://www.finn.no/recommerce/forsale/item/457371650"
-  },
-  {
-    "id": "448545533",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "Tunnel Heki 5032 til modelljernbane H0",
-    "price_kr": 190,
-    "score": 0,
-    "specs": "Modelljernbanetilbehør",
-    "url": "https://www.finn.no/recommerce/forsale/item/448545533"
-  },
-  {
-    "id": "261183628",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "Marklin Melketransportvogn fra sett 29237",
-    "price_kr": 205,
-    "score": 0,
-    "specs": "Modelljernbanevogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/261183628"
-  },
-  {
-    "id": "359153083",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "Marklin 4465 Åpen Godsvogn",
-    "price_kr": 155,
-    "score": 0,
-    "specs": "Modelljernbanevogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/359153083"
-  },
-  {
-    "id": "457404676",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "Marklin 7051 elektrisk modellkran for modelljernbane H0 AC",
-    "price_kr": 1950,
-    "score": 0,
-    "specs": "Modelljernbanetilbehør",
-    "url": "https://www.finn.no/recommerce/forsale/item/457404676"
-  },
-  {
-    "id": "332194352",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "Gammel Marklin 374 SHELL Tankvogn HO",
-    "price_kr": 675,
-    "score": 0,
-    "specs": "Modelljernbanevogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/332194352"
-  },
-  {
-    "id": "456687641",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "Märklin sidespor med Avkoblingsskinne og Stoppbukk H0",
-    "price_kr": 645,
-    "score": 0,
-    "specs": "Modelljernbanetilbehør",
-    "url": "https://www.finn.no/recommerce/forsale/item/456687641"
-  },
-  {
-    "id": "359467165",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "Märklin 4600/310/1 Pakkvogn H0",
-    "price_kr": 480,
-    "score": 0,
-    "specs": "Modelljernbanevogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/359467165"
-  },
-  {
-    "id": "350556981",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "Marklin 7186 Dreieskive med kontroll H0",
-    "price_kr": 1900,
-    "score": 0,
-    "specs": "Modelljernbanetilbehør",
-    "url": "https://www.finn.no/recommerce/forsale/item/350556981"
-  },
-  {
-    "id": "380694776",
-    "date": "2026-07-04T07:52:30.383365",
-    "title": "Marklin 2943 H0 Startsett med ekstra skinner og utstyr",
-    "price_kr": 1750,
-    "score": 0,
-    "specs": "Modelljernbaneanlegg",
-    "url": "https://www.finn.no/recommerce/forsale/item/380694776"
-  },
-  {
-    "id": "468866991",
-    "date": "2026-07-04T10:57:49.080591",
-    "title": "Marklin bane 25-30M med masse utstyr fra 70-80 tallet",
-    "price_kr": 24900,
-    "score": 0,
-    "specs": "",
-    "url": "https://www.finn.no/recommerce/forsale/item/468866991"
-  },
-  {
-    "id": "443358404",
-    "date": "2026-07-04T10:57:49.080591",
-    "title": "Roco 46408.1 Ler — Lastebil i bevegelse",
-    "price_kr": 240,
-    "score": 0,
-    "specs": "",
-    "url": "https://www.finn.no/recommerce/forsale/item/443358404"
-  },
-  {
-    "id": "466253360",
-    "date": "2026-07-04T14:42:02.676701",
-    "title": "Jysk vogn",
-    "price_kr": 150,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/466253360"
-  },
-  {
-    "id": "468919697",
-    "date": "2026-07-04T18:07:28.553322",
-    "title": "TRALLE SAMMENLEGGBAR 70 KG",
-    "price_kr": 200,
-    "score": 0,
-    "specs": "Sammenleggbar, 70 kg",
-    "url": "https://www.finn.no/recommerce/forsale/item/468919697"
-  },
-  {
-    "id": "468939355",
-    "date": "2026-07-05T08:07:15.905175",
-    "title": "Tralle",
-    "price_kr": 200,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/468939355"
-  },
-  {
-    "id": "468927462",
-    "date": "2026-07-05T08:07:15.905175",
-    "title": "Tralle med fire hjul og håndtak",
-    "price_kr": 1000,
-    "score": 45,
-    "specs": "4 hjul, håndtak — størrelse og kapasitet ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/468927462"
-  },
-  {
-    "id": "464306282",
-    "date": "2026-07-05T08:07:15.905175",
-    "title": "Eldre vogn selges",
-    "price_kr": 4000,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/464306282"
-  },
-  {
-    "id": "464692100",
-    "date": "2026-07-05T08:07:15.905175",
-    "title": "WANZI PLATTFORMTRALLE TIL GIBORTPRIS HØY KVALITET",
-    "price_kr": 450,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/464692100"
-  },
-  {
-    "id": "466580001",
-    "date": "2026-07-05T08:07:15.905175",
-    "title": "2 stk Marklin 7025 utligger for luftledning H0",
-    "price_kr": 68,
-    "score": 0,
-    "specs": "Modelljernbane H0-skala",
-    "url": "https://www.finn.no/recommerce/forsale/item/466580001"
-  },
-  {
-    "id": "441535684",
-    "date": "2026-07-05T08:07:15.905175",
-    "title": "Marklin 4612.4/315/4 Biltransport HO",
-    "price_kr": 295,
-    "score": 0,
-    "specs": "Modelljernbane HO-skala",
-    "url": "https://www.finn.no/recommerce/forsale/item/441535684"
-  },
-  {
-    "id": "251388910",
-    "date": "2026-07-05T08:07:15.905175",
-    "title": "Marklin 4447 Tankvogn Solvay",
-    "price_kr": 175,
-    "score": 0,
-    "specs": "Modelljernbane",
-    "url": "https://www.finn.no/recommerce/forsale/item/251388910"
-  },
-  {
-    "id": "364720419",
-    "date": "2026-07-05T08:07:15.905175",
-    "title": "MARKLIN MOBILE STATION 60652 + 60113 + 66361 36VA",
-    "price_kr": 750,
-    "score": 0,
-    "specs": "Modelljernbane-kontrollsystem",
-    "url": "https://www.finn.no/recommerce/forsale/item/364720419"
-  },
-  {
-    "id": "441534552",
-    "date": "2026-07-05T08:07:15.905175",
-    "title": "Märklin 4514.2 Åpen 4-akslet Godsvogn",
-    "price_kr": 175,
-    "score": 0,
-    "specs": "Modelljernbane H0-skala",
-    "url": "https://www.finn.no/recommerce/forsale/item/441534552"
-  },
-  {
-    "id": "388146041",
-    "date": "2026-07-05T08:07:15.905175",
-    "title": "Gammel Märklin 4516.1 Stakevogn H0",
-    "price_kr": 395,
-    "score": 0,
-    "specs": "Modelljernbane H0-skala",
-    "url": "https://www.finn.no/recommerce/forsale/item/388146041"
-  },
-  {
-    "id": "419337627",
-    "date": "2026-07-05T08:07:15.905175",
-    "title": "Selger 1 stk Märklin 37540 Trafo 10VA AC",
-    "price_kr": 375,
-    "score": 0,
-    "specs": "Modelljernbane-transformator",
-    "url": "https://www.finn.no/recommerce/forsale/item/419337627"
-  },
-  {
-    "id": "253899667",
-    "date": "2026-07-05T08:07:15.905175",
-    "title": "Marklin 46202 Kulmbacher lukket ølvogn",
-    "price_kr": 210,
-    "score": 0,
-    "specs": "Modelljernbane",
-    "url": "https://www.finn.no/recommerce/forsale/item/253899667"
-  },
-  {
-    "id": "401392228",
-    "date": "2026-07-05T08:07:15.905175",
-    "title": "Diverse hus/byggninger til modelljernbane N/H0",
-    "price_kr": 1000,
-    "score": 0,
-    "specs": "Modelljernbane-tilbehør",
-    "url": "https://www.finn.no/recommerce/forsale/item/401392228"
-  },
-  {
-    "id": "455924760",
-    "date": "2026-07-05T08:07:15.905175",
-    "title": "Vintage Marklin Togsett HO",
-    "price_kr": 535,
-    "score": 0,
-    "specs": "Modelljernbane HO-skala",
-    "url": "https://www.finn.no/recommerce/forsale/item/455924760"
-  },
-  {
-    "id": "441687860",
-    "date": "2026-07-05T08:07:15.905175",
-    "title": "X Märklin 24612 Digital sporskifte C-skinner H0",
-    "price_kr": 700,
-    "score": 0,
-    "specs": "Modelljernbane-tilbehør H0-skala",
-    "url": "https://www.finn.no/recommerce/forsale/item/441687860"
-  },
-  {
-    "id": "225410135",
-    "date": "2026-07-05T11:08:41.701960",
-    "title": "Frysedisk, fryseboks",
-    "price_kr": 21500,
-    "score": 0,
-    "specs": "Frysedisk/fryseboks",
-    "url": "https://www.finn.no/recommerce/forsale/item/225410135"
-  },
-  {
-    "id": "376099427",
-    "date": "2026-07-05T11:08:41.701960",
-    "title": "Vogn til hest",
-    "price_kr": 3000,
-    "score": 0,
-    "specs": "Hestevogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/376099427"
-  },
-  {
-    "id": "467171428",
-    "date": "2026-07-05T11:08:41.701960",
-    "title": "Hjemmlaget vogne i spur 0",
-    "price_kr": 1234,
-    "score": 0,
-    "specs": "Modelljernbane, spur 0",
-    "url": "https://www.finn.no/recommerce/forsale/item/467171428"
-  },
-  {
-    "id": "403257140",
-    "date": "2026-07-05T14:49:30.473250",
-    "title": "Lagervogner",
-    "price_kr": 1900,
-    "score": 60,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/403257140"
-  },
-  {
-    "id": "468984934",
-    "date": "2026-07-05T14:49:30.473250",
-    "title": "Tralle med luftgummihjul",
-    "price_kr": 200,
-    "score": 0,
-    "specs": "Luftgummihjul",
-    "url": "https://www.finn.no/recommerce/forsale/item/468984934"
-  },
-  {
-    "id": "468993545",
-    "date": "2026-07-05T14:49:30.473250",
-    "title": "Märklin H0 4 boggi godsvogner",
-    "price_kr": 600,
-    "score": 0,
-    "specs": "Märklin H0 modelljernbane",
-    "url": "https://www.finn.no/recommerce/forsale/item/468993545"
-  },
-  {
-    "id": "468993227",
-    "date": "2026-07-05T14:49:30.473250",
-    "title": "Märklin H0, stort parti med startsett, skinner, vogner og bygninger",
-    "price_kr": 4500,
-    "score": 0,
-    "specs": "Märklin H0 modelljernbane — startsett, skinner, vogner, bygninger",
-    "url": "https://www.finn.no/recommerce/forsale/item/468993227"
-  },
-  {
-    "id": "469012376",
-    "date": "2026-07-05T18:10:32.313271",
-    "title": "Tralle - takler opp mot 500kg last",
-    "price_kr": 750,
-    "score": 0,
-    "specs": "Kapasitet 500 kg — ingen størrelse oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/469012376"
-  },
-  {
-    "id": "469014344",
-    "date": "2026-07-05T18:10:32.313271",
-    "title": "Sekketralle med trappehjul- Til leie",
-    "price_kr": 80,
-    "score": 0,
-    "specs": "Trappehjul, kun til leie",
-    "url": "https://www.finn.no/recommerce/forsale/item/469014344"
-  },
-  {
-    "id": "468867648",
-    "date": "2026-07-05T18:10:32.313271",
-    "title": "Seabird havkajakk",
-    "price_kr": 6500,
-    "score": 0,
-    "specs": "Kajakk — ikke relevant",
-    "url": "https://www.finn.no/recommerce/forsale/item/468867648"
-  },
-  {
-    "id": "427368705",
-    "date": "2026-07-05T18:10:32.313271",
-    "title": "Platåvogn",
-    "price_kr": 1600,
-    "score": 60,
-    "specs": "Platåvogn — ingen konkrete dimensjoner eller kapasitet oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/427368705"
-  },
-  {
-    "id": "462672522",
-    "date": "2026-07-06T09:05:29.657886",
-    "title": "Zodiac bassengrobot",
-    "price_kr": 1400,
-    "score": 0,
-    "specs": "Bassengrobot",
-    "url": "https://www.finn.no/recommerce/forsale/item/462672522"
-  },
-  {
-    "id": "469019378",
-    "date": "2026-07-06T09:05:29.657886",
-    "title": "Trappetralle",
-    "price_kr": 1600,
-    "score": 0,
-    "specs": "Trappetralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/469019378"
-  },
-  {
-    "id": "469095407",
-    "date": "2026-07-06T16:26:01.341417",
-    "title": "Trappetralle/ Tralle",
-    "price_kr": 1000,
-    "score": 0,
-    "specs": "Ingen spesifikasjoner oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/469095407"
-  },
-  {
-    "id": "469078781",
-    "date": "2026-07-06T16:26:01.341417",
-    "title": "Dagger tandem-kajakk",
-    "price_kr": 4900,
-    "score": 0,
-    "specs": "Kajakk",
-    "url": "https://www.finn.no/recommerce/forsale/item/469078781"
-  },
-  {
-    "id": "444324018",
-    "date": "2026-07-06T19:00:54.431293",
-    "title": "Leier ut Magasintralle",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/444324018"
-  },
-  {
-    "id": "449936469",
-    "date": "2026-07-06T19:00:54.431293",
-    "title": "2 stk. Transporttraller / møbeltraller",
-    "price_kr": 400,
-    "score": 40,
-    "specs": "2 stk., type og størrelse ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/449936469"
-  },
-  {
-    "id": "462826632",
-    "date": "2026-07-07T08:28:50.074579",
-    "title": "Minigraver til leie 2,7t kubota kx-27-4/transportbånd",
-    "price_kr": 1800,
-    "score": 0,
-    "specs": "Kubota minigraver, transportbånd",
-    "url": "https://www.finn.no/recommerce/forsale/item/462826632"
-  },
-  {
-    "id": "339185089",
-    "date": "2026-07-07T08:28:50.074579",
-    "title": "Vinskap med 2 temperatur soner",
-    "price_kr": 8900,
-    "score": 0,
-    "specs": "Vinskap, kjøling",
-    "url": "https://www.finn.no/recommerce/forsale/item/339185089"
-  },
-  {
-    "id": "221120915",
-    "date": "2026-07-07T08:28:50.074579",
-    "title": "Belteovn, Pizzaovn infrarød",
-    "price_kr": 97500,
-    "score": 0,
-    "specs": "Pizzaovn, infrarød",
-    "url": "https://www.finn.no/recommerce/forsale/item/221120915"
-  },
-  {
-    "id": "193339157",
-    "date": "2026-07-07T08:28:50.074579",
-    "title": "Pizza kjølebenk med kjølerenne",
-    "price_kr": 33500,
-    "score": 0,
-    "specs": "Kjølebenk, 2-4 dører",
-    "url": "https://www.finn.no/recommerce/forsale/item/193339157"
-  },
-  {
-    "id": "234591375",
-    "date": "2026-07-07T08:28:50.074579",
-    "title": "Ventilasjonshette, vifte",
-    "price_kr": 7500,
-    "score": 0,
-    "specs": "Ventilasjonshette, vifte",
-    "url": "https://www.finn.no/recommerce/forsale/item/234591375"
-  },
-  {
-    "id": "249174030",
-    "date": "2026-07-07T08:28:50.074579",
-    "title": "Vinskap, kjøleskap",
-    "price_kr": 145000,
-    "score": 0,
-    "specs": "Kjøleskap",
-    "url": "https://www.finn.no/recommerce/forsale/item/249174030"
-  },
-  {
-    "id": "237590547",
-    "date": "2026-07-07T08:28:50.074579",
-    "title": "Industri Kjølerom, fryserom, kjølelager",
-    "price_kr": 25000,
-    "score": 0,
-    "specs": "Kjølerom, fryserom",
-    "url": "https://www.finn.no/recommerce/forsale/item/237590547"
-  },
-  {
-    "id": "339177137",
-    "date": "2026-07-07T08:28:50.074579",
-    "title": "Rustfri arbeidsbenker med skuffer",
-    "price_kr": 9300,
-    "score": 0,
-    "specs": "Arbeidsbenker, 4-8 skuffer",
-    "url": "https://www.finn.no/recommerce/forsale/item/339177137"
-  },
-  {
-    "id": "450683980",
-    "date": "2026-07-07T08:28:50.074579",
-    "title": "Kraftig Sekketralle fra Trallefabrikken",
-    "price_kr": 1900,
-    "score": 0,
-    "specs": "Sekketralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/450683980"
-  },
-  {
-    "id": "446338197",
-    "date": "2026-07-07T08:28:50.074579",
-    "title": "Robust og praktisk tralle til leie",
-    "price_kr": 50,
-    "score": 40,
-    "specs": "Ikke oppgitt — kun beskrivelse «robust og praktisk»",
-    "url": "https://www.finn.no/recommerce/forsale/item/446338197"
-  },
-  {
-    "id": "372914740",
-    "date": "2026-07-07T15:46:06.904693",
-    "title": "Outwell Hamoa transporter, bagasjetralle til camping og masse annet",
-    "price_kr": 1600,
-    "score": 0,
-    "specs": "Bagasjetralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/372914740"
-  },
-  {
-    "id": "462324628",
-    "date": "2026-07-07T15:46:06.904693",
-    "title": "Tralle",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Ingen spesifikasjoner oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/462324628"
-  },
-  {
-    "id": "469192010",
-    "date": "2026-07-07T19:06:41.659120",
-    "title": "Sammenleggbar Transportvogn",
-    "price_kr": 750,
-    "score": 0,
-    "specs": "Sammenleggbar — størrelse og kapasitet ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/469192010"
-  },
-  {
-    "id": "464729279",
-    "date": "2026-07-07T19:06:41.659120",
-    "title": "Transportvogn sammenleggbar tralle",
-    "price_kr": 400,
-    "score": 0,
-    "specs": "Sammenleggbar — størrelse og kapasitet ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/464729279"
-  },
-  {
-    "id": "469214914",
-    "date": "2026-07-08T07:34:43.008301",
-    "title": "Minidumper Wee 300kg med to typer kasser",
-    "price_kr": 24800,
-    "score": 0,
-    "specs": "300 kg kapasitet, minidumper med kasser",
-    "url": "https://www.finn.no/recommerce/forsale/item/469214914"
-  },
-  {
-    "id": "469236812",
-    "date": "2026-07-08T07:34:43.008301",
-    "title": "Punkteringsfri sekketralle / transporttralle, 250 kg",
-    "price_kr": 450,
-    "score": 0,
-    "specs": "250 kg kapasitet, sekketralle, punkteringsfri",
-    "url": "https://www.finn.no/recommerce/forsale/item/469236812"
-  },
-  {
-    "id": "469248943",
-    "date": "2026-07-08T11:10:12.274104",
-    "title": "Transport tralle",
-    "price_kr": 200,
-    "score": 0,
-    "specs": "Ingen spesifikasjoner oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/469248943"
-  },
-  {
-    "id": "191965874",
-    "date": "2026-07-09T08:34:47.075291",
-    "title": "Kjølerom, fryserom, kjølelager, fryselager, fryseaggregat, kjøleaggregater, pane",
-    "price_kr": 25000,
-    "score": 0,
-    "specs": "Kjøleutstyr",
-    "url": "https://www.finn.no/recommerce/forsale/item/191965874"
-  },
-  {
-    "id": "462858403",
-    "date": "2026-07-09T08:34:47.075291",
-    "title": "Oppvaskmaskin",
-    "price_kr": 28500,
-    "score": 0,
-    "specs": "Oppvaskmaskin",
-    "url": "https://www.finn.no/recommerce/forsale/item/462858403"
-  },
-  {
-    "id": "194240527",
-    "date": "2026-07-09T08:34:47.075291",
-    "title": "Kjølebenk med garnityr kjøler m/ 2,3,4 dører",
-    "price_kr": 23500,
-    "score": 0,
-    "specs": "Kjølebenk",
-    "url": "https://www.finn.no/recommerce/forsale/item/194240527"
-  },
-  {
-    "id": "462858340",
-    "date": "2026-07-09T08:34:47.075291",
-    "title": "Oppvaskmaskin",
-    "price_kr": 28500,
-    "score": 0,
-    "specs": "Oppvaskmaskin",
-    "url": "https://www.finn.no/recommerce/forsale/item/462858340"
-  },
-  {
-    "id": "397560588",
-    "date": "2026-07-09T08:34:47.075291",
-    "title": "Hette Oppvaskmaskin",
-    "price_kr": 65500,
-    "score": 0,
-    "specs": "Oppvaskmaskin med hette",
-    "url": "https://www.finn.no/recommerce/forsale/item/397560588"
-  },
-  {
-    "id": "462859305",
-    "date": "2026-07-09T08:34:47.075291",
-    "title": "Oppvaskmaskin",
-    "price_kr": 28500,
-    "score": 0,
-    "specs": "Oppvaskmaskin",
-    "url": "https://www.finn.no/recommerce/forsale/item/462859305"
-  },
-  {
-    "id": "211738341",
-    "date": "2026-07-09T08:34:47.075291",
-    "title": "Blast Chiller til nedkjøling / Frenox VBL",
-    "price_kr": 35500,
-    "score": 0,
-    "specs": "Blast Chiller",
-    "url": "https://www.finn.no/recommerce/forsale/item/211738341"
-  },
-  {
-    "id": "468560079",
-    "date": "2026-07-09T08:34:47.075291",
-    "title": "Løftebord leies ut",
-    "price_kr": 300,
-    "score": 0,
-    "specs": "Løftebord",
-    "url": "https://www.finn.no/recommerce/forsale/item/468560079"
-  },
-  {
-    "id": "359495458",
-    "date": "2026-07-09T08:34:47.075291",
-    "title": "Sekketralle til utleie",
-    "price_kr": 65,
-    "score": 0,
-    "specs": "Sekketralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/359495458"
-  },
-  {
-    "id": "469358658",
-    "date": "2026-07-09T16:05:29.949726",
-    "title": "Gul transportvogn / Gassflaskevogn. Sveising!",
-    "price_kr": 600,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/469358658"
-  },
-  {
-    "id": "376589038",
-    "date": "2026-07-09T16:05:29.949726",
-    "title": "Utleie av tralle/flyttetralle/no",
-    "price_kr": 100,
-    "score": 40,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/376589038"
-  },
-  {
-    "id": "469357796",
-    "date": "2026-07-09T16:05:29.949726",
-    "title": "Kraftig tralle med sving og brems",
-    "price_kr": 7000,
-    "score": 65,
-    "specs": "Med sving og brems. Kraftig konstruksjon.",
-    "url": "https://www.finn.no/recommerce/forsale/item/469357796"
-  },
-  {
-    "id": "469436788",
-    "date": "2026-07-10T12:00:02.099040",
-    "title": "Thule Chariot Sport 2 Double - pakke med ski, jogg, sykkel og babyinnlegg",
-    "price_kr": 5500,
-    "score": 0,
-    "specs": "Sportsvogn/barnekjerre",
-    "url": "https://www.finn.no/recommerce/forsale/item/469436788"
-  },
-  {
-    "id": "364339347",
-    "date": "2026-07-10T15:35:05.749397",
-    "title": "Varebil bilutleie",
-    "price_kr": 1049,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/364339347"
-  },
-  {
-    "id": "469486062",
-    "date": "2026-07-11T07:16:02.466155",
-    "title": "Terrenggående transportvogn",
-    "price_kr": 7900,
-    "score": 45,
-    "specs": "6 punkteringsfrie hjul, kapasitet 250 kg",
-    "url": "https://www.finn.no/recommerce/forsale/item/469486062"
-  },
-  {
-    "id": "436172045",
-    "date": "2026-07-11T07:16:02.466155",
-    "title": "Hjul med kulelager 2stk",
-    "price_kr": 200,
-    "score": 0,
-    "specs": "2 stk hjul, 15 cm diameter, punkteringsfri",
-    "url": "https://www.finn.no/recommerce/forsale/item/436172045"
-  },
-  {
-    "id": "436174669",
-    "date": "2026-07-11T07:16:02.466155",
-    "title": "Hjul med kulelager 2stk",
-    "price_kr": 197,
-    "score": 0,
-    "specs": "2 stk hjul, 15 cm diameter, punkteringsfri",
-    "url": "https://www.finn.no/recommerce/forsale/item/436174669"
-  },
-  {
-    "id": "436176937",
-    "date": "2026-07-11T07:16:02.466155",
-    "title": "Hjul med kulelager",
-    "price_kr": 590,
-    "score": 0,
-    "specs": "1 stk hjul, luftfylt aluminium, 22 cm diameter",
-    "url": "https://www.finn.no/recommerce/forsale/item/436176937"
-  },
-  {
-    "id": "469441867",
-    "date": "2026-07-11T07:16:02.466155",
-    "title": "trappetralle",
-    "price_kr": 700,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/469441867"
-  },
-  {
-    "id": "468706075",
-    "date": "2026-07-11T14:24:47.003018",
-    "title": "Sekketralle",
-    "price_kr": 250,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/468706075"
-  },
-  {
-    "id": "469528368",
-    "date": "2026-07-12T07:32:13.172610",
-    "title": "Tralle",
-    "price_kr": 650,
-    "score": 40,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/469528368"
-  },
-  {
-    "id": "469528102",
-    "date": "2026-07-12T07:32:13.172610",
-    "title": "Trappetralle",
-    "price_kr": 650,
-    "score": 0,
-    "specs": "Trappetralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/469528102"
-  },
-  {
-    "id": "469576770",
-    "date": "2026-07-12T14:36:30.698079",
-    "title": "Sekketralle fra Trallefabrikken Slependen",
-    "price_kr": 1200,
-    "score": 0,
-    "specs": "Sekketralle – type ikke spesifisert",
-    "url": "https://www.finn.no/recommerce/forsale/item/469576770"
-  },
-  {
-    "id": "469575124",
-    "date": "2026-07-12T14:36:30.698079",
-    "title": "Solid plattformvogn / tralle – 85 × 45 cm",
-    "price_kr": 990,
-    "score": 35,
-    "specs": "Plattformvogn, 85 × 45 cm – betydelig mindre enn målstørrelse",
-    "url": "https://www.finn.no/recommerce/forsale/item/469575124"
-  },
-  {
-    "id": "469610627",
-    "date": "2026-07-12T18:02:49.959748",
-    "title": "Brukt tralle/trillevogn selges",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/469610627"
-  },
-  {
-    "id": "460691662",
-    "date": "2026-07-13T12:12:52.951749",
-    "title": "KUPP! Pølsekoker - Silanos - 2 delt kammer - 17.Mai - Turnor Storkjøkken",
-    "price_kr": 8500,
-    "score": 0,
-    "specs": "Pølsekoker, storkjøkkenutstyr",
-    "url": "https://www.finn.no/recommerce/forsale/item/460691662"
-  },
-  {
-    "id": "469660014",
-    "date": "2026-07-13T12:12:52.951749",
-    "title": "Weber Q1000 med stativ, trekk og transportvogn, kun brukt på hytte",
-    "price_kr": 2000,
-    "score": 0,
-    "specs": "Weber grill med tilhørende transportvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/469660014"
-  },
-  {
-    "id": "469655128",
-    "date": "2026-07-13T12:12:52.951749",
-    "title": "Gerdmans hyllevogn",
-    "price_kr": 500,
-    "score": 0,
-    "specs": "Gerdmans hyllevogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/469655128"
-  },
-  {
-    "id": "462441011",
-    "date": "2026-07-13T18:47:08.928185",
-    "title": "Transportvogn til leie - solid og praktisk til flytting",
-    "price_kr": 200,
-    "score": 0,
-    "specs": "250 kg kapasitet",
-    "url": "https://www.finn.no/recommerce/forsale/item/462441011"
-  },
-  {
-    "id": "469689358",
-    "date": "2026-07-13T18:47:08.928185",
-    "title": "Aqua Marina BT 88850 AL med Suzuki påhengsmotor",
-    "price_kr": 1,
-    "score": 0,
-    "specs": "Båt med påhengsmotor",
-    "url": "https://www.finn.no/recommerce/forsale/item/469689358"
-  },
-  {
-    "id": "462934265",
-    "date": "2026-07-14T07:14:21.557048",
-    "title": "Sammenleggbar tralle til leie",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Sammenleggbar tralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/462934265"
-  },
-  {
-    "id": "469695537",
-    "date": "2026-07-14T07:14:21.557048",
-    "title": "Tredal henger",
-    "price_kr": 4500,
-    "score": 0,
-    "specs": "Tredal henger",
-    "url": "https://www.finn.no/recommerce/forsale/item/469695537"
-  },
-  {
-    "id": "461469113",
-    "date": "2026-07-14T15:00:03.989730",
-    "title": "Stall tralle / sal tralle",
-    "price_kr": 300,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/461469113"
-  },
-  {
-    "id": "469759345",
-    "date": "2026-07-14T15:00:03.989730",
-    "title": "Tralle / sekketralle gul med luftdekk",
-    "price_kr": 200,
-    "score": 0,
-    "specs": "Gul, luftdekk",
-    "url": "https://www.finn.no/recommerce/forsale/item/469759345"
-  },
-  {
-    "id": "411131441",
-    "date": "2026-07-14T15:00:03.989730",
-    "title": "Selger en eldre trekkvogn",
-    "price_kr": 300,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/411131441"
-  },
-  {
-    "id": "469801602",
-    "date": "2026-07-15T07:19:30.040759",
-    "title": "Gutbrod MotoStandard tohjulstraktorer med mye utstyr",
-    "price_kr": 28000,
-    "score": 0,
-    "specs": "Tohjulstraktor",
-    "url": "https://www.finn.no/recommerce/forsale/item/469801602"
-  },
-  {
-    "id": "469831564",
-    "date": "2026-07-15T10:56:48.722731",
-    "title": "4 stk runde event-/bankettbord Ø180 cm",
-    "price_kr": 5500,
-    "score": 0,
-    "specs": "Ø180 cm bord",
-    "url": "https://www.finn.no/recommerce/forsale/item/469831564"
-  },
-  {
-    "id": "432959331",
-    "date": "2026-07-15T10:56:48.722731",
-    "title": "Tralle max 200kg leies ut",
-    "price_kr": 50,
-    "score": 0,
-    "specs": "Max 200 kg kapasitet",
-    "url": "https://www.finn.no/recommerce/forsale/item/432959331"
-  },
-  {
-    "id": "236662415",
-    "date": "2026-07-15T14:58:03.699047",
-    "title": "SALG - OPPVASKVOGN - FLYTTETRALLE - MADE IN ITALY",
-    "price_kr": 1440,
-    "score": 0,
-    "specs": "Oppvaskvogn/flyttetralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/236662415"
-  },
-  {
-    "id": "469846994",
-    "date": "2026-07-15T14:58:03.699047",
-    "title": "Sykkelhenger/ transporttralle med stor kasse",
-    "price_kr": 800,
-    "score": 0,
-    "specs": "Sykkelhenger/transporttralle med kasse",
-    "url": "https://www.finn.no/recommerce/forsale/item/469846994"
-  },
-  {
-    "id": "204101450",
-    "date": "2026-07-16T07:27:07.063760",
-    "title": "TRANSPORTVOGN - FLYTTETRALLE - MADE IN ITALY",
-    "price_kr": 1240,
-    "score": 45,
-    "specs": "Ikke spesifisert",
-    "url": "https://www.finn.no/recommerce/forsale/item/204101450"
-  },
-  {
-    "id": "469919438",
-    "date": "2026-07-16T11:05:34.200867",
-    "title": "Grønn hagevogn med tipp og fire hjul",
-    "price_kr": 399,
-    "score": 0,
-    "specs": "fire hjul, tippfunksjon",
-    "url": "https://www.finn.no/recommerce/forsale/item/469919438"
-  },
-  {
-    "id": "466053319",
-    "date": "2026-07-16T11:05:34.200867",
-    "title": "Jekketralle",
-    "price_kr": 1800,
-    "score": 0,
-    "specs": "jekketralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/466053319"
-  },
-  {
-    "id": "199611682",
-    "date": "2026-07-16T11:05:34.200867",
-    "title": "Sekketralle til leie",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "sekketralle, utleie",
-    "url": "https://www.finn.no/recommerce/forsale/item/199611682"
-  },
-  {
-    "id": "353047590",
-    "date": "2026-07-16T15:08:07.854574",
-    "title": "Kafestol / utestol / utemøbler / uteservering",
-    "price_kr": 499,
-    "score": 0,
-    "specs": "Kafestol",
-    "url": "https://www.finn.no/recommerce/forsale/item/353047590"
-  },
-  {
-    "id": "328717053",
-    "date": "2026-07-16T15:08:07.854574",
-    "title": "Automatisk donutmaskin / Donut Maker | Maxima",
-    "price_kr": 29978,
-    "score": 0,
-    "specs": "Donutmaskin",
-    "url": "https://www.finn.no/recommerce/forsale/item/328717053"
-  },
-  {
-    "id": "212593449",
-    "date": "2026-07-17T07:22:35.699473",
-    "title": "Vitrineskap, kakedisk, kjøledisk med 3 års delegaranti",
-    "price_kr": 25500,
-    "score": 0,
-    "specs": "Kjøledisk/vitrineskap",
-    "url": "https://www.finn.no/recommerce/forsale/item/212593449"
-  },
-  {
-    "id": "361562653",
-    "date": "2026-07-17T07:22:35.699473",
-    "title": "Kjølerom, fryserom, kjølelager, fryselager til butikk, super market",
-    "price_kr": 25000,
-    "score": 0,
-    "specs": "Kjølelager/fryselager",
-    "url": "https://www.finn.no/recommerce/forsale/item/361562653"
-  },
-  {
-    "id": "193337999",
-    "date": "2026-07-17T07:22:35.699473",
-    "title": "DRY AGE Vinskap, kjøleskap",
-    "price_kr": 125000,
-    "score": 0,
-    "specs": "Vinskap/kjøleskap",
-    "url": "https://www.finn.no/recommerce/forsale/item/193337999"
-  },
-  {
-    "id": "446322675",
-    "date": "2026-07-17T07:22:35.699473",
-    "title": "Bordvogn",
-    "price_kr": 2000,
-    "score": 0,
-    "specs": "Bordvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/446322675"
-  },
-  {
-    "id": "455078120",
-    "date": "2026-07-17T10:53:22.444769",
-    "title": "Togvogner til tretog (Brio/Lillabo)",
-    "price_kr": 60,
-    "score": 0,
-    "specs": "Miniatyrleketøy, kompatibelt med Duplo og Hot Wheels",
-    "url": "https://www.finn.no/recommerce/forsale/item/455078120"
-  },
-  {
-    "id": "470019940",
-    "date": "2026-07-17T14:48:16.175743",
-    "title": "Tysse varehenger",
-    "price_kr": 3900,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/470019940"
-  },
-  {
-    "id": "470092605",
-    "date": "2026-07-18T14:22:37.238269",
-    "title": "Nordic Cab sykkelvogn / barnevogn rød for 2 barn",
-    "price_kr": 1700,
-    "score": 0,
-    "specs": "Sykkelvogn/barnevogn for 2 barn",
-    "url": "https://www.finn.no/recommerce/forsale/item/470092605"
-  },
-  {
-    "id": "462930803",
-    "date": "2026-07-18T14:22:37.238269",
-    "title": "UTLEIE: Sekketralle med luftgummihjul",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Sekketralle med luftgummihjul",
-    "url": "https://www.finn.no/recommerce/forsale/item/462930803"
-  },
-  {
-    "id": "470110681",
-    "date": "2026-07-18T14:22:37.238269",
-    "title": "Salvogn",
-    "price_kr": 250,
-    "score": 0,
-    "specs": "Salvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/470110681"
-  },
-  {
-    "id": "449665984",
-    "date": "2026-07-18T18:00:47.381665",
-    "title": "Playmobil Novelmore 70394 sett - NY pris!",
-    "price_kr": 49,
-    "score": 0,
-    "specs": "Playmobil-leketøy",
-    "url": "https://www.finn.no/recommerce/forsale/item/449665984"
-  },
-  {
-    "id": "291390297",
-    "date": "2026-07-18T18:00:47.381665",
-    "title": "Sekketralle/Flyttetralle",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Sekketralle/Flyttetralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/291390297"
-  },
-  {
-    "id": "470151161",
-    "date": "2026-07-19T07:31:11.829823",
-    "title": "Sammenleggbar transportvogn / sekketralle",
-    "price_kr": 300,
-    "score": 0,
-    "specs": "Sammenleggbar, pris tyder på lett konstruksjon",
-    "url": "https://www.finn.no/recommerce/forsale/item/470151161"
-  },
-  {
-    "id": "470177586",
-    "date": "2026-07-19T10:39:39.419141",
-    "title": "Plattformvogn 65x47 cm 150 kg",
-    "price_kr": 90,
-    "score": 15,
-    "specs": "65×47 cm, 150 kg kapasitet",
-    "url": "https://www.finn.no/recommerce/forsale/item/470177586"
-  },
-  {
-    "id": "470178109",
-    "date": "2026-07-19T10:39:39.419141",
-    "title": "Sammenleggbar transportvogn tralle med luft- og svinghjul",
-    "price_kr": 2500,
-    "score": 65,
-    "specs": "Lufthjul og svinghjul, sammenleggbar",
-    "url": "https://www.finn.no/recommerce/forsale/item/470178109"
-  },
-  {
-    "id": "470173454",
-    "date": "2026-07-19T10:39:39.419141",
-    "title": "Plattformvogn 77x57,5 cm 300 kg",
-    "price_kr": 800,
-    "score": 0,
-    "specs": "77×57,5 cm, 300 kg kapasitet",
-    "url": "https://www.finn.no/recommerce/forsale/item/470173454"
-  },
-  {
-    "id": "470233297",
-    "date": "2026-07-19T18:01:55.312095",
-    "title": "Hagevogn / transportvogn fra Clas Ohlson",
-    "price_kr": 400,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/470233297"
-  },
-  {
-    "id": "453600301",
-    "date": "2026-07-19T18:01:55.312095",
-    "title": "Lett solid hardplast tralle for frakt av esker småmøbler osv",
-    "price_kr": 250,
-    "score": 0,
-    "specs": "Hardplast, lett konstruksjon",
-    "url": "https://www.finn.no/recommerce/forsale/item/453600301"
-  },
-  {
-    "id": "448668122",
-    "date": "2026-07-20T08:11:36.427552",
-    "title": "Tralle med løfte mekanisme til leie",
-    "price_kr": 500,
-    "score": 0,
-    "specs": "Løfte mekanisme, type og dimensjoner ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/448668122"
-  },
-  {
-    "id": "385680225",
-    "date": "2026-07-20T08:11:36.427552",
-    "title": "Tohjulet tralle Rasta",
-    "price_kr": 80,
-    "score": 0,
-    "specs": "Tohjulet, Rasta-merke",
-    "url": "https://www.finn.no/recommerce/forsale/item/385680225"
-  },
-  {
-    "id": "467696453",
-    "date": "2026-07-20T08:11:36.427552",
-    "title": "Tralle",
-    "price_kr": 300,
-    "score": 40,
-    "specs": "Ingen spesifikasjoner oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/467696453"
-  },
-  {
-    "id": "469187133",
-    "date": "2026-07-20T15:15:47.186409",
-    "title": "Transporttralle, utenbordsmotor, 100 kg",
-    "price_kr": 200,
-    "score": 0,
-    "specs": "100 kg kapasitet",
-    "url": "https://www.finn.no/recommerce/forsale/item/469187133"
-  },
-  {
-    "id": "470315324",
-    "date": "2026-07-20T18:57:46.150586",
-    "title": "Playmobil Middelalder – Skattetransport med hest, vogn og vakteskorte",
-    "price_kr": 349,
-    "score": 0,
-    "specs": "Playmobil leketøy",
-    "url": "https://www.finn.no/recommerce/forsale/item/470315324"
-  },
-  {
-    "id": "215118211",
-    "date": "2026-07-21T07:36:30.289100",
-    "title": "Komplett Bar kjølebenk, kjøleskap med Øl tårn",
-    "price_kr": 65500,
-    "score": 0,
-    "specs": "Kjølebenk/kjøleskap",
-    "url": "https://www.finn.no/recommerce/forsale/item/215118211"
-  },
-  {
-    "id": "460727376",
-    "date": "2026-07-21T07:36:30.289100",
-    "title": "Lett Massasjebenk / behandlingsbenk sammenleggbar – komplett utstyrspakke",
-    "price_kr": 3500,
-    "score": 0,
-    "specs": "Sammenleggbar behandlingsbenk",
-    "url": "https://www.finn.no/recommerce/forsale/item/460727376"
-  },
-  {
-    "id": "109844921",
-    "date": "2026-07-21T07:36:30.289100",
-    "title": "Tredal varehenger til leie",
-    "price_kr": 300,
-    "score": 0,
-    "specs": "Varehenger, til leie",
-    "url": "https://www.finn.no/recommerce/forsale/item/109844921"
-  },
-  {
-    "id": "286802628",
-    "date": "2026-07-21T07:36:30.289100",
-    "title": "trappetralle til leie",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Trappetralle, til leie",
-    "url": "https://www.finn.no/recommerce/forsale/item/286802628"
   }
 ]
