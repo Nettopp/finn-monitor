@@ -1,5 +1,41 @@
 [
   {
+    "id": "456209663",
+    "date": "2026-07-22T18:13:48.644078",
+    "title": "Tralle sekketralle Expresso leies ut",
+    "price_kr": 150,
+    "score": 0,
+    "specs": "Sekketralle, type ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/456209663"
+  },
+  {
+    "id": "470529338",
+    "date": "2026-07-22T18:13:48.644078",
+    "title": "Sekketralle",
+    "price_kr": 250,
+    "score": 0,
+    "specs": "Sekketralle, spesifikasjoner ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/470529338"
+  },
+  {
+    "id": "341654332",
+    "date": "2026-07-22T18:13:48.644078",
+    "title": "TRILLE",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "Trille, spesifikasjoner ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/341654332"
+  },
+  {
+    "id": "445364017",
+    "date": "2026-07-22T18:13:48.644078",
+    "title": "Tralle / transportvogn til eurokasser",
+    "price_kr": 500,
+    "score": 50,
+    "specs": "Transportvogn for eurokasser, dimensjoner ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/445364017"
+  },
+  {
     "id": "410000997",
     "date": "2026-07-22T15:08:54.123732",
     "title": "Treppetralle",
@@ -4462,41 +4498,5 @@
     "score": 0,
     "specs": "Avlesservogn",
     "url": "https://www.finn.no/recommerce/forsale/item/464978033"
-  },
-  {
-    "id": "464940216",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Slippvogn hjulvogn båtvogn for skinnegang",
-    "price_kr": 900,
-    "score": 0,
-    "specs": "Slippvogn for båt på skinnegang",
-    "url": "https://www.finn.no/recommerce/forsale/item/464940216"
-  },
-  {
-    "id": "408916175",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "VakumVogn",
-    "price_kr": 15000,
-    "score": 0,
-    "specs": "Vakumvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/408916175"
-  },
-  {
-    "id": "338706575",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "HO-skala Illinois Central godsvogn",
-    "price_kr": 35,
-    "score": 0,
-    "specs": "Modelljernbane HO-skala",
-    "url": "https://www.finn.no/recommerce/forsale/item/338706575"
-  },
-  {
-    "id": "463679798",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralfa transportvogn med sving",
-    "price_kr": 2000,
-    "score": 65,
-    "specs": "Tralfa transportvogn med svingstyring",
-    "url": "https://www.finn.no/recommerce/forsale/item/463679798"
   }
 ]
