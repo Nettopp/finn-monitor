@@ -1,5 +1,41 @@
 [
   {
+    "id": "410000997",
+    "date": "2026-07-22T15:08:54.123732",
+    "title": "Treppetralle",
+    "price_kr": 700,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/410000997"
+  },
+  {
+    "id": "393773513",
+    "date": "2026-07-22T15:08:54.123732",
+    "title": "SEKKETRALLE",
+    "price_kr": 300,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/393773513"
+  },
+  {
+    "id": "428375915",
+    "date": "2026-07-22T15:08:54.123732",
+    "title": "Utleie: Solid Sekketralle (maks 250kg) - Perfekt til Flytting/Transport av Møbel",
+    "price_kr": 90,
+    "score": 0,
+    "specs": "Maks 250 kg kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/428375915"
+  },
+  {
+    "id": "470503362",
+    "date": "2026-07-22T15:08:54.123732",
+    "title": "Sveisevogn",
+    "price_kr": 1390,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/470503362"
+  },
+  {
     "id": "470488526",
     "date": "2026-07-22T11:14:03.926846",
     "title": "metallvogn på hjul med tre hyller IKEA",
@@ -4462,41 +4498,5 @@
     "score": 65,
     "specs": "Tralfa transportvogn med svingstyring",
     "url": "https://www.finn.no/recommerce/forsale/item/463679798"
-  },
-  {
-    "id": "463479152",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Modelljernbane godsvogn grønn",
-    "price_kr": 1500,
-    "score": 0,
-    "specs": "Modelljernbane",
-    "url": "https://www.finn.no/recommerce/forsale/item/463479152"
-  },
-  {
-    "id": "463371439",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Märklin Spor 1 DB åpen godsvogn med last",
-    "price_kr": 1350,
-    "score": 0,
-    "specs": "Modelljernbane Spor 1 skala",
-    "url": "https://www.finn.no/recommerce/forsale/item/463371439"
-  },
-  {
-    "id": "463106367",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "GIPSPLATE VOGN, INDUSTIELL SAG, MATERIAL VOGN, SPONAVSUG, TEGNEBRETT",
-    "price_kr": 400,
-    "score": 0,
-    "specs": "Gipsplate vogn med hev/senk-mekanisme",
-    "url": "https://www.finn.no/recommerce/forsale/item/463106367"
-  },
-  {
-    "id": "463105374",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "MARKLIN Godsvogn",
-    "price_kr": 125,
-    "score": 0,
-    "specs": "Märklin modellvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/463105374"
   }
 ]
