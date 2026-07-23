@@ -1,5 +1,32 @@
 [
   {
+    "id": "438841810",
+    "date": "2026-07-23T11:16:18.624711",
+    "title": "Praktisk handlevogn / butikkvogn selges – solid og lett å trille",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/438841810"
+  },
+  {
+    "id": "411702133",
+    "date": "2026-07-23T11:16:18.624711",
+    "title": "Tralle",
+    "price_kr": 400,
+    "score": 40,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/411702133"
+  },
+  {
+    "id": "470588536",
+    "date": "2026-07-23T11:16:18.624711",
+    "title": "Transporttralle, utenbordsmotor med hjul",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Utenbordsmotor",
+    "url": "https://www.finn.no/recommerce/forsale/item/470588536"
+  },
+  {
     "id": "269748602",
     "date": "2026-07-23T07:37:47.940016",
     "title": "Bassengrobot Zodiac TornaX PRO RT 3200",
@@ -4471,32 +4498,5 @@
     "score": 0,
     "specs": "Modelljernbane 1:87 skala",
     "url": "https://www.finn.no/recommerce/forsale/item/404357650"
-  },
-  {
-    "id": "217062383",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "GODSVOGN. HO.",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Modelljernbane HO-skala",
-    "url": "https://www.finn.no/recommerce/forsale/item/217062383"
-  },
-  {
-    "id": "467096749",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tidlig LEGO togvogn",
-    "price_kr": 450,
-    "score": 0,
-    "specs": "LEGO leketøy",
-    "url": "https://www.finn.no/recommerce/forsale/item/467096749"
-  },
-  {
-    "id": "458968697",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Roco 46510",
-    "price_kr": 300,
-    "score": 0,
-    "specs": "Modelljernbane Roco",
-    "url": "https://www.finn.no/recommerce/forsale/item/458968697"
   }
 ]
