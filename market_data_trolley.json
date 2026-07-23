@@ -1,5 +1,32 @@
 [
   {
+    "id": "470599928",
+    "date": "2026-07-23T15:15:30.740893",
+    "title": "Hard Head transportvogn med tipp og punkteringsfrie hjul",
+    "price_kr": 800,
+    "score": 35,
+    "specs": "punkteringsfrie hjul, tippfunksjon — størrelse ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/470599928"
+  },
+  {
+    "id": "398119878",
+    "date": "2026-07-23T15:15:30.740893",
+    "title": "Sammenleggbar tralle til lagring og transport",
+    "price_kr": 50,
+    "score": 0,
+    "specs": "sammenleggbar — ingen spesifikasjoner oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/398119878"
+  },
+  {
+    "id": "470604379",
+    "date": "2026-07-23T15:15:30.740893",
+    "title": "Verktøyvogn",
+    "price_kr": 21000,
+    "score": 0,
+    "specs": "verktøyvogn — ingen andre spesifikasjoner oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/470604379"
+  },
+  {
     "id": "438841810",
     "date": "2026-07-23T11:16:18.624711",
     "title": "Praktisk handlevogn / butikkvogn selges – solid og lett å trille",
@@ -4471,32 +4498,5 @@
     "score": 0,
     "specs": "Modelljernbane",
     "url": "https://www.finn.no/recommerce/forsale/item/468056028"
-  },
-  {
-    "id": "467965801",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle / vogn for drev",
-    "price_kr": 3500,
-    "score": 0,
-    "specs": "Ukjent type",
-    "url": "https://www.finn.no/recommerce/forsale/item/467965801"
-  },
-  {
-    "id": "432426401",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Roco Ler",
-    "price_kr": 420,
-    "score": 0,
-    "specs": "Ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/432426401"
-  },
-  {
-    "id": "404357650",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "DSB 1:87 Spor 00",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Modelljernbane 1:87 skala",
-    "url": "https://www.finn.no/recommerce/forsale/item/404357650"
   }
 ]
