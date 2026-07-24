@@ -1,5 +1,14 @@
 [
   {
+    "id": "470670142",
+    "date": "2026-07-24T11:07:02.143898",
+    "title": "Kjørevogn",
+    "price_kr": 2500,
+    "score": 40,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/470670142"
+  },
+  {
     "id": "470624883",
     "date": "2026-07-23T18:17:24.002942",
     "title": "Transporttralle påhengsmotor",
@@ -4489,14 +4498,5 @@
     "score": 0,
     "specs": "Modelljernbane HO-skala",
     "url": "https://www.finn.no/recommerce/forsale/item/441534462"
-  },
-  {
-    "id": "451294062",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tunnel/landskapsmodell til modelljernbane H0",
-    "price_kr": 380,
-    "score": 0,
-    "specs": "Modelljernbane tilbehør H0-skala",
-    "url": "https://www.finn.no/recommerce/forsale/item/451294062"
   }
 ]
