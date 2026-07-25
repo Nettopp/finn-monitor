@@ -1,5 +1,59 @@
 [
   {
+    "id": "428386169",
+    "date": "2026-07-25T14:40:27.415655",
+    "title": "Utleie av trappetralle",
+    "price_kr": 50,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/428386169"
+  },
+  {
+    "id": "470806895",
+    "date": "2026-07-25T14:40:27.415655",
+    "title": "Sekketralle / transporttralle",
+    "price_kr": 350,
+    "score": 60,
+    "specs": "Sekketralle/transporttralle, brukt én dag — ingen dimensjoner eller kapasitet oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/470806895"
+  },
+  {
+    "id": "470586592",
+    "date": "2026-07-25T14:40:27.415655",
+    "title": "Transporttralle Weha 750 kg",
+    "price_kr": 1500,
+    "score": 0,
+    "specs": "Weha-merke, 750 kg kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/470586592"
+  },
+  {
+    "id": "470796727",
+    "date": "2026-07-25T14:40:27.415655",
+    "title": "Tralla transporttralle med luftdekk",
+    "price_kr": 400,
+    "score": 65,
+    "specs": "Luftdekk (pneumatiske hjul) — ingen dimensjoner eller kapasitet oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/470796727"
+  },
+  {
+    "id": "470810809",
+    "date": "2026-07-25T14:40:27.415655",
+    "title": "Oppbevarings vogn",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/470810809"
+  },
+  {
+    "id": "470804102",
+    "date": "2026-07-25T14:40:27.415655",
+    "title": "IKEA oppbevaringsvogn med hyller og kantlist",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "IKEA-merke, med hyller og kantlist",
+    "url": "https://www.finn.no/recommerce/forsale/item/470804102"
+  },
+  {
     "id": "470767440",
     "date": "2026-07-25T10:38:58.579639",
     "title": "Tralle Dilling 2 t",
@@ -4444,59 +4498,5 @@
     "score": 0,
     "specs": "Modelljernbane godsvogn",
     "url": "https://www.finn.no/recommerce/forsale/item/249369807"
-  },
-  {
-    "id": "442033164",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "2 stk Märklin 24671 Buepenser, C-skinner",
-    "price_kr": 400,
-    "score": 0,
-    "specs": "Modelljernbaneutstyr",
-    "url": "https://www.finn.no/recommerce/forsale/item/442033164"
-  },
-  {
-    "id": "344452713",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Marklin 4440 AVIA Tankvogn HO AC",
-    "price_kr": 225,
-    "score": 0,
-    "specs": "Modelljernbane tankvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/344452713"
-  },
-  {
-    "id": "337266108",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Marklin 4758 BP Tankvogn H0",
-    "price_kr": 395,
-    "score": 0,
-    "specs": "Modelljernbane tankvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/337266108"
-  },
-  {
-    "id": "430143195",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Marklin 5202 Elektrisk Pensepar M-skinne H0",
-    "price_kr": 270,
-    "score": 0,
-    "specs": "Modelljernbaneutstyr",
-    "url": "https://www.finn.no/recommerce/forsale/item/430143195"
-  },
-  {
-    "id": "468219193",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Fleischmann, Lima og Roco modelltog med lok, vogner og styring",
-    "price_kr": 1250,
-    "score": 0,
-    "specs": "Modelljernbaneutstyr",
-    "url": "https://www.finn.no/recommerce/forsale/item/468219193"
-  },
-  {
-    "id": "465536346",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Märklin godstog med skinner og trafo H0",
-    "price_kr": 2000,
-    "score": 0,
-    "specs": "Modelljernbaneutstyr",
-    "url": "https://www.finn.no/recommerce/forsale/item/465536346"
   }
 ]
