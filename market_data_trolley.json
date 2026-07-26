@@ -1,5 +1,23 @@
 [
   {
+    "id": "470858899",
+    "date": "2026-07-26T07:40:33.547336",
+    "title": "Astrix 8-B elektrisk beltetrillebår",
+    "price_kr": 8500,
+    "score": 0,
+    "specs": "Elektrisk beltetrillebår, ikke brukt",
+    "url": "https://www.finn.no/recommerce/forsale/item/470858899"
+  },
+  {
+    "id": "470579554",
+    "date": "2026-07-26T07:40:33.547336",
+    "title": "Vare vogn",
+    "price_kr": 4000,
+    "score": 40,
+    "specs": "Vare vogn — ingen detaljer om størrelse, hjul eller kapasitet oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/470579554"
+  },
+  {
     "id": "428386169",
     "date": "2026-07-25T14:40:27.415655",
     "title": "Utleie av trappetralle",
@@ -4480,23 +4498,5 @@
     "score": 0,
     "specs": "Modelljernbanetilbehør",
     "url": "https://www.finn.no/recommerce/forsale/item/419399312"
-  },
-  {
-    "id": "383484978",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Marklin 5128 Elektrisk kryss H0",
-    "price_kr": 205,
-    "score": 0,
-    "specs": "Modelljernbaneutstyr",
-    "url": "https://www.finn.no/recommerce/forsale/item/383484978"
-  },
-  {
-    "id": "249369807",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Märklin 367.3 Grusvogn",
-    "price_kr": 445,
-    "score": 0,
-    "specs": "Modelljernbane godsvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/249369807"
   }
 ]
