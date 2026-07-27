@@ -1,5 +1,32 @@
 [
   {
+    "id": "463170312",
+    "date": "2026-07-27T15:47:38.035025",
+    "title": "Transportvogn / tralle / flakvogn - NIGEL",
+    "price_kr": 6000,
+    "score": 0,
+    "specs": "NIGEL-modell, plattformvogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/463170312"
+  },
+  {
+    "id": "182118787",
+    "date": "2026-07-27T15:47:38.035025",
+    "title": "Utleie av sekketralle/flyttetralle",
+    "price_kr": 50,
+    "score": 0,
+    "specs": "Sekketralle/flyttetralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/182118787"
+  },
+  {
+    "id": "471064150",
+    "date": "2026-07-27T15:47:38.035025",
+    "title": "Vogn / vedkurv",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "Vedkurv",
+    "url": "https://www.finn.no/recommerce/forsale/item/471064150"
+  },
+  {
     "id": "471027408",
     "date": "2026-07-27T12:31:51.339960",
     "title": "Hercules BS200B+ notestativer med BSC800 transportvogn",
@@ -4471,32 +4498,5 @@
     "score": 0,
     "specs": "Modelljernbaneutstyr med eske",
     "url": "https://www.finn.no/recommerce/forsale/item/452164143"
-  },
-  {
-    "id": "466020119",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Marklin 7009 luftledningsmaster H0 for M-skinner",
-    "price_kr": 230,
-    "score": 0,
-    "specs": "Modelljernbaneutstyr",
-    "url": "https://www.finn.no/recommerce/forsale/item/466020119"
-  },
-  {
-    "id": "466736940",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Forskjellige arbeidere til modelljernbane H0",
-    "price_kr": 120,
-    "score": 0,
-    "specs": "Modelljernbanefigurer",
-    "url": "https://www.finn.no/recommerce/forsale/item/466736940"
-  },
-  {
-    "id": "441692800",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "X Märklin 24612 Digital sporskifte C-skinner H0",
-    "price_kr": 885,
-    "score": 0,
-    "specs": "Modelljernbaneutstyr",
-    "url": "https://www.finn.no/recommerce/forsale/item/441692800"
   }
 ]
