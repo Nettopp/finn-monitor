@@ -1,5 +1,23 @@
 [
   {
+    "id": "350926426",
+    "date": "2026-07-28T11:24:53.754407",
+    "title": "transporttraller Tolvsrød 3 t",
+    "price_kr": 2000,
+    "score": 75,
+    "specs": "3 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/350926426"
+  },
+  {
+    "id": "471148074",
+    "date": "2026-07-28T11:24:53.754407",
+    "title": "Materialvogn Vanvikan 1 t",
+    "price_kr": 3500,
+    "score": 0,
+    "specs": "1 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/471148074"
+  },
+  {
     "id": "272592229",
     "date": "2026-07-28T07:42:55.849783",
     "title": "Kjølerom, fryserom, kjølelager, fryselager til butikk, super market",
@@ -4480,23 +4498,5 @@
     "score": 0,
     "specs": "Modelljernbanetilbehør",
     "url": "https://www.finn.no/recommerce/forsale/item/338609943"
-  },
-  {
-    "id": "335305996",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Märklin 4064.1 Sovevogn H0",
-    "price_kr": 395,
-    "score": 0,
-    "specs": "Modelljernbane H0-vogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/335305996"
-  },
-  {
-    "id": "441398788",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "6 stk Märklin 24130 buet C-skinner",
-    "price_kr": 190,
-    "score": 0,
-    "specs": "Modelljernbaneskinner",
-    "url": "https://www.finn.no/recommerce/forsale/item/441398788"
   }
 ]
