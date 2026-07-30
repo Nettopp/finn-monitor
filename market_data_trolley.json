@@ -1,5 +1,23 @@
 [
   {
+    "id": "471426247",
+    "date": "2026-07-30T18:21:50.407595",
+    "title": "Transportvogn",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "2 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/471426247"
+  },
+  {
+    "id": "303108581",
+    "date": "2026-07-30T18:21:50.407595",
+    "title": "Sekketralle LEIE",
+    "price_kr": 75,
+    "score": 0,
+    "specs": "Sekketralle, leie",
+    "url": "https://www.finn.no/recommerce/forsale/item/303108581"
+  },
+  {
     "id": "419915745",
     "date": "2026-07-30T07:38:34.353006",
     "title": "LAVAMAC LA-75 [7kg] HØYSENTRIGURERENDE PROFESJONELL VASKEMASKIN",
@@ -4480,23 +4498,5 @@
     "score": 0,
     "specs": "Modelljernbane",
     "url": "https://www.finn.no/recommerce/forsale/item/261054558"
-  },
-  {
-    "id": "239382250",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Marklin Broramper",
-    "price_kr": 125,
-    "score": 0,
-    "specs": "Modelljernbanetilbehør",
-    "url": "https://www.finn.no/recommerce/forsale/item/239382250"
-  },
-  {
-    "id": "359472639",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Märklin 4511 308.2 Silovogn",
-    "price_kr": 195,
-    "score": 0,
-    "specs": "Modelljernbane",
-    "url": "https://www.finn.no/recommerce/forsale/item/359472639"
   }
 ]
