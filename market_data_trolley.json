@@ -1,5 +1,32 @@
 [
   {
+    "id": "470115252",
+    "date": "2026-08-01T07:31:45.318181",
+    "title": "Gul jekketralle palljakk",
+    "price_kr": 1500,
+    "score": 0,
+    "specs": "",
+    "url": "https://www.finn.no/recommerce/forsale/item/470115252"
+  },
+  {
+    "id": "407456606",
+    "date": "2026-08-01T07:31:45.318181",
+    "title": "JEKKETRALLE TIL LEIE",
+    "price_kr": 350,
+    "score": 0,
+    "specs": "",
+    "url": "https://www.finn.no/recommerce/forsale/item/407456606"
+  },
+  {
+    "id": "412241855",
+    "date": "2026-08-01T07:31:45.318181",
+    "title": "Plattformvogn med kasse og svinghjul",
+    "price_kr": 3500,
+    "score": 0,
+    "specs": "med kasse og svinghjul",
+    "url": "https://www.finn.no/recommerce/forsale/item/412241855"
+  },
+  {
     "id": "471540902",
     "date": "2026-07-31T18:24:18.523325",
     "title": "Transport vogn til hage",
@@ -4471,32 +4498,5 @@
     "score": 0,
     "specs": "Meierivogn",
     "url": "https://www.finn.no/recommerce/forsale/item/418441243"
-  },
-  {
-    "id": "467971342",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Plattformvogn TRANSFER, 1 rørgavl, L1200 B800 mm, 1000 kg, elastiske massivgummi",
-    "price_kr": 2450,
-    "score": 75,
-    "specs": "Plattformvogn TRANSFER, L1200 B800 mm, 1000 kg, elastiske massivgummi, 1 rørgavl",
-    "url": "https://www.finn.no/recommerce/forsale/item/467971342"
-  },
-  {
-    "id": "444271044",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Plattformvogn 77x57,5 300kg",
-    "price_kr": 700,
-    "score": 25,
-    "specs": "77×57,5 cm, 300 kg kapasitet",
-    "url": "https://www.finn.no/recommerce/forsale/item/444271044"
-  },
-  {
-    "id": "467177081",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Svart tralle / plattformvogn med store hjul",
-    "price_kr": 1800,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/467177081"
   }
 ]
