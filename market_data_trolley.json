@@ -1,5 +1,68 @@
 [
   {
+    "id": "471724581",
+    "date": "2026-08-02T10:45:15.212787",
+    "title": "Svart tralle med nettingkasse og luftdekk",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "Luftdekk, nettingkasse",
+    "url": "https://www.finn.no/recommerce/forsale/item/471724581"
+  },
+  {
+    "id": "471700812",
+    "date": "2026-08-02T10:45:15.212787",
+    "title": "Transportvogn med gitter og drag",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "Gitter, drag, 3 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/471700812"
+  },
+  {
+    "id": "455390959",
+    "date": "2026-08-02T10:45:15.212787",
+    "title": "Tralle til leie",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/455390959"
+  },
+  {
+    "id": "471287969",
+    "date": "2026-08-02T10:45:15.212787",
+    "title": "En sammenleggbar tralle BRAUCKE",
+    "price_kr": 990,
+    "score": 0,
+    "specs": "250 kg kapasitet, sammenleggbar",
+    "url": "https://www.finn.no/recommerce/forsale/item/471287969"
+  },
+  {
+    "id": "471718287",
+    "date": "2026-08-02T10:45:15.212787",
+    "title": "Transporttralle utenbordsmotor",
+    "price_kr": 250,
+    "score": 0,
+    "specs": "Utenbordsmotor",
+    "url": "https://www.finn.no/recommerce/forsale/item/471718287"
+  },
+  {
+    "id": "471709397",
+    "date": "2026-08-02T10:45:15.212787",
+    "title": "Transport tralle",
+    "price_kr": 500,
+    "score": 40,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/471709397"
+  },
+  {
+    "id": "471700142",
+    "date": "2026-08-02T10:45:15.212787",
+    "title": "Transporttralle, utenbordsmotor",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "Utenbordsmotor",
+    "url": "https://www.finn.no/recommerce/forsale/item/471700142"
+  },
+  {
     "id": "361566199",
     "date": "2026-08-02T07:35:18.659208",
     "title": "Utleie sekketralle",
@@ -4435,68 +4498,5 @@
     "score": 0,
     "specs": "Lekevogn",
     "url": "https://www.finn.no/recommerce/forsale/item/272041220"
-  },
-  {
-    "id": "454289198",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Verktøy vogn med mye plass",
-    "price_kr": 4650,
-    "score": 35,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/454289198"
-  },
-  {
-    "id": "462851998",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Solid lagervogn / butikkvogn med 2 gitterhyller",
-    "price_kr": 1000,
-    "score": 0,
-    "specs": "2 gitterhyller",
-    "url": "https://www.finn.no/recommerce/forsale/item/462851998"
-  },
-  {
-    "id": "444687727",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Lagervogn helsveiset, montert",
-    "price_kr": 1500,
-    "score": 60,
-    "specs": "Helsveiset, montert",
-    "url": "https://www.finn.no/recommerce/forsale/item/444687727"
-  },
-  {
-    "id": "257122045",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Lamo vogn-passasjer",
-    "price_kr": 750,
-    "score": 0,
-    "specs": "Lamo vogn-passasjer",
-    "url": "https://www.finn.no/recommerce/forsale/item/257122045"
-  },
-  {
-    "id": "462533036",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Drewart Biblioteksvogn / handlekurv",
-    "price_kr": 2800,
-    "score": 0,
-    "specs": "Biblioteksvogn, handlekurv",
-    "url": "https://www.finn.no/recommerce/forsale/item/462533036"
-  },
-  {
-    "id": "462381871",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Solid lagervogn / butikkvogn med 2 gitterhyller",
-    "price_kr": 1200,
-    "score": 35,
-    "specs": "2 gitterhyller, veil. pris 5800 kr",
-    "url": "https://www.finn.no/recommerce/forsale/item/462381871"
-  },
-  {
-    "id": "415543172",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Serveringsvogn av Landmann",
-    "price_kr": 2500,
-    "score": 0,
-    "specs": "Serveringsvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/415543172"
   }
 ]
