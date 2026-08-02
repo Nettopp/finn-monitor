@@ -1,5 +1,14 @@
 [
   {
+    "id": "361566199",
+    "date": "2026-08-02T07:35:18.659208",
+    "title": "Utleie sekketralle",
+    "price_kr": 40,
+    "score": 0,
+    "specs": "Sekketralle — type og størrelse ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/361566199"
+  },
+  {
     "id": "471609169",
     "date": "2026-08-01T14:38:04.988365",
     "title": "Trappetralle selges!",
@@ -4489,14 +4498,5 @@
     "score": 0,
     "specs": "Serveringsvogn",
     "url": "https://www.finn.no/recommerce/forsale/item/415543172"
-  },
-  {
-    "id": "462145426",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Underhaug avlesservogn",
-    "price_kr": 15000,
-    "score": 0,
-    "specs": "Avlesservogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/462145426"
   }
 ]
