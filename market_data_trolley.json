@@ -1,5 +1,23 @@
 [
   {
+    "id": "471738943",
+    "date": "2026-08-02T14:39:59.001599",
+    "title": "Sekketralle leies ut",
+    "price_kr": 50,
+    "score": 0,
+    "specs": "Sekketralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/471738943"
+  },
+  {
+    "id": "471738900",
+    "date": "2026-08-02T14:39:59.001599",
+    "title": "Roco 4208 DRG 3. klasse personvogn H0 med eske",
+    "price_kr": 175,
+    "score": 0,
+    "specs": "H0 modellbane personvogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/471738900"
+  },
+  {
     "id": "471724581",
     "date": "2026-08-02T10:45:15.212787",
     "title": "Svart tralle med nettingkasse og luftdekk",
@@ -4480,23 +4498,5 @@
     "score": 55,
     "specs": "Ikke oppgitt",
     "url": "https://www.finn.no/recommerce/forsale/item/414192699"
-  },
-  {
-    "id": "463181176",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Serveringsvogn/Barnvogn/Kjøkkenvogn",
-    "price_kr": 500,
-    "score": 0,
-    "specs": "Serveringsvogn/Kjøkkenvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/463181176"
-  },
-  {
-    "id": "272041220",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "lekevogn",
-    "price_kr": 199,
-    "score": 0,
-    "specs": "Lekevogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/272041220"
   }
 ]
