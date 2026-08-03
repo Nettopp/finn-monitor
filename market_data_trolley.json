@@ -1,5 +1,77 @@
 [
   {
+    "id": "471851090",
+    "date": "2026-08-03T08:34:56.838365",
+    "title": "Transportvogn/hagetrille",
+    "price_kr": 250,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/471851090"
+  },
+  {
+    "id": "448657054",
+    "date": "2026-08-03T08:34:56.838365",
+    "title": "Arbeidsbenk - Ut benk - Oppvask kurv plass",
+    "price_kr": 11500,
+    "score": 0,
+    "specs": "Arbeidsbenk med kurv plass",
+    "url": "https://www.finn.no/recommerce/forsale/item/448657054"
+  },
+  {
+    "id": "316272964",
+    "date": "2026-08-03T08:34:56.838365",
+    "title": "SALG! SALG! Brukt bollemaskin og deigrunder",
+    "price_kr": 45000,
+    "score": 0,
+    "specs": "Bollemaskin og deigrunder",
+    "url": "https://www.finn.no/recommerce/forsale/item/316272964"
+  },
+  {
+    "id": "245745696",
+    "date": "2026-08-03T08:34:56.838365",
+    "title": "Kjølebenk med 2,3, 4 dører og kjølt brønn",
+    "price_kr": 22500,
+    "score": 0,
+    "specs": "Kjølebenk Frenox",
+    "url": "https://www.finn.no/recommerce/forsale/item/245745696"
+  },
+  {
+    "id": "193333948",
+    "date": "2026-08-03T08:34:56.838365",
+    "title": "VINSKAP for stående og liggende flasker med belysning",
+    "price_kr": 53500,
+    "score": 0,
+    "specs": "Vinskap med belysning",
+    "url": "https://www.finn.no/recommerce/forsale/item/193333948"
+  },
+  {
+    "id": "471822056",
+    "date": "2026-08-03T08:34:56.838365",
+    "title": "transportvogn sammenleggbar til hund/katt",
+    "price_kr": 1300,
+    "score": 0,
+    "specs": "Sammenleggbar transportvogn for hund/katt",
+    "url": "https://www.finn.no/recommerce/forsale/item/471822056"
+  },
+  {
+    "id": "471781136",
+    "date": "2026-08-03T08:34:56.838365",
+    "title": "Hylle Oppbevaringsvogn med tre metallkurver og låsbare hjul",
+    "price_kr": 250,
+    "score": 0,
+    "specs": "Hylle med 3 metallkurver og låsbare hjul",
+    "url": "https://www.finn.no/recommerce/forsale/item/471781136"
+  },
+  {
+    "id": "471780665",
+    "date": "2026-08-03T08:34:56.838365",
+    "title": "Barvogn",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/471780665"
+  },
+  {
     "id": "471738943",
     "date": "2026-08-02T14:39:59.001599",
     "title": "Sekketralle leies ut",
@@ -4426,77 +4498,5 @@
     "score": 0,
     "specs": "Hjul",
     "url": "https://www.finn.no/recommerce/forsale/item/464992549"
-  },
-  {
-    "id": "447132732",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Lagervogn/plukkbord",
-    "price_kr": 3000,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/447132732"
-  },
-  {
-    "id": "411534331",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "transportvogn",
-    "price_kr": 900,
-    "score": 0,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/411534331"
-  },
-  {
-    "id": "431278447",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Gipsvogner/ lagervogn",
-    "price_kr": 2800,
-    "score": 0,
-    "specs": "Gipsvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/431278447"
-  },
-  {
-    "id": "463962270",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Opplagsvogn",
-    "price_kr": 5500,
-    "score": 60,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/463962270"
-  },
-  {
-    "id": "463427175",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Gammelt Vogn Vare transport lager, næring og Gård",
-    "price_kr": 3900,
-    "score": 55,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/463427175"
-  },
-  {
-    "id": "462711756",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Metall vogn",
-    "price_kr": 1700,
-    "score": 45,
-    "specs": "Metall",
-    "url": "https://www.finn.no/recommerce/forsale/item/462711756"
-  },
-  {
-    "id": "462712089",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Vogn",
-    "price_kr": 750,
-    "score": 35,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/462712089"
-  },
-  {
-    "id": "414192699",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Gammel lagervogn",
-    "price_kr": 500,
-    "score": 55,
-    "specs": "Ikke oppgitt",
-    "url": "https://www.finn.no/recommerce/forsale/item/414192699"
   }
 ]
