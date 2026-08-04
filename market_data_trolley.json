@@ -1,5 +1,32 @@
 [
   {
+    "id": "471991254",
+    "date": "2026-08-04T11:30:12.000981",
+    "title": "Tralle",
+    "price_kr": 250,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/471991254"
+  },
+  {
+    "id": "471997418",
+    "date": "2026-08-04T11:30:12.000981",
+    "title": "Sekketralle fra Biltema",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Sekketralle fra Biltema",
+    "url": "https://www.finn.no/recommerce/forsale/item/471997418"
+  },
+  {
+    "id": "471997751",
+    "date": "2026-08-04T11:30:12.000981",
+    "title": "Transporttralle for utenbordsmotor",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "Transporttralle for utenbordsmotor, ny i eske",
+    "url": "https://www.finn.no/recommerce/forsale/item/471997751"
+  },
+  {
     "id": "471949575",
     "date": "2026-08-04T07:43:49.179679",
     "title": "Transportvogn 500 kg til leie – Hagevogn / Tralle",
@@ -4471,32 +4498,5 @@
     "score": 0,
     "specs": "Verktøyvogn",
     "url": "https://www.finn.no/recommerce/forsale/item/466621487"
-  },
-  {
-    "id": "366144381",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Dukkevogn",
-    "price_kr": 250,
-    "score": 0,
-    "specs": "Dukkevogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/366144381"
-  },
-  {
-    "id": "441761693",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Plattformvogner / traller – selges i parti",
-    "price_kr": 399,
-    "score": 65,
-    "specs": "Plattformvogner i parti",
-    "url": "https://www.finn.no/recommerce/forsale/item/441761693"
-  },
-  {
-    "id": "132932111",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Shelf lagervogn / butikkvogn / transportvogn",
-    "price_kr": 3118,
-    "score": 70,
-    "specs": "Shelf-merke, lagervogn/transportvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/132932111"
   }
 ]
