@@ -1,5 +1,32 @@
 [
   {
+    "id": "472028441",
+    "date": "2026-08-04T15:28:31.203231",
+    "title": "Nordic Cab selges for 1500 kr",
+    "price_kr": 1500,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/472028441"
+  },
+  {
+    "id": "472008126",
+    "date": "2026-08-04T15:28:31.203231",
+    "title": "Transportvogn fra Biltema",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/472008126"
+  },
+  {
+    "id": "470701477",
+    "date": "2026-08-04T15:28:31.203231",
+    "title": "IKEA trillevogn med 3 hyller beige",
+    "price_kr": 150,
+    "score": 0,
+    "specs": "3 hyller",
+    "url": "https://www.finn.no/recommerce/forsale/item/470701477"
+  },
+  {
     "id": "471991254",
     "date": "2026-08-04T11:30:12.000981",
     "title": "Tralle",
@@ -4471,32 +4498,5 @@
     "score": 0,
     "specs": "IKEA-produkt",
     "url": "https://www.finn.no/recommerce/forsale/item/467206084"
-  },
-  {
-    "id": "430220428",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Hyllevogn i rustfritt stål",
-    "price_kr": 3000,
-    "score": 60,
-    "specs": "Rustfritt stål, hyllevogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/430220428"
-  },
-  {
-    "id": "466782565",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Industriell trillevogn",
-    "price_kr": 2400,
-    "score": 55,
-    "specs": "Industriell trillevogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/466782565"
-  },
-  {
-    "id": "466621487",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Verktøyvogn",
-    "price_kr": 900,
-    "score": 0,
-    "specs": "Verktøyvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/466621487"
   }
 ]
