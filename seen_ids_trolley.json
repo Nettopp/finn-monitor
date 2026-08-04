@@ -1,29 +1,4 @@
 {
-  "408385602": {
-    "date": "2026-07-05T18:10:32.313204",
-    "title": "Plate-/garasje vogn med justerbare stolper",
-    "score": 0
-  },
-  "469012376": {
-    "date": "2026-07-05T18:10:32.313204",
-    "title": "Tralle - takler opp mot 500kg last",
-    "score": 0
-  },
-  "469014344": {
-    "date": "2026-07-05T18:10:32.313204",
-    "title": "Sekketralle med trappehjul- Til leie",
-    "score": 0
-  },
-  "468867648": {
-    "date": "2026-07-05T18:10:32.313204",
-    "title": "Seabird havkajakk",
-    "score": 0
-  },
-  "427368705": {
-    "date": "2026-07-05T18:10:32.313204",
-    "title": "Platåvogn",
-    "score": 60
-  },
   "462672522": {
     "date": "2026-07-06T09:05:29.657830",
     "title": "Zodiac bassengrobot",
@@ -1783,5 +1758,30 @@
     "date": "2026-08-04T15:28:31.203162",
     "title": "IKEA trillevogn med 3 hyller beige",
     "score": 0
+  },
+  "312627798": {
+    "date": "2026-08-04T18:42:34.424299",
+    "title": "Brus kjøleskap, dobbel kjøleskap",
+    "score": 0
+  },
+  "472039848": {
+    "date": "2026-08-04T18:42:34.424299",
+    "title": "Tralle",
+    "score": 40
+  },
+  "472057130": {
+    "date": "2026-08-04T18:42:34.424299",
+    "title": "Transporttralle, utenbordsmotor",
+    "score": 0
+  },
+  "403257140": {
+    "date": "2026-08-04T18:42:34.424299",
+    "title": "Lagervogner",
+    "score": 60
+  },
+  "408362804": {
+    "date": "2026-08-04T18:42:34.424299",
+    "title": "Industri vogn med stora bokser 50cm dype",
+    "score": 35
   }
 }

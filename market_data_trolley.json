@@ -1,5 +1,23 @@
 [
   {
+    "id": "472039848",
+    "date": "2026-08-04T18:42:34.424373",
+    "title": "Tralle",
+    "price_kr": 400,
+    "score": 40,
+    "specs": "Kapasitet 2 t, ingen dimensjoner oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/472039848"
+  },
+  {
+    "id": "472057130",
+    "date": "2026-08-04T18:42:34.424373",
+    "title": "Transporttralle, utenbordsmotor",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "50 kg, utenbordsmotor",
+    "url": "https://www.finn.no/recommerce/forsale/item/472057130"
+  },
+  {
     "id": "472028441",
     "date": "2026-08-04T15:28:31.203231",
     "title": "Nordic Cab selges for 1500 kr",
@@ -4480,23 +4498,5 @@
     "score": 0,
     "specs": "Tre metallkurver, låsbare hjul",
     "url": "https://www.finn.no/recommerce/forsale/item/467621693"
-  },
-  {
-    "id": "467287766",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Lagerhaus - hvit trillevogn / rullevogn",
-    "price_kr": 300,
-    "score": 0,
-    "specs": "50×16×73 cm",
-    "url": "https://www.finn.no/recommerce/forsale/item/467287766"
-  },
-  {
-    "id": "467206084",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Må hente IKEA",
-    "price_kr": 500,
-    "score": 0,
-    "specs": "IKEA-produkt",
-    "url": "https://www.finn.no/recommerce/forsale/item/467206084"
   }
 ]
