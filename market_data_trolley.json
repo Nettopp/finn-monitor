@@ -1,5 +1,50 @@
 [
   {
+    "id": "471949575",
+    "date": "2026-08-04T07:43:49.179679",
+    "title": "Transportvogn 500 kg til leie – Hagevogn / Tralle",
+    "price_kr": 150,
+    "score": 0,
+    "specs": "500 kg kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/471949575"
+  },
+  {
+    "id": "471936597",
+    "date": "2026-08-04T07:43:49.179679",
+    "title": "Transportvogn",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/471936597"
+  },
+  {
+    "id": "471930240",
+    "date": "2026-08-04T07:43:49.179679",
+    "title": "Trappetralle",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/471930240"
+  },
+  {
+    "id": "471907975",
+    "date": "2026-08-04T07:43:49.179679",
+    "title": "Sekketralle",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/471907975"
+  },
+  {
+    "id": "471939883",
+    "date": "2026-08-04T07:43:49.179679",
+    "title": "Oppbevarings vogn",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/471939883"
+  },
+  {
     "id": "471929767",
     "date": "2026-08-03T18:53:28.118150",
     "title": "Traktorhenger / tralle",
@@ -4453,50 +4498,5 @@
     "score": 70,
     "specs": "Shelf-merke, lagervogn/transportvogn",
     "url": "https://www.finn.no/recommerce/forsale/item/132932111"
-  },
-  {
-    "id": "360449808",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Butikktralle",
-    "price_kr": 2500,
-    "score": 0,
-    "specs": "Butikktralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/360449808"
-  },
-  {
-    "id": "466241630",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Metall burvogn på hjul",
-    "price_kr": 1000,
-    "score": 0,
-    "specs": "Metall burvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/466241630"
-  },
-  {
-    "id": "466123640",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Gammel vogn",
-    "price_kr": 1000,
-    "score": 40,
-    "specs": "Gammel vogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/466123640"
-  },
-  {
-    "id": "449114590",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Skuffevogn",
-    "price_kr": 500,
-    "score": 0,
-    "specs": "Skuffevogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/449114590"
-  },
-  {
-    "id": "449123421",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Oppbevaringsvogn/ hylle hvit med trehjul",
-    "price_kr": 450,
-    "score": 0,
-    "specs": "Trehjul, oppbevaringsvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/449123421"
   }
 ]
