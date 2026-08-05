@@ -1,5 +1,41 @@
 [
   {
+    "id": "472152449",
+    "date": "2026-08-05T15:19:55.437820",
+    "title": "Hard Head Plattformvogn 77x57,5cm. Tåler 300kg",
+    "price_kr": 1000,
+    "score": 15,
+    "specs": "77 × 57,5 cm, 300 kg kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/472152449"
+  },
+  {
+    "id": "472131060",
+    "date": "2026-08-05T15:19:55.437820",
+    "title": "BITS Cargo trailer, sykkelvogn for bagasje",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "Sykkelvogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/472131060"
+  },
+  {
+    "id": "472142680",
+    "date": "2026-08-05T15:19:55.437820",
+    "title": "Tralle 2x1 meter tåler 650 kg",
+    "price_kr": 8500,
+    "score": 0,
+    "specs": "2 × 1 meter, 650 kg kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/472142680"
+  },
+  {
+    "id": "472152074",
+    "date": "2026-08-05T15:19:55.437820",
+    "title": "Tryllevogn i metall med avtakbar kurver",
+    "price_kr": 290,
+    "score": 0,
+    "specs": "Tryllevogn med kurver",
+    "url": "https://www.finn.no/recommerce/forsale/item/472152074"
+  },
+  {
     "id": "339043666",
     "date": "2026-08-05T11:25:45.465961",
     "title": "Sekketralle Stanley Fatmax 705, 70 kg - sammenleggbar",
@@ -4462,41 +4498,5 @@
     "score": 85,
     "specs": "Justerbar akselavstand, kapasitet 3500 kg, industriell",
     "url": "https://www.finn.no/recommerce/forsale/item/212436334"
-  },
-  {
-    "id": "250959180",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Butikktralle - Lagertralle",
-    "price_kr": 1995,
-    "score": 50,
-    "specs": "Lagertralle fra AREOL INNREDNINGER",
-    "url": "https://www.finn.no/recommerce/forsale/item/250959180"
-  },
-  {
-    "id": "468473507",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Trallevogn",
-    "price_kr": 550,
-    "score": 40,
-    "specs": "Ukjent størrelse og type",
-    "url": "https://www.finn.no/recommerce/forsale/item/468473507"
-  },
-  {
-    "id": "404085169",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Robust gåvogn/oppbevaringskasse på hjul",
-    "price_kr": 390,
-    "score": 0,
-    "specs": "Gåvogn/oppbevaringskasse",
-    "url": "https://www.finn.no/recommerce/forsale/item/404085169"
-  },
-  {
-    "id": "468206086",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Grønn trillevogn / oppbevaringsvogn med trehjul",
-    "price_kr": 200,
-    "score": 0,
-    "specs": "Trehjul",
-    "url": "https://www.finn.no/recommerce/forsale/item/468206086"
   }
 ]
