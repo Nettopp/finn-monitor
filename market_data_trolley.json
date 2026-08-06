@@ -1,5 +1,50 @@
 [
   {
+    "id": "472265563",
+    "date": "2026-08-06T15:20:13.216484",
+    "title": "Nordic cab 5 in 1",
+    "price_kr": 2500,
+    "score": 0,
+    "specs": "Nordic cab 5 in 1 — ingen industriplattformvogn-spesifikasjoner",
+    "url": "https://www.finn.no/recommerce/forsale/item/472265563"
+  },
+  {
+    "id": "472260728",
+    "date": "2026-08-06T15:20:13.216484",
+    "title": "Tralle med sving på framhjul",
+    "price_kr": 2000,
+    "score": 72,
+    "specs": "Tralle med sving på framhjul — tohjulsstyring, luftfylte hjul (sannsynlig)",
+    "url": "https://www.finn.no/recommerce/forsale/item/472260728"
+  },
+  {
+    "id": "472285235",
+    "date": "2026-08-06T15:20:13.216484",
+    "title": "Gul transporttralle",
+    "price_kr": 100,
+    "score": 40,
+    "specs": "Gul transporttralle — minimal informasjon oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/472285235"
+  },
+  {
+    "id": "472025246",
+    "date": "2026-08-06T15:20:13.216484",
+    "title": "Scanvogn mannskapsvogn / brakkevogn 2000 kg",
+    "price_kr": 50000,
+    "score": 0,
+    "specs": "Mannskapsvogn/brakkevogn, 2000 kg kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/472025246"
+  },
+  {
+    "id": "472271173",
+    "date": "2026-08-06T15:20:13.216484",
+    "title": "Grønn trillevogn med 3 hyller på hjul",
+    "price_kr": 250,
+    "score": 0,
+    "specs": "Trillevogn med 3 hyller — lett oppbygging",
+    "url": "https://www.finn.no/recommerce/forsale/item/472271173"
+  },
+  {
     "id": "331087057",
     "date": "2026-08-06T07:44:43.335321",
     "title": "Sommerkupp! Rational Kombidamper 20Gn 400v",
@@ -4453,50 +4498,5 @@
     "score": 0,
     "specs": "50 kg, utenbordsmotor",
     "url": "https://www.finn.no/recommerce/forsale/item/453152065"
-  },
-  {
-    "id": "401477838",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Transporttraller",
-    "price_kr": 70,
-    "score": 40,
-    "specs": "Lite informasjon",
-    "url": "https://www.finn.no/recommerce/forsale/item/401477838"
-  },
-  {
-    "id": "464249970",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "burtralle med justerbare hjul og drag",
-    "price_kr": 1125,
-    "score": 0,
-    "specs": "Burtralle, justerbare hjul",
-    "url": "https://www.finn.no/recommerce/forsale/item/464249970"
-  },
-  {
-    "id": "407818639",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Outwell Cancun Transporter Black",
-    "price_kr": 1200,
-    "score": 0,
-    "specs": "Outwell lette transportvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/407818639"
-  },
-  {
-    "id": "463761114",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Grønn transporttralle med solide hjul",
-    "price_kr": 700,
-    "score": 60,
-    "specs": "Grønn, solide hjul",
-    "url": "https://www.finn.no/recommerce/forsale/item/463761114"
-  },
-  {
-    "id": "463355789",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Solid transporttralle / lagertralle på hjul – metallramme og treplate",
-    "price_kr": 700,
-    "score": 75,
-    "specs": "Metallramme, treplate, hjul",
-    "url": "https://www.finn.no/recommerce/forsale/item/463355789"
   }
 ]
