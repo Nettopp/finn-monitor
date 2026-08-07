@@ -1,5 +1,32 @@
 [
   {
+    "id": "412384274",
+    "date": "2026-08-07T14:15:35.182722",
+    "title": "Tralle",
+    "price_kr": 1500,
+    "score": 40,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/412384274"
+  },
+  {
+    "id": "300831629",
+    "date": "2026-08-07T14:15:35.182722",
+    "title": "Tralle leies ut",
+    "price_kr": 200,
+    "score": 40,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/300831629"
+  },
+  {
+    "id": "472395312",
+    "date": "2026-08-07T14:15:35.182722",
+    "title": "Sekketralle",
+    "price_kr": 50,
+    "score": 0,
+    "specs": "Sekketralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/472395312"
+  },
+  {
     "id": "472366955",
     "date": "2026-08-07T10:05:47.075708",
     "title": "Festool CSC SYS 50 EBI – komplett sett med 2 batterier, lader og transportvogn",
@@ -4471,32 +4498,5 @@
     "score": 0,
     "specs": "100 kg",
     "url": "https://www.finn.no/recommerce/forsale/item/426976075"
-  },
-  {
-    "id": "465491188",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Biltema sekketralle / transporttralle",
-    "price_kr": 250,
-    "score": 0,
-    "specs": "Biltema sekketralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/465491188"
-  },
-  {
-    "id": "456904660",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Barcrest Norwegian Oldtimer spilleautomat / slotmaskin",
-    "price_kr": 12000,
-    "score": 0,
-    "specs": "Spilleautomat",
-    "url": "https://www.finn.no/recommerce/forsale/item/456904660"
-  },
-  {
-    "id": "465340184",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Transporttralle, utenbordsmotor",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Utenbordsmotor",
-    "url": "https://www.finn.no/recommerce/forsale/item/465340184"
   }
 ]
