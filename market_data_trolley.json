@@ -1,5 +1,23 @@
 [
   {
+    "id": "393091297",
+    "date": "2026-08-08T13:50:08.167668",
+    "title": "Tralle til leie Oslo",
+    "price_kr": 250,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/393091297"
+  },
+  {
+    "id": "472502569",
+    "date": "2026-08-08T13:50:08.167668",
+    "title": "Sekketralle Oslo",
+    "price_kr": 250,
+    "score": 0,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/472502569"
+  },
+  {
     "id": "405414111",
     "date": "2026-08-08T09:44:15.458887",
     "title": "Transportvogn med sving på to hjul",
@@ -4480,23 +4498,5 @@
     "score": 40,
     "specs": "Ukjent type og dimensjoner",
     "url": "https://www.finn.no/recommerce/forsale/item/420871986"
-  },
-  {
-    "id": "466579282",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Outwell Cancun Transporter sammenleggbar tralle",
-    "price_kr": 1000,
-    "score": 0,
-    "specs": "Sammenleggbar camping-tralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/466579282"
-  },
-  {
-    "id": "366178536",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Transporttralle camping pent og lite brukt de siste årene",
-    "price_kr": 229,
-    "score": 0,
-    "specs": "Camping-transporttralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/366178536"
   }
 ]
