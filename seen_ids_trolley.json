@@ -1,19 +1,4 @@
 {
-  "469358658": {
-    "date": "2026-07-09T16:05:29.949650",
-    "title": "Gul transportvogn / Gassflaskevogn. Sveising!",
-    "score": 0
-  },
-  "376589038": {
-    "date": "2026-07-09T16:05:29.949650",
-    "title": "Utleie av tralle/flyttetralle/no",
-    "score": 40
-  },
-  "469357796": {
-    "date": "2026-07-09T16:05:29.949650",
-    "title": "Kraftig tralle med sving og brems",
-    "score": 65
-  },
   "468604307": {
     "date": "2026-07-10T08:28:15.283572",
     "title": "En liten handlevogn",
@@ -1853,5 +1838,10 @@
     "date": "2026-08-08T13:50:08.167602",
     "title": "Sekketralle Oslo",
     "score": 0
+  },
+  "472561900": {
+    "date": "2026-08-08T17:36:43.071823",
+    "title": "Transport tralle",
+    "score": 40
   }
 }
