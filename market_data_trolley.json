@@ -1,5 +1,23 @@
 [
   {
+    "id": "472710835",
+    "date": "2026-08-09T17:36:43.222512",
+    "title": "Bike-Tec sykkelvogn/barnevogn for 2 stk",
+    "price_kr": 450,
+    "score": 0,
+    "specs": "Sykkelvogn/barnevogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/472710835"
+  },
+  {
+    "id": "472704267",
+    "date": "2026-08-09T17:36:43.222512",
+    "title": "Starke Arvid 10600 platevogn / gipsvogn / arbeidsbord",
+    "price_kr": 5000,
+    "score": 0,
+    "specs": "500 kg kapasitet, gipsvogn/arbeidsbord",
+    "url": "https://www.finn.no/recommerce/forsale/item/472704267"
+  },
+  {
     "id": "472649450",
     "date": "2026-08-09T13:53:41.681859",
     "title": "Starke Arvid, Lyft-8, gipsvogn, transportvogn, 1500 kg og hydraulisk",
@@ -4480,23 +4498,5 @@
     "score": 0,
     "specs": "Seilejolle",
     "url": "https://www.finn.no/recommerce/forsale/item/468210216"
-  },
-  {
-    "id": "468103250",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "nybegynner kajakk (Tahe Wind Solo)",
-    "price_kr": 7500,
-    "score": 0,
-    "specs": "Kajakk",
-    "url": "https://www.finn.no/recommerce/forsale/item/468103250"
-  },
-  {
-    "id": "467795074",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Blå sekketralle / transporttralle leies ut",
-    "price_kr": 50,
-    "score": 0,
-    "specs": "Sekketralle/transporttralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/467795074"
   }
 ]

@@ -1,9 +1,4 @@
 {
-  "364339347": {
-    "date": "2026-07-10T15:35:05.749335",
-    "title": "Varebil bilutleie",
-    "score": 0
-  },
   "469486062": {
     "date": "2026-07-11T07:16:02.466083",
     "title": "Terrenggående transportvogn",
@@ -1887,6 +1882,16 @@
   "472644018": {
     "date": "2026-08-09T13:53:41.681791",
     "title": "Oppbevaringsvogn med hjul",
+    "score": 0
+  },
+  "472710835": {
+    "date": "2026-08-09T17:36:43.222446",
+    "title": "Bike-Tec sykkelvogn/barnevogn for 2 stk",
+    "score": 0
+  },
+  "472704267": {
+    "date": "2026-08-09T17:36:43.222446",
+    "title": "Starke Arvid 10600 platevogn / gipsvogn / arbeidsbord",
     "score": 0
   }
 }
