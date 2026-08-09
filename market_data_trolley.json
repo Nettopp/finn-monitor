@@ -1,5 +1,41 @@
 [
   {
+    "id": "472649450",
+    "date": "2026-08-09T13:53:41.681859",
+    "title": "Starke Arvid, Lyft-8, gipsvogn, transportvogn, 1500 kg og hydraulisk",
+    "price_kr": 9000,
+    "score": 0,
+    "specs": "1500 kg kapasitet, hydraulisk, gipsvogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/472649450"
+  },
+  {
+    "id": "472656940",
+    "date": "2026-08-09T13:53:41.681859",
+    "title": "Starke Arvid 10600 platevogn / gipsvogn / arbeidsbord",
+    "price_kr": 5000,
+    "score": 0,
+    "specs": "500 kg kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/472656940"
+  },
+  {
+    "id": "466248508",
+    "date": "2026-08-09T13:53:41.681859",
+    "title": "Story Retro Ride Sparkesykkel",
+    "price_kr": 350,
+    "score": 0,
+    "specs": "Sparkesykkel",
+    "url": "https://www.finn.no/recommerce/forsale/item/466248508"
+  },
+  {
+    "id": "472644018",
+    "date": "2026-08-09T13:53:41.681859",
+    "title": "Oppbevaringsvogn med hjul",
+    "price_kr": 120,
+    "score": 0,
+    "specs": "Oppbevaringsvogn, ukjent størrelse og kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/472644018"
+  },
+  {
     "id": "472586050",
     "date": "2026-08-09T05:51:38.948865",
     "title": "Transportvogn/tralle",
@@ -4462,41 +4498,5 @@
     "score": 0,
     "specs": "Sekketralle/transporttralle",
     "url": "https://www.finn.no/recommerce/forsale/item/467795074"
-  },
-  {
-    "id": "467689472",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Bosh GSH 27 VC professional pigghammer",
-    "price_kr": 10000,
-    "score": 0,
-    "specs": "Elektroverktøy (pigghammer)",
-    "url": "https://www.finn.no/recommerce/forsale/item/467689472"
-  },
-  {
-    "id": "467658869",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Transporttralle",
-    "price_kr": 1000,
-    "score": 40,
-    "specs": "Ukjent dimensjoner og kapasitet",
-    "url": "https://www.finn.no/recommerce/forsale/item/467658869"
-  },
-  {
-    "id": "467097258",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle",
-    "price_kr": 1500,
-    "score": 40,
-    "specs": "Ukjent type og dimensjoner",
-    "url": "https://www.finn.no/recommerce/forsale/item/467097258"
-  },
-  {
-    "id": "401523131",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Robust Stanley sekketralle 200kg",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Sekketralle, 200 kg kapasitet",
-    "url": "https://www.finn.no/recommerce/forsale/item/401523131"
   }
 ]
