@@ -1,29 +1,4 @@
 {
-  "469486062": {
-    "date": "2026-07-11T07:16:02.466083",
-    "title": "Terrenggående transportvogn",
-    "score": 45
-  },
-  "436172045": {
-    "date": "2026-07-11T07:16:02.466083",
-    "title": "Hjul med kulelager 2stk",
-    "score": 0
-  },
-  "436174669": {
-    "date": "2026-07-11T07:16:02.466083",
-    "title": "Hjul med kulelager 2stk",
-    "score": 0
-  },
-  "436176937": {
-    "date": "2026-07-11T07:16:02.466083",
-    "title": "Hjul med kulelager",
-    "score": 0
-  },
-  "469441867": {
-    "date": "2026-07-11T07:16:02.466083",
-    "title": "trappetralle",
-    "score": 0
-  },
   "468706075": {
     "date": "2026-07-11T14:24:47.002961",
     "title": "Sekketralle",
@@ -1918,5 +1893,25 @@
     "date": "2026-08-10T06:15:00.300525",
     "title": "Oppbevarings vogn med 8 skuffer",
     "score": 0
+  },
+  "472778577": {
+    "date": "2026-08-10T10:23:28.269772",
+    "title": "Trallfa tralle med fire hjul gul/grønn",
+    "score": 0
+  },
+  "338518212": {
+    "date": "2026-08-10T10:23:28.269772",
+    "title": "Utleie plate tralla",
+    "score": 40
+  },
+  "472786472": {
+    "date": "2026-08-10T10:23:28.269772",
+    "title": "Transporttralle, utenbordsmotor, 50 kg",
+    "score": 0
+  },
+  "468218068": {
+    "date": "2026-08-10T10:23:28.269772",
+    "title": "Solid transporttralle",
+    "score": 60
   }
 }

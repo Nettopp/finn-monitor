@@ -1,5 +1,41 @@
 [
   {
+    "id": "472778577",
+    "date": "2026-08-10T10:23:28.269854",
+    "title": "Trallfa tralle med fire hjul gul/grønn",
+    "price_kr": 6000,
+    "score": 0,
+    "specs": "Fire hjul, gul/grønn farge — størrelse og kapasitet ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/472778577"
+  },
+  {
+    "id": "338518212",
+    "date": "2026-08-10T10:23:28.269854",
+    "title": "Utleie plate tralla",
+    "price_kr": 200,
+    "score": 40,
+    "specs": "Platevogn — størrelse, hjultype, vekt ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/338518212"
+  },
+  {
+    "id": "472786472",
+    "date": "2026-08-10T10:23:28.269854",
+    "title": "Transporttralle, utenbordsmotor, 50 kg",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "Transporttralle med utenbordsmotor, vekt 50 kg",
+    "url": "https://www.finn.no/recommerce/forsale/item/472786472"
+  },
+  {
+    "id": "468218068",
+    "date": "2026-08-10T10:23:28.269854",
+    "title": "Solid transporttralle",
+    "price_kr": 1000,
+    "score": 60,
+    "specs": "Transporttralle beskrevet som «solid» — størrelse, hjultype, kapasitet ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/468218068"
+  },
+  {
     "id": "472738961",
     "date": "2026-08-10T06:15:00.300612",
     "title": "Tralle med stor lasteplate og luftgummihjul",
@@ -4462,41 +4498,5 @@
     "score": 0,
     "specs": "Trappetralle/sekketralle",
     "url": "https://www.finn.no/recommerce/forsale/item/401876823"
-  },
-  {
-    "id": "407655817",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Trale",
-    "price_kr": 499,
-    "score": 40,
-    "specs": "Ukjent type og dimensjoner",
-    "url": "https://www.finn.no/recommerce/forsale/item/407655817"
-  },
-  {
-    "id": "462708305",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Trappetralle - brukt 1 gang",
-    "price_kr": 799,
-    "score": 0,
-    "specs": "Trappetralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/462708305"
-  },
-  {
-    "id": "462813123",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Sekke tralle",
-    "price_kr": 500,
-    "score": 0,
-    "specs": "Sekketralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/462813123"
-  },
-  {
-    "id": "455113513",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "tralle",
-    "price_kr": 500,
-    "score": 40,
-    "specs": "Ukjent type og dimensjoner",
-    "url": "https://www.finn.no/recommerce/forsale/item/455113513"
   }
 ]
