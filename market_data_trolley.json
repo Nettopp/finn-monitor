@@ -1,5 +1,23 @@
 [
   {
+    "id": "472821661",
+    "date": "2026-08-10T14:22:43.567102",
+    "title": "Gul tralle med luftdekk",
+    "price_kr": 300,
+    "score": 0,
+    "specs": "luftdekk, størrelse ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/472821661"
+  },
+  {
+    "id": "472816275",
+    "date": "2026-08-10T14:22:43.567102",
+    "title": "Rullevogn/ trillevogn, hvit i metall og med svingbare hjul",
+    "price_kr": 200,
+    "score": 35,
+    "specs": "metall, svingbare hjul, størrelse og kapasitet ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/472816275"
+  },
+  {
     "id": "472778577",
     "date": "2026-08-10T10:23:28.269854",
     "title": "Trallfa tralle med fire hjul gul/grønn",
@@ -4480,23 +4498,5 @@
     "score": 0,
     "specs": "Elektrisk trappetralle",
     "url": "https://www.finn.no/recommerce/forsale/item/456225042"
-  },
-  {
-    "id": "455647123",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Sekketralle/ flyttetralle",
-    "price_kr": 75,
-    "score": 0,
-    "specs": "Sekketralle/flyttetralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/455647123"
-  },
-  {
-    "id": "401876823",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Trappetralle / Sekketralle leies ut",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Trappetralle/sekketralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/401876823"
   }
 ]
