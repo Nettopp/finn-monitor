@@ -1,5 +1,41 @@
 [
   {
+    "id": "472738961",
+    "date": "2026-08-10T06:15:00.300612",
+    "title": "Tralle med stor lasteplate og luftgummihjul",
+    "price_kr": 3000,
+    "score": 72,
+    "specs": "Stor lasteplate, luftgummihjul",
+    "url": "https://www.finn.no/recommerce/forsale/item/472738961"
+  },
+  {
+    "id": "472753028",
+    "date": "2026-08-10T06:15:00.300612",
+    "title": "Eldre Mjølketralle",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "Mjølketralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/472753028"
+  },
+  {
+    "id": "343782110",
+    "date": "2026-08-10T06:15:00.300612",
+    "title": "Tralle leis ut",
+    "price_kr": 100,
+    "score": 40,
+    "specs": "Ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/343782110"
+  },
+  {
+    "id": "472559051",
+    "date": "2026-08-10T06:15:00.300612",
+    "title": "Oppbevarings vogn med 8 skuffer",
+    "price_kr": 150,
+    "score": 0,
+    "specs": "8 skuffer",
+    "url": "https://www.finn.no/recommerce/forsale/item/472559051"
+  },
+  {
     "id": "472710835",
     "date": "2026-08-09T17:36:43.222512",
     "title": "Bike-Tec sykkelvogn/barnevogn for 2 stk",
@@ -4462,41 +4498,5 @@
     "score": 40,
     "specs": "Ukjent type og dimensjoner",
     "url": "https://www.finn.no/recommerce/forsale/item/455113513"
-  },
-  {
-    "id": "463126761",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle selges.",
-    "price_kr": 400,
-    "score": 40,
-    "specs": "Ukjent type og dimensjoner",
-    "url": "https://www.finn.no/recommerce/forsale/item/463126761"
-  },
-  {
-    "id": "462888635",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Blå trappetralle / sekketralle TIL UTLEIE",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Trappetralle/sekketralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/462888635"
-  },
-  {
-    "id": "468389798",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Pack-n-Roll sammenleggbar transporttralle",
-    "price_kr": 400,
-    "score": 0,
-    "specs": "Sammenleggbar transporttralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/468389798"
-  },
-  {
-    "id": "468210216",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Snipe seilejolle",
-    "price_kr": 44000,
-    "score": 0,
-    "specs": "Seilejolle",
-    "url": "https://www.finn.no/recommerce/forsale/item/468210216"
   }
 ]
