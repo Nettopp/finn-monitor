@@ -1,5 +1,14 @@
 [
   {
+    "id": "472848000",
+    "date": "2026-08-10T17:54:45.311135",
+    "title": "transportvogn",
+    "price_kr": 600,
+    "score": 40,
+    "specs": "ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/472848000"
+  },
+  {
     "id": "472821661",
     "date": "2026-08-10T14:22:43.567102",
     "title": "Gul tralle med luftdekk",
@@ -4489,14 +4498,5 @@
     "score": 50,
     "specs": "Store hjul, hjemmefabrikert",
     "url": "https://www.finn.no/recommerce/forsale/item/464017446"
-  },
-  {
-    "id": "456225042",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Elektrisk Trappetralle med belter",
-    "price_kr": 495,
-    "score": 0,
-    "specs": "Elektrisk trappetralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/456225042"
   }
 ]

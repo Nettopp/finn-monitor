@@ -1,9 +1,4 @@
 {
-  "468706075": {
-    "date": "2026-07-11T14:24:47.002961",
-    "title": "Sekketralle",
-    "score": 0
-  },
   "469528368": {
     "date": "2026-07-12T07:32:13.172550",
     "title": "Tralle",
@@ -1928,5 +1923,10 @@
     "date": "2026-08-10T14:22:43.567029",
     "title": "Rullevogn/ trillevogn, hvit i metall og med svingbare hjul",
     "score": 35
+  },
+  "472848000": {
+    "date": "2026-08-10T17:54:45.311061",
+    "title": "transportvogn",
+    "score": 40
   }
 }
