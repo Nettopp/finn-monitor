@@ -1,5 +1,41 @@
 [
   {
+    "id": "409013375",
+    "date": "2026-08-11T05:57:18.138030",
+    "title": "Air-Track springbane",
+    "price_kr": 50000,
+    "score": 0,
+    "specs": "",
+    "url": "https://www.finn.no/recommerce/forsale/item/409013375"
+  },
+  {
+    "id": "422017701",
+    "date": "2026-08-11T05:57:18.138030",
+    "title": "LEGO Technic 42030 fjernstyrt VOLVO L 350 F hjullaster",
+    "price_kr": 4990,
+    "score": 0,
+    "specs": "",
+    "url": "https://www.finn.no/recommerce/forsale/item/422017701"
+  },
+  {
+    "id": "425871217",
+    "date": "2026-08-11T05:57:18.138030",
+    "title": "Sykkeltralle",
+    "price_kr": 300,
+    "score": 0,
+    "specs": "",
+    "url": "https://www.finn.no/recommerce/forsale/item/425871217"
+  },
+  {
+    "id": "472883937",
+    "date": "2026-08-11T05:57:18.138030",
+    "title": "lager til salgs",
+    "price_kr": 5000,
+    "score": 40,
+    "specs": "",
+    "url": "https://www.finn.no/recommerce/forsale/item/472883937"
+  },
+  {
     "id": "472848000",
     "date": "2026-08-10T17:54:45.311135",
     "title": "transportvogn",
@@ -4462,41 +4498,5 @@
     "score": 0,
     "specs": "Jekketralle/pallejekk",
     "url": "https://www.finn.no/recommerce/forsale/item/465398275"
-  },
-  {
-    "id": "464430383",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Belegg tralle/utlegger",
-    "price_kr": 1500,
-    "score": 0,
-    "specs": "Belegg tralle/utlegger",
-    "url": "https://www.finn.no/recommerce/forsale/item/464430383"
-  },
-  {
-    "id": "456651614",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "UTLEIE - Sekketralle / flyttetralle",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Sekketralle/Flyttetralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/456651614"
-  },
-  {
-    "id": "463692411",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Trallfa tralle",
-    "price_kr": 1500,
-    "score": 40,
-    "specs": "Ukjent dimensjon og kapasitet",
-    "url": "https://www.finn.no/recommerce/forsale/item/463692411"
-  },
-  {
-    "id": "464017446",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle Hjemmelaget henger / aksel med store hjul",
-    "price_kr": 3400,
-    "score": 50,
-    "specs": "Store hjul, hjemmefabrikert",
-    "url": "https://www.finn.no/recommerce/forsale/item/464017446"
   }
 ]
