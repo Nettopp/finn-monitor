@@ -1,5 +1,23 @@
 [
   {
+    "id": "472932544",
+    "date": "2026-08-11T14:22:25.315091",
+    "title": "Plattformvogn 65x47 cm – 150 kg – Sammenleggbar transportvogn",
+    "price_kr": 150,
+    "score": 15,
+    "specs": "65×47 cm, 150 kg kapasitet, sammenleggbar",
+    "url": "https://www.finn.no/recommerce/forsale/item/472932544"
+  },
+  {
+    "id": "472935718",
+    "date": "2026-08-11T14:22:25.315091",
+    "title": "Trillevogn / handlevogn i metall med store hjul",
+    "price_kr": 1000,
+    "score": 0,
+    "specs": "Metall, store hjul",
+    "url": "https://www.finn.no/recommerce/forsale/item/472935718"
+  },
+  {
     "id": "409013375",
     "date": "2026-08-11T05:57:18.138030",
     "title": "Air-Track springbane",
@@ -4480,23 +4498,5 @@
     "score": 0,
     "specs": "Trappetralle",
     "url": "https://www.finn.no/recommerce/forsale/item/412781935"
-  },
-  {
-    "id": "465521863",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Sekketralle / transporttralle selges",
-    "price_kr": 300,
-    "score": 0,
-    "specs": "Sekketralle/transporttralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/465521863"
-  },
-  {
-    "id": "465398275",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Gul jekketralle / pallejekk",
-    "price_kr": 4800,
-    "score": 0,
-    "specs": "Jekketralle/pallejekk",
-    "url": "https://www.finn.no/recommerce/forsale/item/465398275"
   }
 ]
