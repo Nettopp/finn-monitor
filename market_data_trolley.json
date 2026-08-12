@@ -1,5 +1,41 @@
 [
   {
+    "id": "223045634",
+    "date": "2026-08-12T18:00:19.637563",
+    "title": "Varmebad, Bain-Marie 2,3,4,5,6 GN",
+    "price_kr": 10500,
+    "score": 0,
+    "specs": "Restaurantutstyr",
+    "url": "https://www.finn.no/recommerce/forsale/item/223045634"
+  },
+  {
+    "id": "473067369",
+    "date": "2026-08-12T18:00:19.637563",
+    "title": "Balansehjul",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "Balansehjul",
+    "url": "https://www.finn.no/recommerce/forsale/item/473067369"
+  },
+  {
+    "id": "463427175",
+    "date": "2026-08-12T18:00:19.637563",
+    "title": "Gammelt Vogn Vare transport lager, næring og Gård",
+    "price_kr": 3900,
+    "score": 60,
+    "specs": "Beskrivelse antyder transportvogn for lager/gård, men få detaljer om størrelse/konstruksjon",
+    "url": "https://www.finn.no/recommerce/forsale/item/463427175"
+  },
+  {
+    "id": "348595755",
+    "date": "2026-08-12T18:00:19.637563",
+    "title": "Industri transport vogn",
+    "price_kr": 400,
+    "score": 40,
+    "specs": "Ingen dimensjoner eller spesifikasjoner oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/348595755"
+  },
+  {
     "id": "223053623",
     "date": "2026-08-12T14:23:04.933696",
     "title": "Display Brus kjøleskap, dobbel kjøleskap",
@@ -4462,41 +4498,5 @@
     "score": 0,
     "specs": "Sekketralle",
     "url": "https://www.finn.no/recommerce/forsale/item/468424522"
-  },
-  {
-    "id": "468226838",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Sekketralle med hjul",
-    "price_kr": 250,
-    "score": 0,
-    "specs": "Sekketralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/468226838"
-  },
-  {
-    "id": "452596164",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "LEIE - Sekketralle - Flyttetralle - Tralle - til leie",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Sekketralle/Flyttetralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/452596164"
-  },
-  {
-    "id": "467535938",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Utleie trappetralle",
-    "price_kr": 150,
-    "score": 0,
-    "specs": "Trappetralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/467535938"
-  },
-  {
-    "id": "411976907",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Sekketralle til leie",
-    "price_kr": 75,
-    "score": 0,
-    "specs": "Sekketralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/411976907"
   }
 ]
