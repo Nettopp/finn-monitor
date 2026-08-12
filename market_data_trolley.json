@@ -1,5 +1,32 @@
 [
   {
+    "id": "223053623",
+    "date": "2026-08-12T14:23:04.933696",
+    "title": "Display Brus kjøleskap, dobbel kjøleskap",
+    "price_kr": 8500,
+    "score": 0,
+    "specs": "Kjøleskap",
+    "url": "https://www.finn.no/recommerce/forsale/item/223053623"
+  },
+  {
+    "id": "312629292",
+    "date": "2026-08-12T14:23:04.933696",
+    "title": "Display Frysedisk, fryseboks til butikk supermarket",
+    "price_kr": 18500,
+    "score": 0,
+    "specs": "Frysedisk for butikk",
+    "url": "https://www.finn.no/recommerce/forsale/item/312629292"
+  },
+  {
+    "id": "460501005",
+    "date": "2026-08-12T14:23:04.933696",
+    "title": "Plattformvogn",
+    "price_kr": 250,
+    "score": 40,
+    "specs": "Plattformvogn — størrelse og spesifikasjoner ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/460501005"
+  },
+  {
     "id": "408604932",
     "date": "2026-08-12T10:13:31.787862",
     "title": "Trappetralle Tjøme 1 t",
@@ -4471,32 +4498,5 @@
     "score": 0,
     "specs": "Sekketralle",
     "url": "https://www.finn.no/recommerce/forsale/item/411976907"
-  },
-  {
-    "id": "360933115",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Sekketralle (utleie)",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Sekketralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/360933115"
-  },
-  {
-    "id": "441494438",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Til leie. Sekketralle 200 kg magasintralle",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Sekketralle, 200 kg",
-    "url": "https://www.finn.no/recommerce/forsale/item/441494438"
-  },
-  {
-    "id": "466397632",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Sykkeltralle",
-    "price_kr": 500,
-    "score": 0,
-    "specs": "Sykkeltralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/466397632"
   }
 ]
