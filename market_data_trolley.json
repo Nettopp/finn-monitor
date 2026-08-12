@@ -1,5 +1,32 @@
 [
   {
+    "id": "436176551",
+    "date": "2026-08-12T06:19:52.487971",
+    "title": "Hjul med kulelager 2stk (17 cm diameter, punkteringsfri)",
+    "price_kr": 400,
+    "score": 0,
+    "specs": "2 hjul, 17 cm diameter, punkteringsfri",
+    "url": "https://www.finn.no/recommerce/forsale/item/436176551"
+  },
+  {
+    "id": "455945543",
+    "date": "2026-08-12T06:19:52.487971",
+    "title": "Transportvogn 200x100 cm med brems",
+    "price_kr": 3000,
+    "score": 75,
+    "specs": "200×100 cm plattform, med brems",
+    "url": "https://www.finn.no/recommerce/forsale/item/455945543"
+  },
+  {
+    "id": "472990605",
+    "date": "2026-08-12T06:19:52.487971",
+    "title": "Plattformvogn med treplate og blå ramme",
+    "price_kr": 1800,
+    "score": 45,
+    "specs": "Treplate, blå ramme",
+    "url": "https://www.finn.no/recommerce/forsale/item/472990605"
+  },
+  {
     "id": "472955178",
     "date": "2026-08-11T18:00:30.424429",
     "title": "Tralle",
@@ -4471,32 +4498,5 @@
     "score": 0,
     "specs": "Sekketralle",
     "url": "https://www.finn.no/recommerce/forsale/item/383303943"
-  },
-  {
-    "id": "274377127",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle leies ut",
-    "price_kr": 99,
-    "score": 40,
-    "specs": "Ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/274377127"
-  },
-  {
-    "id": "465645985",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Gammel tralle i tre og metall",
-    "price_kr": 1000,
-    "score": 60,
-    "specs": "Tre og metall konstruksjon",
-    "url": "https://www.finn.no/recommerce/forsale/item/465645985"
-  },
-  {
-    "id": "401755638",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Leier ut trappetralla",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Trappetralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/401755638"
   }
 ]
