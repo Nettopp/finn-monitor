@@ -1,5 +1,32 @@
 [
   {
+    "id": "473187711",
+    "date": "2026-08-13T18:00:15.061951",
+    "title": "Starke Arvid transport-/trillevogn – maks last 750 kg",
+    "price_kr": 2500,
+    "score": 40,
+    "specs": "Maks last 750 kg",
+    "url": "https://www.finn.no/recommerce/forsale/item/473187711"
+  },
+  {
+    "id": "473179463",
+    "date": "2026-08-13T18:00:15.061951",
+    "title": "Tranbsprtvogn",
+    "price_kr": 500,
+    "score": 40,
+    "specs": "Ingen spesifikasjoner oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/473179463"
+  },
+  {
+    "id": "473188541",
+    "date": "2026-08-13T18:00:15.061951",
+    "title": "Grønn kano med åre og tralle",
+    "price_kr": 1500,
+    "score": 0,
+    "specs": "Kano med åre og tralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/473188541"
+  },
+  {
     "id": "473156531",
     "date": "2026-08-13T14:24:46.240266",
     "title": "Jonex 53018M transportvogn tralle rød 60x110",
@@ -4471,32 +4498,5 @@
     "score": 0,
     "specs": "Ukjent",
     "url": "https://www.finn.no/recommerce/forsale/item/248824629"
-  },
-  {
-    "id": "204366269",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Trappetralle, sekketralle, trolley, tralle utleie",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/204366269"
-  },
-  {
-    "id": "423637877",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle. Gulvbelegg.",
-    "price_kr": 650,
-    "score": 0,
-    "specs": "Ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/423637877"
-  },
-  {
-    "id": "457204766",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle med nettingplate og luftgummihjul",
-    "price_kr": 1990,
-    "score": 65,
-    "specs": "Luftgummihjul, nettingplate",
-    "url": "https://www.finn.no/recommerce/forsale/item/457204766"
   }
 ]
