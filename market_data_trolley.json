@@ -1,5 +1,23 @@
 [
   {
+    "id": "473156531",
+    "date": "2026-08-13T14:24:46.240266",
+    "title": "Jonex 53018M transportvogn tralle rød 60x110",
+    "price_kr": 2000,
+    "score": 0,
+    "specs": "60×110 cm, 3 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/473156531"
+  },
+  {
+    "id": "473154864",
+    "date": "2026-08-13T14:24:46.240266",
+    "title": "Tralle med lemmer",
+    "price_kr": 7500,
+    "score": 0,
+    "specs": "650 kg kapasitet, 3 t",
+    "url": "https://www.finn.no/recommerce/forsale/item/473154864"
+  },
+  {
     "id": "473133031",
     "date": "2026-08-13T10:14:54.343916",
     "title": "Eureca - Fryser - Transportvogn",
@@ -4480,23 +4498,5 @@
     "score": 65,
     "specs": "Luftgummihjul, nettingplate",
     "url": "https://www.finn.no/recommerce/forsale/item/457204766"
-  },
-  {
-    "id": "456889555",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle",
-    "price_kr": 1000,
-    "score": 40,
-    "specs": "Ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/456889555"
-  },
-  {
-    "id": "432375405",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle leies ut",
-    "price_kr": 100,
-    "score": 40,
-    "specs": "Ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/432375405"
   }
 ]
