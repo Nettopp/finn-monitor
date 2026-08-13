@@ -1,5 +1,14 @@
 [
   {
+    "id": "473133031",
+    "date": "2026-08-13T10:14:54.343916",
+    "title": "Eureca - Fryser - Transportvogn",
+    "price_kr": 5000,
+    "score": 0,
+    "specs": "3 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/473133031"
+  },
+  {
     "id": "473126663",
     "date": "2026-08-13T06:21:18.813239",
     "title": "Båtmotortralle",
@@ -4489,14 +4498,5 @@
     "score": 40,
     "specs": "Ukjent",
     "url": "https://www.finn.no/recommerce/forsale/item/432375405"
-  },
-  {
-    "id": "35366220",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Trelastvogn / Materialvogn",
-    "price_kr": 18900,
-    "score": 70,
-    "specs": "Trelastvogn/Materialvogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/35366220"
   }
 ]
