@@ -1,5 +1,23 @@
 [
   {
+    "id": "473126663",
+    "date": "2026-08-13T06:21:18.813239",
+    "title": "Båtmotortralle",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/473126663"
+  },
+  {
+    "id": "473123671",
+    "date": "2026-08-13T06:21:18.813239",
+    "title": "Artisan, Millennium havkajakk",
+    "price_kr": 10000,
+    "score": 0,
+    "specs": "ikke oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/473123671"
+  },
+  {
     "id": "223045634",
     "date": "2026-08-12T18:00:19.637563",
     "title": "Varmebad, Bain-Marie 2,3,4,5,6 GN",
@@ -4480,23 +4498,5 @@
     "score": 70,
     "specs": "Trelastvogn/Materialvogn",
     "url": "https://www.finn.no/recommerce/forsale/item/35366220"
-  },
-  {
-    "id": "461329108",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle",
-    "price_kr": 50,
-    "score": 40,
-    "specs": "Ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/461329108"
-  },
-  {
-    "id": "468424522",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Blå tralle sekketralle",
-    "price_kr": 400,
-    "score": 0,
-    "specs": "Sekketralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/468424522"
   }
 ]
