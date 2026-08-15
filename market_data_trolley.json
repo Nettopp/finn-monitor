@@ -1,5 +1,32 @@
 [
   {
+    "id": "318347000",
+    "date": "2026-08-15T05:30:52.214641",
+    "title": "barnevogn duo/kombi",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "barnevogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/318347000"
+  },
+  {
+    "id": "473297229",
+    "date": "2026-08-15T05:30:52.214641",
+    "title": "UlfBo sammenleggbar tur- og transportvogn med tak",
+    "price_kr": 2000,
+    "score": 0,
+    "specs": "sammenleggbar tur- og transportvogn med tak",
+    "url": "https://www.finn.no/recommerce/forsale/item/473297229"
+  },
+  {
+    "id": "473327881",
+    "date": "2026-08-15T05:30:52.214641",
+    "title": "Tralle / vogn i metall på hjul",
+    "price_kr": 800,
+    "score": 45,
+    "specs": "metall, hjul — størrelse og kapasitet ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/473327881"
+  },
+  {
     "id": "325726106",
     "date": "2026-08-14T17:56:34.036108",
     "title": "Scanbox Isolert kjøling 16 geider / kjøleskap",
@@ -4471,32 +4498,5 @@
     "score": 0,
     "specs": "Sekketralle, 200 kg, utleie",
     "url": "https://www.finn.no/recommerce/forsale/item/424238458"
-  },
-  {
-    "id": "350402906",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "XXL Aluminium verksted tralle",
-    "price_kr": 2900,
-    "score": 70,
-    "specs": "XXL aluminium verkstedstralle, størrelse og kapasitet delvis ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/350402906"
-  },
-  {
-    "id": "350401993",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Utleie, Flyttevogn, flyttetralla, Tralle",
-    "price_kr": 300,
-    "score": 40,
-    "specs": "Flyttetralle, utleie, størrelse ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/350401993"
-  },
-  {
-    "id": "462779615",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "MATERIAL TRALLE",
-    "price_kr": 6000,
-    "score": 65,
-    "specs": "Materielltralle, størrelse og spesifikasjoner ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/462779615"
   }
 ]
