@@ -1,5 +1,41 @@
 [
   {
+    "id": "473373344",
+    "date": "2026-08-15T13:35:42.451395",
+    "title": "Tralle Skedsmokorset 3 t",
+    "price_kr": 100,
+    "score": 0,
+    "specs": "3 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/473373344"
+  },
+  {
+    "id": "468413529",
+    "date": "2026-08-15T13:35:42.451395",
+    "title": "Solid tralle selges",
+    "price_kr": 1450,
+    "score": 0,
+    "specs": "Ingen spesifikasjoner oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/468413529"
+  },
+  {
+    "id": "473384486",
+    "date": "2026-08-15T13:35:42.451395",
+    "title": "Tralle/plentraktorhenger",
+    "price_kr": 2500,
+    "score": 0,
+    "specs": "1 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/473384486"
+  },
+  {
+    "id": "473371564",
+    "date": "2026-08-15T13:35:42.451395",
+    "title": "2x HK Audio Polar 12 med 2x transport brett",
+    "price_kr": 15000,
+    "score": 0,
+    "specs": "Transport brett for lydutstyr",
+    "url": "https://www.finn.no/recommerce/forsale/item/473371564"
+  },
+  {
     "id": "318347000",
     "date": "2026-08-15T05:30:52.214641",
     "title": "barnevogn duo/kombi",
@@ -4462,41 +4498,5 @@
     "score": 0,
     "specs": "Sekketralle, utleie",
     "url": "https://www.finn.no/recommerce/forsale/item/290471920"
-  },
-  {
-    "id": "463419264",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle",
-    "price_kr": 150,
-    "score": 40,
-    "specs": "Tralle, type og størrelse ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/463419264"
-  },
-  {
-    "id": "265352143",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle",
-    "price_kr": 300,
-    "score": 40,
-    "specs": "Tralle, type og størrelse ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/265352143"
-  },
-  {
-    "id": "463240531",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Flasketralle",
-    "price_kr": 1500,
-    "score": 0,
-    "specs": "Flasketralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/463240531"
-  },
-  {
-    "id": "424238458",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Magasintralle / Sekketralle 200 kg",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Sekketralle, 200 kg, utleie",
-    "url": "https://www.finn.no/recommerce/forsale/item/424238458"
   }
 ]
