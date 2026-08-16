@@ -1,5 +1,32 @@
 [
   {
+    "id": "466962298",
+    "date": "2026-08-16T05:33:34.278526",
+    "title": "Bruder Claas Lexion 780 skurtresker",
+    "price_kr": 350,
+    "score": 0,
+    "specs": "Lekebil/modell",
+    "url": "https://www.finn.no/recommerce/forsale/item/466962298"
+  },
+  {
+    "id": "473427642",
+    "date": "2026-08-16T05:33:34.278526",
+    "title": "Milwaukee packout transportvogn",
+    "price_kr": 1000,
+    "score": 0,
+    "specs": "Milwaukee Packout — verktøykoffert/systemkoffert",
+    "url": "https://www.finn.no/recommerce/forsale/item/473427642"
+  },
+  {
+    "id": "473431016",
+    "date": "2026-08-16T05:33:34.278526",
+    "title": "Hilti tralle",
+    "price_kr": 4500,
+    "score": 0,
+    "specs": "Hilti verktøytralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/473431016"
+  },
+  {
     "id": "473398224",
     "date": "2026-08-15T17:26:01.752922",
     "title": "Nordic Cab 6-i-1 sykkelvogn/pulk/barnevogn rød for 2 barn",
@@ -4471,32 +4498,5 @@
     "score": 0,
     "specs": "Tralle med 4 hjul, størrelse og type ukjent",
     "url": "https://www.finn.no/recommerce/forsale/item/433403423"
-  },
-  {
-    "id": "456659126",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle for flisleggere etc",
-    "price_kr": 900,
-    "score": 40,
-    "specs": "Tralle for flisleggere, type og størrelse ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/456659126"
-  },
-  {
-    "id": "394183156",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Utleie: trappetralle",
-    "price_kr": 50,
-    "score": 0,
-    "specs": "Trappetralle, utleie",
-    "url": "https://www.finn.no/recommerce/forsale/item/394183156"
-  },
-  {
-    "id": "371563067",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Leie ut - Tralle, flyttetralle, transporttralle",
-    "price_kr": 50,
-    "score": 40,
-    "specs": "Tralle/transporttralle, utleie, størrelse ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/371563067"
   }
 ]
