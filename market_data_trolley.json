@@ -1,5 +1,32 @@
 [
   {
+    "id": "473500847",
+    "date": "2026-08-16T13:36:16.411361",
+    "title": "Hard Head transporttralle 150 kg",
+    "price_kr": 150,
+    "score": 0,
+    "specs": "150 kg kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/473500847"
+  },
+  {
+    "id": "473489067",
+    "date": "2026-08-16T13:36:16.411361",
+    "title": "Jonex transporttralle",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "3 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/473489067"
+  },
+  {
+    "id": "473486349",
+    "date": "2026-08-16T13:36:16.411361",
+    "title": "Plattformvogn sammenleggbar 150 kg",
+    "price_kr": 200,
+    "score": 15,
+    "specs": "150 kg kapasitet, sammenleggbar",
+    "url": "https://www.finn.no/recommerce/forsale/item/473486349"
+  },
+  {
     "id": "473469305",
     "date": "2026-08-16T09:33:25.358602",
     "title": "Transportvogn",
@@ -4471,32 +4498,5 @@
     "score": 0,
     "specs": "Sekketralle/trappetralle, utleie",
     "url": "https://www.finn.no/recommerce/forsale/item/292278768"
-  },
-  {
-    "id": "463025230",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Utleie av trappetralle",
-    "price_kr": 75,
-    "score": 0,
-    "specs": "Trappetralle, utleie",
-    "url": "https://www.finn.no/recommerce/forsale/item/463025230"
-  },
-  {
-    "id": "456684837",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle",
-    "price_kr": 100,
-    "score": 40,
-    "specs": "Tralle, type og størrelse ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/456684837"
-  },
-  {
-    "id": "300345585",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "tralle til leie",
-    "price_kr": 100,
-    "score": 40,
-    "specs": "Tralle, utleie, type og størrelse ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/300345585"
   }
 ]

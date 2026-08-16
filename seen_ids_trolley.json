@@ -1,9 +1,4 @@
 {
-  "455078120": {
-    "date": "2026-07-17T10:53:22.444704",
-    "title": "Togvogner til tretog (Brio/Lillabo)",
-    "score": 0
-  },
   "470019940": {
     "date": "2026-07-17T14:48:16.175678",
     "title": "Tysse varehenger",
@@ -2033,5 +2028,25 @@
     "date": "2026-08-16T09:33:25.358523",
     "title": "Trillevogn med 3 hyller",
     "score": 0
+  },
+  "473500847": {
+    "date": "2026-08-16T13:36:16.411202",
+    "title": "Hard Head transporttralle 150 kg",
+    "score": 0
+  },
+  "473489067": {
+    "date": "2026-08-16T13:36:16.411202",
+    "title": "Jonex transporttralle",
+    "score": 0
+  },
+  "446322675": {
+    "date": "2026-08-16T13:36:16.411202",
+    "title": "Bordvogn",
+    "score": 0
+  },
+  "473486349": {
+    "date": "2026-08-16T13:36:16.411202",
+    "title": "Plattformvogn sammenleggbar 150 kg",
+    "score": 15
   }
 }
