@@ -1,5 +1,32 @@
 [
   {
+    "id": "473528264",
+    "date": "2026-08-16T17:24:38.773903",
+    "title": "Odesea TX-65 vogn for påhengsmotor",
+    "price_kr": 800,
+    "score": 0,
+    "specs": "3 t kapasitet, påhengsmotor",
+    "url": "https://www.finn.no/recommerce/forsale/item/473528264"
+  },
+  {
+    "id": "473545317",
+    "date": "2026-08-16T17:24:38.773903",
+    "title": "Tretralle",
+    "price_kr": 250,
+    "score": 0,
+    "specs": "1 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/473545317"
+  },
+  {
+    "id": "410462909",
+    "date": "2026-08-16T17:24:38.773903",
+    "title": "Tralle til utlån",
+    "price_kr": 200,
+    "score": 40,
+    "specs": "Ingen spesifikasjoner oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/410462909"
+  },
+  {
     "id": "473500847",
     "date": "2026-08-16T13:36:16.411361",
     "title": "Hard Head transporttralle 150 kg",
@@ -4471,32 +4498,5 @@
     "score": 0,
     "specs": "Sekketralle, 150 kg, utleie",
     "url": "https://www.finn.no/recommerce/forsale/item/457419808"
-  },
-  {
-    "id": "327542793",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Magasintralle / sekketralle (150 kg)",
-    "price_kr": 40,
-    "score": 0,
-    "specs": "Sekketralle, 150 kg, utleie",
-    "url": "https://www.finn.no/recommerce/forsale/item/327542793"
-  },
-  {
-    "id": "438259381",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle leies ut",
-    "price_kr": 80,
-    "score": 40,
-    "specs": "Tralle, utleie, størrelse og type ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/438259381"
-  },
-  {
-    "id": "292278768",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Sekketralle, trappetralle, kombitralle",
-    "price_kr": 25,
-    "score": 0,
-    "specs": "Sekketralle/trappetralle, utleie",
-    "url": "https://www.finn.no/recommerce/forsale/item/292278768"
   }
 ]
