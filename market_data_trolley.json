@@ -1,5 +1,23 @@
 [
   {
+    "id": "473469305",
+    "date": "2026-08-16T09:33:25.358602",
+    "title": "Transportvogn",
+    "price_kr": 900,
+    "score": 0,
+    "specs": "1 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/473469305"
+  },
+  {
+    "id": "473474330",
+    "date": "2026-08-16T09:33:25.358602",
+    "title": "Trillevogn med 3 hyller",
+    "price_kr": 150,
+    "score": 0,
+    "specs": "3 hyller",
+    "url": "https://www.finn.no/recommerce/forsale/item/473474330"
+  },
+  {
     "id": "466962298",
     "date": "2026-08-16T05:33:34.278526",
     "title": "Bruder Claas Lexion 780 skurtresker",
@@ -4480,23 +4498,5 @@
     "score": 40,
     "specs": "Tralle, utleie, type og størrelse ukjent",
     "url": "https://www.finn.no/recommerce/forsale/item/300345585"
-  },
-  {
-    "id": "407607088",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Transportvogn",
-    "price_kr": 970,
-    "score": 0,
-    "specs": "Transportvogn, størrelse og spesifikasjoner ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/407607088"
-  },
-  {
-    "id": "433403423",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle med 4 hjul",
-    "price_kr": 1100,
-    "score": 0,
-    "specs": "Tralle med 4 hjul, størrelse og type ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/433403423"
   }
 ]
