@@ -1,5 +1,14 @@
 [
   {
+    "id": "473765065",
+    "date": "2026-08-18T13:47:45.258532",
+    "title": "Plattformvogn",
+    "price_kr": 1500,
+    "score": 50,
+    "specs": "1 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/473765065"
+  },
+  {
     "id": "231562485",
     "date": "2026-08-18T09:39:43.766235",
     "title": "Kjølebenk med 2 eller 3 dører Frenox BGN3-R290",
@@ -4489,14 +4498,5 @@
     "score": 45,
     "specs": "Stålhåndtak, gummihjul",
     "url": "https://www.finn.no/recommerce/forsale/item/466511705"
-  },
-  {
-    "id": "411995595",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Sekketralle/Kombitralle til leie",
-    "price_kr": 65,
-    "score": 0,
-    "specs": "Sekketralle/Kombitralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/411995595"
   }
 ]
