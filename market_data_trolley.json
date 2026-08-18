@@ -1,5 +1,41 @@
 [
   {
+    "id": "473716826",
+    "date": "2026-08-18T05:35:24.864837",
+    "title": "tralle/sekketralle",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "7 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/473716826"
+  },
+  {
+    "id": "473406887",
+    "date": "2026-08-18T05:35:24.864837",
+    "title": "Transport tralle sammenleggbar",
+    "price_kr": 400,
+    "score": 60,
+    "specs": "2 dg, sammenleggbar",
+    "url": "https://www.finn.no/recommerce/forsale/item/473406887"
+  },
+  {
+    "id": "473683656",
+    "date": "2026-08-18T05:35:24.864837",
+    "title": "Handlevogn",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "12 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/473683656"
+  },
+  {
+    "id": "473663548",
+    "date": "2026-08-18T05:35:24.864837",
+    "title": "Sykkelvogn med oppbevaring",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "14 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/473663548"
+  },
+  {
     "id": "473528264",
     "date": "2026-08-16T17:24:38.773903",
     "title": "Odesea TX-65 vogn for påhengsmotor",
@@ -4462,41 +4498,5 @@
     "score": 0,
     "specs": "Utstyr til tralletransport",
     "url": "https://www.finn.no/recommerce/forsale/item/465296777"
-  },
-  {
-    "id": "296845048",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle leis ut",
-    "price_kr": 80,
-    "score": 0,
-    "specs": "",
-    "url": "https://www.finn.no/recommerce/forsale/item/296845048"
-  },
-  {
-    "id": "465070168",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle / sekketralle",
-    "price_kr": 150,
-    "score": 0,
-    "specs": "Sekketralle, utleie",
-    "url": "https://www.finn.no/recommerce/forsale/item/465070168"
-  },
-  {
-    "id": "429905582",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Materiellvogn, tralle, vogn til materiell",
-    "price_kr": 8000,
-    "score": 60,
-    "specs": "Materiellvogn/materielltralle, størrelse og spesifikasjoner ukjent",
-    "url": "https://www.finn.no/recommerce/forsale/item/429905582"
-  },
-  {
-    "id": "457419808",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Sekketralle magasintralle 150kg",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Sekketralle, 150 kg, utleie",
-    "url": "https://www.finn.no/recommerce/forsale/item/457419808"
   }
 ]
