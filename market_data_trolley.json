@@ -1,5 +1,41 @@
 [
   {
+    "id": "231562485",
+    "date": "2026-08-18T09:39:43.766235",
+    "title": "Kjølebenk med 2 eller 3 dører Frenox BGN3-R290",
+    "price_kr": 18500,
+    "score": 0,
+    "specs": "Kjølebenk",
+    "url": "https://www.finn.no/recommerce/forsale/item/231562485"
+  },
+  {
+    "id": "223161988",
+    "date": "2026-08-18T09:39:43.766235",
+    "title": "Isolert varmeskap, heveskap, raskeskap",
+    "price_kr": 17500,
+    "score": 0,
+    "specs": "Varmeskap",
+    "url": "https://www.finn.no/recommerce/forsale/item/223161988"
+  },
+  {
+    "id": "473730118",
+    "date": "2026-08-18T09:39:43.766235",
+    "title": "Tralle med gitterbunn og luftgummihjul",
+    "price_kr": 1200,
+    "score": 0,
+    "specs": "Gitterbunn, luftgummihjul",
+    "url": "https://www.finn.no/recommerce/forsale/item/473730118"
+  },
+  {
+    "id": "473735538",
+    "date": "2026-08-18T09:39:43.766235",
+    "title": "RS Feva XL seiljolle",
+    "price_kr": 25000,
+    "score": 0,
+    "specs": "Seiljolle",
+    "url": "https://www.finn.no/recommerce/forsale/item/473735538"
+  },
+  {
     "id": "473716826",
     "date": "2026-08-18T05:35:24.864837",
     "title": "tralle/sekketralle",
@@ -4462,41 +4498,5 @@
     "score": 0,
     "specs": "Sekketralle/Kombitralle",
     "url": "https://www.finn.no/recommerce/forsale/item/411995595"
-  },
-  {
-    "id": "466118084",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "UTLEIE  tralle",
-    "price_kr": 250,
-    "score": 0,
-    "specs": "",
-    "url": "https://www.finn.no/recommerce/forsale/item/466118084"
-  },
-  {
-    "id": "466057215",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Trallfa tralle",
-    "price_kr": 1500,
-    "score": 50,
-    "specs": "Trallfa tralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/466057215"
-  },
-  {
-    "id": "411344873",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle Leies ut ( Kan leveres )",
-    "price_kr": 80,
-    "score": 0,
-    "specs": "Kan leveres",
-    "url": "https://www.finn.no/recommerce/forsale/item/411344873"
-  },
-  {
-    "id": "465296777",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Utstyr til tralletransport",
-    "price_kr": 1500,
-    "score": 0,
-    "specs": "Utstyr til tralletransport",
-    "url": "https://www.finn.no/recommerce/forsale/item/465296777"
   }
 ]
