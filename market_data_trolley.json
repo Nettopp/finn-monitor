@@ -1,5 +1,23 @@
 [
   {
+    "id": "473785331",
+    "date": "2026-08-18T17:32:46.083131",
+    "title": "Tralle sekketralle Til Leie- Trailer For Rent",
+    "price_kr": 60,
+    "score": 0,
+    "specs": "Sekketralle, leievogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/473785331"
+  },
+  {
+    "id": "473783262",
+    "date": "2026-08-18T17:32:46.083131",
+    "title": "Tralle 250 kg",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "250 kg kapasitet — for lett",
+    "url": "https://www.finn.no/recommerce/forsale/item/473783262"
+  },
+  {
     "id": "473765065",
     "date": "2026-08-18T13:47:45.258532",
     "title": "Plattformvogn",
@@ -4480,23 +4498,5 @@
     "score": 0,
     "specs": "Flytte-tralle",
     "url": "https://www.finn.no/recommerce/forsale/item/316959261"
-  },
-  {
-    "id": "466697754",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "lastetralle. handlekurv. godstransport manipulator",
-    "price_kr": 250,
-    "score": 40,
-    "specs": "Handlekurv, godstransportmanipulator",
-    "url": "https://www.finn.no/recommerce/forsale/item/466697754"
-  },
-  {
-    "id": "466511705",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle med stålhåndtak og gummihjul",
-    "price_kr": 2500,
-    "score": 45,
-    "specs": "Stålhåndtak, gummihjul",
-    "url": "https://www.finn.no/recommerce/forsale/item/466511705"
   }
 ]
