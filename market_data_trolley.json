@@ -1,5 +1,32 @@
 [
   {
+    "id": "473821625",
+    "date": "2026-08-19T05:36:21.835583",
+    "title": "Barnevogn, sykkelvogn og transportvogn",
+    "price_kr": 1500,
+    "score": 0,
+    "specs": "Ikke spesifisert",
+    "url": "https://www.finn.no/recommerce/forsale/item/473821625"
+  },
+  {
+    "id": "471757918",
+    "date": "2026-08-19T05:36:21.835583",
+    "title": "TRANSPORTVOGN 1500 x 750 MM",
+    "price_kr": 900,
+    "score": 0,
+    "specs": "1500 × 750 mm plattform",
+    "url": "https://www.finn.no/recommerce/forsale/item/471757918"
+  },
+  {
+    "id": "473810963",
+    "date": "2026-08-19T05:36:21.835583",
+    "title": "Kemppi MasterTig MLS 2300 ACDC FULL TIG-PAKKE",
+    "price_kr": 37500,
+    "score": 0,
+    "specs": "Sveiseutstyr (TIG-maskin)",
+    "url": "https://www.finn.no/recommerce/forsale/item/473810963"
+  },
+  {
     "id": "473785331",
     "date": "2026-08-18T17:32:46.083131",
     "title": "Tralle sekketralle Til Leie- Trailer For Rent",
@@ -4471,32 +4498,5 @@
     "score": 0,
     "specs": "",
     "url": "https://www.finn.no/recommerce/forsale/item/166248759"
-  },
-  {
-    "id": "400732247",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Tralle til leie",
-    "price_kr": 50,
-    "score": 0,
-    "specs": "",
-    "url": "https://www.finn.no/recommerce/forsale/item/400732247"
-  },
-  {
-    "id": "264229493",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Trappetralle leies ut",
-    "price_kr": 100,
-    "score": 0,
-    "specs": "Trappetralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/264229493"
-  },
-  {
-    "id": "316959261",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Flytte- tralle leies ut",
-    "price_kr": 75,
-    "score": 0,
-    "specs": "Flytte-tralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/316959261"
   }
 ]
