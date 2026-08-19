@@ -1,5 +1,14 @@
 [
   {
+    "id": "423052194",
+    "date": "2026-08-19T17:31:42.864222",
+    "title": "Rustfritt trillevogn",
+    "price_kr": 999,
+    "score": 0,
+    "specs": "2 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/423052194"
+  },
+  {
     "id": "459147873",
     "date": "2026-08-19T13:49:49.045746",
     "title": "Bordtraller på hjul – perfekt til event / lager – billig",
@@ -4489,14 +4498,5 @@
     "score": 0,
     "specs": "150 kg kapasitet",
     "url": "https://www.finn.no/recommerce/forsale/item/387375919"
-  },
-  {
-    "id": "468133536",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Sekketralle til utleie",
-    "price_kr": 50,
-    "score": 0,
-    "specs": "Sekketralle",
-    "url": "https://www.finn.no/recommerce/forsale/item/468133536"
   }
 ]
