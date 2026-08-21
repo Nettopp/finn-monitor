@@ -1,5 +1,50 @@
 [
   {
+    "id": "473649867",
+    "date": "2026-08-21T05:38:30.758059",
+    "title": "Tippbar transportvogn",
+    "price_kr": 1000,
+    "score": 60,
+    "specs": "Tippbar, 8 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/473649867"
+  },
+  {
+    "id": "474028929",
+    "date": "2026-08-21T05:38:30.758059",
+    "title": "Nordic Cab sykkelvogn med mye tilbehør",
+    "price_kr": 1000,
+    "score": 0,
+    "specs": "Sykkelvogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/474028929"
+  },
+  {
+    "id": "474041873",
+    "date": "2026-08-21T05:38:30.758059",
+    "title": "Platetralle / Gipstralle",
+    "price_kr": 2000,
+    "score": 0,
+    "specs": "Gipstralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/474041873"
+  },
+  {
+    "id": "474042357",
+    "date": "2026-08-21T05:38:30.758059",
+    "title": "Sekketralle",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "Sekketralle",
+    "url": "https://www.finn.no/recommerce/forsale/item/474042357"
+  },
+  {
+    "id": "474048359",
+    "date": "2026-08-21T05:38:30.758059",
+    "title": "Gammel IKEA FRAKTA transporttralle",
+    "price_kr": 200,
+    "score": 0,
+    "specs": "IKEA FRAKTA",
+    "url": "https://www.finn.no/recommerce/forsale/item/474048359"
+  },
+  {
     "id": "474025858",
     "date": "2026-08-20T17:35:51.606777",
     "title": "Claas Lexion 770 leketresker med skjærebord og vogn",
@@ -4453,50 +4498,5 @@
     "score": 0,
     "specs": "GN 18 — Gastronorm-størrelse (325×530 mm)",
     "url": "https://www.finn.no/recommerce/forsale/item/420762015"
-  },
-  {
-    "id": "456202434",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Montone Scenepakke 6 x 2 Meter Inkl Vogn, Skjørt og Trapp",
-    "price_kr": 44990,
-    "score": 0,
-    "specs": "Scenepakke 6×2 m med vogn",
-    "url": "https://www.finn.no/recommerce/forsale/item/456202434"
-  },
-  {
-    "id": "466718486",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Gaumman aluminium kano",
-    "price_kr": 8550,
-    "score": 0,
-    "specs": "Aluminium kano",
-    "url": "https://www.finn.no/recommerce/forsale/item/466718486"
-  },
-  {
-    "id": "329975532",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Kjølebenk med 2 eller 3 dører Frenox BGN3-R290",
-    "price_kr": 18500,
-    "score": 0,
-    "specs": "Kjølebenk Frenox BGN3-R290",
-    "url": "https://www.finn.no/recommerce/forsale/item/329975532"
-  },
-  {
-    "id": "308996090",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Kjølebenk, frysebenk",
-    "price_kr": 34500,
-    "score": 0,
-    "specs": "Kjølebenk/frysebenk",
-    "url": "https://www.finn.no/recommerce/forsale/item/308996090"
-  },
-  {
-    "id": "312631402",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Frysedisk, fryseboks",
-    "price_kr": 21500,
-    "score": 0,
-    "specs": "",
-    "url": "https://www.finn.no/recommerce/forsale/item/312631402"
   }
 ]
