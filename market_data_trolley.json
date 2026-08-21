@@ -1,5 +1,50 @@
 [
   {
+    "id": "474110859",
+    "date": "2026-08-21T13:50:53.996267",
+    "title": "Bordvogn med ett håndtak, 2 hyller",
+    "price_kr": 1740,
+    "score": 0,
+    "specs": "2 hyller, håndtak",
+    "url": "https://www.finn.no/recommerce/forsale/item/474110859"
+  },
+  {
+    "id": "474110851",
+    "date": "2026-08-21T13:50:53.996267",
+    "title": "Pakkevogn 300, høye gavler - plass til mye",
+    "price_kr": 6615,
+    "score": 35,
+    "specs": "høye gavler, lukket design",
+    "url": "https://www.finn.no/recommerce/forsale/item/474110851"
+  },
+  {
+    "id": "474110694",
+    "date": "2026-08-21T13:50:53.996267",
+    "title": "Hyllevogn 300, 2 hyller - stabil for tung last",
+    "price_kr": 3454,
+    "score": 25,
+    "specs": "2 hyller, for tung last",
+    "url": "https://www.finn.no/recommerce/forsale/item/474110694"
+  },
+  {
+    "id": "474111658",
+    "date": "2026-08-21T13:50:53.996267",
+    "title": "Sparkevogn 87 - enkel lastevogn",
+    "price_kr": 5434,
+    "score": 45,
+    "specs": "modell 87, manuell sparkevogn",
+    "url": "https://www.finn.no/recommerce/forsale/item/474111658"
+  },
+  {
+    "id": "474110771",
+    "date": "2026-08-21T13:50:53.996267",
+    "title": "Platevogn 200, vannrett håndtak - vender lett",
+    "price_kr": 3094,
+    "score": 68,
+    "specs": "200 (lengde?), vannrett håndtak, lett å vende",
+    "url": "https://www.finn.no/recommerce/forsale/item/474110771"
+  },
+  {
     "id": "473649867",
     "date": "2026-08-21T05:38:30.758059",
     "title": "Tippbar transportvogn",
@@ -4453,50 +4498,5 @@
     "score": 0,
     "specs": "Kjølesystem",
     "url": "https://www.finn.no/recommerce/forsale/item/312773551"
-  },
-  {
-    "id": "339191720",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "RUSTFRI BENK - 2-3-4 SKUFFER - ARBEIDSBENK",
-    "price_kr": 6200,
-    "score": 0,
-    "specs": "Rustfri arbeidsbenk",
-    "url": "https://www.finn.no/recommerce/forsale/item/339191720"
-  },
-  {
-    "id": "330009511",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Display, kjøle vitrine, kakedisk",
-    "price_kr": 25500,
-    "score": 0,
-    "specs": "Kjøleutstyr",
-    "url": "https://www.finn.no/recommerce/forsale/item/330009511"
-  },
-  {
-    "id": "211747475",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Blastchiller, for rask nedfrysning, nedkjøling",
-    "price_kr": 285500,
-    "score": 0,
-    "specs": "Blastchiller",
-    "url": "https://www.finn.no/recommerce/forsale/item/211747475"
-  },
-  {
-    "id": "384531356",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Frysedisk, fryseboks",
-    "price_kr": 21500,
-    "score": 0,
-    "specs": "Frysedisk",
-    "url": "https://www.finn.no/recommerce/forsale/item/384531356"
-  },
-  {
-    "id": "420762015",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Transportvogn GN 18",
-    "price_kr": 2800,
-    "score": 0,
-    "specs": "GN 18 — Gastronorm-størrelse (325×530 mm)",
-    "url": "https://www.finn.no/recommerce/forsale/item/420762015"
   }
 ]

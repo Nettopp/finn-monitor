@@ -1,14 +1,4 @@
 {
-  "470488526": {
-    "date": "2026-07-22T11:14:03.926767",
-    "title": "metallvogn på hjul med tre hyller IKEA",
-    "score": 0
-  },
-  "470488169": {
-    "date": "2026-07-22T11:14:03.926767",
-    "title": "Vogn",
-    "score": 40
-  },
   "410000997": {
     "date": "2026-07-22T15:08:54.123679",
     "title": "Treppetralle",
@@ -2143,5 +2133,30 @@
     "date": "2026-08-21T09:43:11.942275",
     "title": "Plukktralle Hvalstad",
     "score": 0
+  },
+  "474110859": {
+    "date": "2026-08-21T13:50:53.996199",
+    "title": "Bordvogn med ett håndtak, 2 hyller",
+    "score": 0
+  },
+  "474110851": {
+    "date": "2026-08-21T13:50:53.996199",
+    "title": "Pakkevogn 300, høye gavler - plass til mye",
+    "score": 35
+  },
+  "474110694": {
+    "date": "2026-08-21T13:50:53.996199",
+    "title": "Hyllevogn 300, 2 hyller - stabil for tung last",
+    "score": 25
+  },
+  "474111658": {
+    "date": "2026-08-21T13:50:53.996199",
+    "title": "Sparkevogn 87 - enkel lastevogn",
+    "score": 45
+  },
+  "474110771": {
+    "date": "2026-08-21T13:50:53.996199",
+    "title": "Platevogn 200, vannrett håndtak - vender lett",
+    "score": 68
   }
 }
