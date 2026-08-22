@@ -1,5 +1,32 @@
 [
   {
+    "id": "474194860",
+    "date": "2026-08-22T13:36:40.601357",
+    "title": "Løftetralle til utleie",
+    "price_kr": 50,
+    "score": 0,
+    "specs": "3 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/474194860"
+  },
+  {
+    "id": "474195079",
+    "date": "2026-08-22T13:36:40.601357",
+    "title": "Transporttralle",
+    "price_kr": 500,
+    "score": 0,
+    "specs": "3 t kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/474195079"
+  },
+  {
+    "id": "463962270",
+    "date": "2026-08-22T13:36:40.601357",
+    "title": "Opplagsvogn",
+    "price_kr": 7000,
+    "score": 65,
+    "specs": "Ingen dimensjoner oppgitt",
+    "url": "https://www.finn.no/recommerce/forsale/item/463962270"
+  },
+  {
     "id": "474139530",
     "date": "2026-08-22T05:32:54.857237",
     "title": "Sammenleggbar tralle",
@@ -4471,32 +4498,5 @@
     "score": 0,
     "specs": "Hamburger maskin",
     "url": "https://www.finn.no/recommerce/forsale/item/339189079"
-  },
-  {
-    "id": "333875479",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "VINSKAP for stående og liggende flasker med belysning",
-    "price_kr": 53500,
-    "score": 0,
-    "specs": "Vinskap",
-    "url": "https://www.finn.no/recommerce/forsale/item/333875479"
-  },
-  {
-    "id": "241503584",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Fettutskiller til små og store bedrifter",
-    "price_kr": 22500,
-    "score": 0,
-    "specs": "Fettutskiller",
-    "url": "https://www.finn.no/recommerce/forsale/item/241503584"
-  },
-  {
-    "id": "244451104",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "IDEAL Pizzaovn 1, 2 eller 3 etg",
-    "price_kr": 46500,
-    "score": 0,
-    "specs": "Pizzaovn",
-    "url": "https://www.finn.no/recommerce/forsale/item/244451104"
   }
 ]
