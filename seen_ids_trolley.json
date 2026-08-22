@@ -1,19 +1,4 @@
 {
-  "470599928": {
-    "date": "2026-07-23T15:15:30.740816",
-    "title": "Hard Head transportvogn med tipp og punkteringsfrie hjul",
-    "score": 35
-  },
-  "398119878": {
-    "date": "2026-07-23T15:15:30.740816",
-    "title": "Sammenleggbar tralle til lagring og transport",
-    "score": 0
-  },
-  "470604379": {
-    "date": "2026-07-23T15:15:30.740816",
-    "title": "Verktøyvogn",
-    "score": 0
-  },
   "470624883": {
     "date": "2026-07-23T18:17:24.002863",
     "title": "Transporttralle påhengsmotor",
@@ -2113,5 +2098,30 @@
     "date": "2026-08-22T13:36:40.601293",
     "title": "Opplagsvogn",
     "score": 65
+  },
+  "474241486": {
+    "date": "2026-08-22T17:27:00.555283",
+    "title": "Ny sekketralle 200kg",
+    "score": 0
+  },
+  "393773513": {
+    "date": "2026-08-22T17:27:00.555283",
+    "title": "SEKKETRALLE",
+    "score": 0
+  },
+  "474248115": {
+    "date": "2026-08-22T17:27:00.555283",
+    "title": "Solid transporttralle i metall med hjul og brems",
+    "score": 45
+  },
+  "470566494": {
+    "date": "2026-08-22T17:27:00.555283",
+    "title": "Würth sammenleggbar sekketralle / transporttralle",
+    "score": 0
+  },
+  "411702133": {
+    "date": "2026-08-22T17:27:00.555283",
+    "title": "Tralle",
+    "score": 40
   }
 }

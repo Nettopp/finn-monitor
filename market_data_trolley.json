@@ -1,5 +1,23 @@
 [
   {
+    "id": "474241486",
+    "date": "2026-08-22T17:27:00.555373",
+    "title": "Ny sekketralle 200kg",
+    "price_kr": 399,
+    "score": 0,
+    "specs": "200 kg kapasitet",
+    "url": "https://www.finn.no/recommerce/forsale/item/474241486"
+  },
+  {
+    "id": "474248115",
+    "date": "2026-08-22T17:27:00.555373",
+    "title": "Solid transporttralle i metall med hjul og brems",
+    "price_kr": 250,
+    "score": 45,
+    "specs": "Metall, hjul og brems — størrelse ukjent",
+    "url": "https://www.finn.no/recommerce/forsale/item/474248115"
+  },
+  {
     "id": "474194860",
     "date": "2026-08-22T13:36:40.601357",
     "title": "Løftetralle til utleie",
@@ -4480,23 +4498,5 @@
     "score": 0,
     "specs": "Pizzaovn, 2 etasjer, 3000W",
     "url": "https://www.finn.no/recommerce/forsale/item/459828197"
-  },
-  {
-    "id": "339049590",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Sekketralle Stanley Fatmax 706",
-    "price_kr": 2050,
-    "score": 0,
-    "specs": "Stanley Fatmax 706, 125 kg, sammenleggbar",
-    "url": "https://www.finn.no/recommerce/forsale/item/339049590"
-  },
-  {
-    "id": "339189079",
-    "date": "2026-06-30T09:01:10.579509",
-    "title": "Hamburger maskin, presser",
-    "price_kr": 195000,
-    "score": 0,
-    "specs": "Hamburger maskin",
-    "url": "https://www.finn.no/recommerce/forsale/item/339189079"
   }
 ]
